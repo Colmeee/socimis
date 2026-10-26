@@ -1,0 +1,151 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "PROMOCIONES AZARBE, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05558_OtraInfRelev_20260707.pdf",
+   "huella": "1c31307c939ec51421cc45ba525866744499cf2ba81c0bb1dde6be0bd8c41ace",
+   "pct_directo": 46.37,
+   "pct_indirecto": null,
+   "pct_total": 46.37,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "D. VICENTE GARCÍA TORRES (*)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05558_OtraInfRelev_20260707.pdf",
+   "huella": "1c31307c939ec51421cc45ba525866744499cf2ba81c0bb1dde6be0bd8c41ace",
+   "pct_directo": null,
+   "pct_indirecto": 13.1,
+   "pct_total": 42.2,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "DÑA. MARÍA ISABEL GARCÍA PERALTA (**)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05558_OtraInfRelev_20260707.pdf",
+   "huella": "1c31307c939ec51421cc45ba525866744499cf2ba81c0bb1dde6be0bd8c41ace",
+   "pct_directo": null,
+   "pct_indirecto": 13.1,
+   "pct_total": 2.09,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "D. ANTONIO GARCÍA PERALTA (***)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05558_OtraInfRelev_20260707.pdf",
+   "huella": "1c31307c939ec51421cc45ba525866744499cf2ba81c0bb1dde6be0bd8c41ace",
+   "pct_directo": null,
+   "pct_indirecto": 13.1,
+   "pct_total": 2.09,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "DÑA. MARÍA ISABEL PERALTA BELENGER",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05558_OtraInfRelev_20260707.pdf",
+   "huella": "1c31307c939ec51421cc45ba525866744499cf2ba81c0bb1dde6be0bd8c41ace",
+   "pct_directo": null,
+   "pct_indirecto": 5.24,
+   "pct_total": 5.24,
+   "tipo": "fisica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 2959980,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-23",
+   "huella": "4c9d897db84338ef1d450f5da2f4e8ca3941ca6f43c84bb2fa4ef64228635b80",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05558_OtraInfRelev_20260423.pdf"
+  },
+  {
+   "bytes": 195213,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "1c31307c939ec51421cc45ba525866744499cf2ba81c0bb1dde6be0bd8c41ace",
+   "tipo": "participaciones",
+   "titulo": "Participaciones Significativas a 30.06.2026 Inbest Prime VIII Inmuebles Socimi, S.A. (190 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05558_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 2308423,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "41b8573cd3374da620f7c7a0564c7c2db96c4a43ca52eb92afee9ac0c4828d54",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05558_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 134141,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-30",
+   "huella": "b9f7d51c3fc96aabb05db40e44ba2288bf4e3375c0a85497cad3b392feeb22c5",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos al 31 de diciembre de 2025 (130 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05558_OtraInfRelev_20260330_1.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 25410000,
+  "cotizacion": 1.1,
+  "domicilio": "VELAZQUEZ 86, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105558003",
+  "mercado": "BME MTF Equity",
+  "nif": "A02812501",
+  "nombre": "INBEST PRIME VIII INMUEBLES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YINB8",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-prime-viii-inmuebles-socimi-s-a-es0105558003.html",
+  "web": "http://www.inbestprimeviiiinmuebles.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3100863,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-23",
+   "huella": "01633acca4d8fa41f6ea4c43bf0ca6d475f597be177c0ed383a29c2e3c5bc0be",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05556_OtraInfRelev_20260423_1.pdf"
+  },
+  {
+   "bytes": 83947,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-03-31",
+   "huella": "69777eaca059981b66fa66cf0aabba9a2529eb73c35492d2015682f4d0be0bfc",
+   "tipo": "dividendo",
+   "titulo": "Pago dividendo extraordinario (81 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/03/05556_OtraInfRelev_20250331_1.pdf"
+  },
+  {
+   "bytes": 107301,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "98a63ce2340f137daae81ea2b023120f76efebc760e244ecfd2f31b3a7a49bad",
+   "tipo": "participaciones",
+   "titulo": "Participaciones Significativas a 30.06.2026 Inbest Prime VI Inmuebles Socimi, S.A. (104 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05556_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 2245038,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "437b025d23a9729d795255242813b9f1099c20de46eb20355439f7e1377010d5",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05556_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 134257,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-30",
+   "huella": "9324f8f12d4550f3ea4cf3ab15df185a43c1dedd88c9579e0865c1a6b9fb4fe2",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos al 31 de diciembre de 2025 (131 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05556_OtraInfRelev_20260330_1.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 40483500,
+  "cotizacion": 0.985,
+  "domicilio": "VELAZQUEZ 86, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105556007",
+  "mercado": "BME MTF Equity",
+  "nif": "A88427109",
+  "nombre": "INBEST PRIME VI INMUEBLES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YINB6",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-prime-vi-inmuebles-socimi-s-a-es0105556007.html",
+  "web": "http://www.inbestprimeviinmuebles.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

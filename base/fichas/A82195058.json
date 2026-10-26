@@ -1,0 +1,246 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2025: no encontrado: ingresos_rentas",
+  "cuentas 2025: no encontrado: cifra_negocios",
+  "cuentas 2025: no encontrado: variacion_valor_razonable"
+ ],
+ "documentos": [
+  {
+   "bytes": 16136300,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-24",
+   "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (15 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf"
+  },
+  {
+   "bytes": 153563,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-24",
+   "huella": "83f5b4e277f495fc9d81e7f45bc816aa3d73f40fc69fe41ff8aa1f0d92fa885a",
+   "tipo": "dividendo",
+   "titulo": "Propuesta pago dividendo a cuenta del ejercicio 2026 (149 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05120_OtraInfRelev_20260624.pdf"
+  },
+  {
+   "bytes": 186834,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-02",
+   "huella": "b2b618263b575f24f99e20b62aaa150f0e5c5403ef6c68580ab6c019eb644865",
+   "tipo": "participaciones",
+   "titulo": "INVERSIONES DOALCA, SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05120_OtraInfRelev_20260702_1.pdf"
+  },
+  {
+   "bytes": 7084929,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-09-30",
+   "huella": "a3ccc57ba15795d22b936ad4eae0a711c062b64c8d4dbcb46d9e19514771cddc",
+   "tipo": "semestral",
+   "titulo": "INVERSIONES DOALCA, SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05120_OtraInfRelev_20260930.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 43086916.72
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 4154122.24
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 3781990.62
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5868860.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 236.3
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 34750150.89
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1018687.22
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3135435.02
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7464545.19
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 372131.62
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05120_OtraInfRelev_20260324.pdf",
+    "huella": "8512feadeee323865c7a78e47741708b69ee75cd51243035232af8f3c69daf8b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1600448.99
+   }
+  },
+  "2026": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-24",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05120_OtraInfRelev_20260624.pdf",
+    "huella": "83f5b4e277f495fc9d81e7f45bc816aa3d73f40fc69fe41ff8aa1f0d92fa885a",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.3445
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 26.8,
+  "domicilio": "CL/ SAN BERNARDO 123, 28015 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105120002",
+  "mercado": "BME MTF Equity",
+  "nif": "A82195058",
+  "nombre": "INVERSIONES DOALCA, SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YDOA",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.inversiones-doalca-socimi-s-a-es0105120002.html",
+  "web": "http://www.doalca.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A82195058-cuentas_anuales-2026-03-24.txt",
+    "linea": "C/ Príncipe de Vergara, 109. Edificio completo. Fecha de adquisición 31 de",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A82195058-cuentas_anuales-2026-03-24.txt",
+    "linea": "de Príncipe de Vergara, 109, así como el inicio de la imputación por reforma del",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A82195058-semestral-2026-09-30.txt",
+    "linea": "Príncipe de Vergara, 109; San Bernardo, 123; y Magallanes, 3.",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A82195058-semestral-2026-09-30.txt",
+    "linea": "calle Príncipe de Vergara, 109, y otras nuevas inversiones.",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

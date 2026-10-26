@@ -1,0 +1,62 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "dividendo: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 23728388,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-09-11",
+   "huella": "266bf1a3e08ef4f83d95ddb757c8786f532eae5fb478f54749927d8f1e5d1221",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera intermedia a 30 de junio de 2026 (22 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05407_OtraInfRelev_20260911_4.pdf"
+  },
+  {
+   "bytes": 113497,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-06",
+   "huella": "dd3aed00db46a0e1dc576e7010145fc09c1ec18a5e797f99c4f3934c283437f1",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (110 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05407_OtraInfRelev_20260706.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 1.83,
+  "domicilio": "VELÁZQUEZ 47, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105407003",
+  "mercado": "BME MTF Equity",
+  "nif": "A87846028",
+  "nombre": "HOTEI PROPERTIES GROUP SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YHTI",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.hotei-properties-group-socimi-s-a-es0105407003.html",
+  "web": "https://hoteiproperties.es/es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

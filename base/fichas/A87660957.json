@@ -1,0 +1,430 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Grupo LaFinca Promociones y",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": 88.77,
+   "pct_indirecto": null,
+   "pct_total": 88.77,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Yolanda García-Cereceda López",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": 10.985,
+   "pct_indirecto": 22.117,
+   "pct_total": 33.102,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Susana García-Cereceda López",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": 0.003,
+   "pct_indirecto": 33.997,
+   "pct_total": 34.0,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Eduardo García Cereceda",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": 11.215,
+   "pct_indirecto": null,
+   "pct_total": 11.215,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": "las sociedades Grupo LaFinca Promociones y Conciertos",
+   "acciones": null,
+   "accionista": "indirecta del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": null,
+   "pct_indirecto": 33.997,
+   "pct_total": 33.997,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": "las sociedades Grupo LaFinca",
+   "acciones": null,
+   "accionista": "una participación indirecta total del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": null,
+   "pct_indirecto": 33.997,
+   "pct_total": 33.997,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Susana García-Cereceda López",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "pct_directo": 0.003,
+   "pct_indirecto": 33.997,
+   "pct_total": 34.0,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2026: no encontrado: patrimonio_neto",
+  "cuentas 2026: no encontrado: activo_total",
+  "cuentas 2026: no encontrado: cifra_negocios",
+  "cuentas 2026: no encontrado: variacion_valor_razonable",
+  "cuentas 2026: estados no reconocidos (2 de 4 partidas básicas): el PDF puede estar escaneado en parte o usar otro formato; a revisar",
+  "semestral: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 2348013,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-29",
+   "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+   "revisar": true,
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf"
+  },
+  {
+   "bytes": 95877,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-23",
+   "huella": "c6a0277894cb3c186e3d9cac64b6058f44301b94b6835445e037cab678baf594",
+   "tipo": "dividendo",
+   "titulo": "Ajuste dividendo por autocartera (93 KB) Relacionado con: Otra Información Relevante ( 12:54)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05432_OtraInfRelev_20260623.pdf"
+  },
+  {
+   "bytes": 149303,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-10",
+   "huella": "c10eb97306aa1ffda36fcef8bf66851e2e1fec2d8374bbfbe0ef90dec25311ed",
+   "tipo": "participaciones",
+   "titulo": "LAFINCA GLOBAL ASSETS SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05432_OtraInfRelev_20260710.pdf"
+  },
+  {
+   "bytes": 90487,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-02-17",
+   "huella": "26ad458061f69e6a614fd0c7027df234befefaf88c6458823dc13e7e3d35132e",
+   "tipo": "valoracion",
+   "titulo": "Actualización de la valoración de activos a 31 de diciembre de 2025 (88 KB) Sustituye a: Otra Información Relevante ( 09:48))",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/05432_OtraInfRelev_20260217.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 833766000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 829127000.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6915000.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6254000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 151.3
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 416883000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 416883000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7116000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4639000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 548068000.0
+   }
+  },
+  "2026": {
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 835680000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 827726000.0
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-23",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05432_OtraInfRelev_20260623.pdf",
+    "huella": "c6a0277894cb3c186e3d9cac64b6058f44301b94b6835445e037cab678baf594",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.21658557
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7116000.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 227132000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 152.8
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 417840000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 417840000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 8186000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7954000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05432_OtraInfRelev_20260429.pdf",
+    "huella": "12393f8a756f9a01aea4447fd9ff2e063d796d6cc1fdf177e67a651bc6aeaa67",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 541819000.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 4.18,
+  "domicilio": "PO/ DEL CLUB DEPORTIVO 1, 28223 POZUELO DE ALARCON",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105432001",
+  "mercado": "BME MTF Equity",
+  "nif": "A87660957",
+  "nombre": "LAFINCA GLOBAL ASSETS SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YLFG",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.lafinca-global-assets-socimi-s-a-es0105432001.html",
+  "web": "http://www.lafincaglobalassets.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A87660957-cuentas_anuales-2026-04-29.txt",
+    "linea": "Banco Bilbao Vizcaya Argentaria S.A. 27.000 27.000 Euribor a 3 meses + 1,70%",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

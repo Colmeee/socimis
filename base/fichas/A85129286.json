@@ -1,0 +1,119 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Branch Management S.A.P.I de C.V.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05153_OtraInfRelev_20260703.pdf",
+   "huella": "97e8dbcdaf0f4009e04d744c56110963a4ed244a511134c4d5e1bfa21563f068",
+   "pct_directo": 98.79,
+   "pct_indirecto": null,
+   "pct_total": 98.79,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3184845,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-17",
+   "huella": "83b8d135212d0ea280e79667b832b694c5dab4218f28084738d51d3e98748ece",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05153_OtraInfRelev_20260417.pdf"
+  },
+  {
+   "bytes": 125551,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-07",
+   "huella": "03fd59a6d559afb307fbc2a922990df5ae556409a9aab35765e1bc8babfc4c92",
+   "tipo": "dividendo",
+   "titulo": "Dividendo a cuenta aprobado por la Sociedad (122 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05153_OtraInfRelev_20260407.pdf"
+  },
+  {
+   "bytes": 129995,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-03",
+   "huella": "97e8dbcdaf0f4009e04d744c56110963a4ed244a511134c4d5e1bfa21563f068",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (126 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05153_OtraInfRelev_20260703.pdf"
+  },
+  {
+   "bytes": 2292931,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-15",
+   "huella": "0b8c5d2ba544143ce84a74c8a91489736769f4bd676d6fd5ee7e21ee0ca007cf",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05153_OtraInfRelev_20251015_1.pdf"
+  },
+  {
+   "bytes": 86108,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-17",
+   "huella": "7b71eb861a02b36071082131df3d3557c33c0d4ff357c7b1bdaf32dfad57de9a",
+   "tipo": "valoracion",
+   "titulo": "Valoración de los activos inmobiliarios a 31 de diciembre de 2025 (84 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05153_OtraInfRelev_20260417_1.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-04-07",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05153_OtraInfRelev_20260407.pdf",
+    "huella": "03fd59a6d559afb307fbc2a922990df5ae556409a9aab35765e1bc8babfc4c92",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.44017589
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 15.1,
+  "domicilio": "CL/ SERRANO 41, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105153003",
+  "mercado": "BME MTF Equity",
+  "nif": "A85129286",
+  "nombre": "ISC FRESH WATER INVESTMENT SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YISC",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.isc-fresh-water-investment-socimi-s-a-es0105153003.html",
+  "web": "http://www.iscfreshwater.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

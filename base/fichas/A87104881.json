@@ -1,0 +1,80 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 5666274,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-27",
+   "huella": "1d5d7ba265c4b4d169cc072a0e85d7b4b086813075a1703bae741f9689f1042b",
+   "tipo": "cuentas_anuales",
+   "titulo": "La Sociedad publica las Cuentas Anuales y el Informe del Auditor Independiente correspondientes al ejercicio finalizado el 31 de diciembre de 2025, así como el Informe sobre la Estructura Organizativa",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05098_OtraInfRelev_20260427.pdf"
+  },
+  {
+   "bytes": 50457,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-01",
+   "huella": "f07b15902647e80e1ffa88c755d3f233690cfb8d59295d0cb77f2b1ab6a43eb9",
+   "tipo": "participaciones",
+   "titulo": "JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05098_OtraInfRelev_20260701.pdf"
+  },
+  {
+   "bytes": 4009999,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-27",
+   "huella": "a056e3687a01c61bba0ff8dbdb6cac3071a0f8f8ce86d1eebfab1527452b7326",
+   "tipo": "semestral",
+   "titulo": "La Sociedad publica el Informe de Revisión Limitada y los Estados Financieros Intermedios del Auditor Independiente a 30 de junio de 2025. (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05098_OtraInfRelev_20251027.pdf"
+  },
+  {
+   "bytes": 1403077,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-27",
+   "huella": "4ee23b0eb30284c010fe1d8bcc28920da9bc71f6256ae08c85405d4eddbfdccd",
+   "tipo": "valoracion",
+   "titulo": "La Sociedad publica la valoración de los activos inmobiliarios a fecha 31 de diciembre de 2025. (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05098_OtraInfRelev_20260427_1.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 1.03,
+  "domicilio": "PLAZA PABLO RUIZ PICASSO 1, 28020 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105098000",
+  "mercado": "BME MTF Equity",
+  "nif": "A87104881",
+  "nombre": "JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YABA",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.jaba-i-inversiones-inmobiliarias-socimi-s-a-es0105098000.html",
+  "web": "http://www.jabaholdings.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

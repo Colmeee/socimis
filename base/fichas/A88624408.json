@@ -1,0 +1,113 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "KH V PROPERTIES S.A.R.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05656_OtraInfRelev_20260707.pdf",
+   "huella": "f1123cd1eb4b66dfe74865aec6c19225996fad08f4c7e632d67b6b9893257f8c",
+   "pct_directo": 50.76,
+   "pct_indirecto": null,
+   "pct_total": 50.76,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "DIAGONAL 477, S.L.U.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05656_OtraInfRelev_20260707.pdf",
+   "huella": "f1123cd1eb4b66dfe74865aec6c19225996fad08f4c7e632d67b6b9893257f8c",
+   "pct_directo": 16.5,
+   "pct_indirecto": null,
+   "pct_total": 16.5,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "STAGS PARTICIPACIONES, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05656_OtraInfRelev_20260707.pdf",
+   "huella": "f1123cd1eb4b66dfe74865aec6c19225996fad08f4c7e632d67b6b9893257f8c",
+   "pct_directo": 5.5,
+   "pct_indirecto": null,
+   "pct_total": 5.5,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 70634,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "f1123cd1eb4b66dfe74865aec6c19225996fad08f4c7e632d67b6b9893257f8c",
+   "tipo": "participaciones",
+   "titulo": "MATRITENSE REAL ESTATE SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05656_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 13348031,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "403066e88452bc64851d06c533099f2d4f290c95eb5192311ccc9c06b23fbbc5",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (12 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05656_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 12998990,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-04-29",
+   "huella": "7efbde72ae1dd875e30477a0229d168c6606a7ced77bb8c61727ca36ecd9de5d",
+   "tipo": "valoracion",
+   "titulo": "Información financiera del ejercicio 2024, informe sobre la estructura organizativa y sistemas de control interno y valoración de activos a 31 de diciembre de 2024 (12 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/04/05656_OtraInfRelev_20250429.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 1.01,
+  "domicilio": "SAGASTA 15, 28004 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105656005",
+  "mercado": "BME MTF Equity",
+  "nif": "A88624408",
+  "nombre": "MATRITENSE REAL ESTATE SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YMAT",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.matritense-real-estate-socimi-s-a-es0105656005.html",
+  "web": "https://www.matritenserealestatesocimi.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

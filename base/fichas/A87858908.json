@@ -1,0 +1,325 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": 4207801,
+   "accionista": "Preventiva Compañía De Seguros Y Reaseguros, S.A. (2)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05389_OtraInfRelev_20260703.pdf",
+   "huella": "7af7bb9d1d06c71573e1800afcf11563cce0d356677219d4b79db3624fdc2783",
+   "pct_directo": 5.51,
+   "pct_indirecto": 5.13,
+   "pct_total": 5.51,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2026: no encontrado: deuda_entidades_cp",
+  "cuentas 2026: no encontrado: patrimonio_neto",
+  "cuentas 2026: no encontrado: variacion_valor_razonable",
+  "cuentas 2026: no encontrado: resultado",
+  "cuentas 2026: no encontrado: pagos_dividendos"
+ ],
+ "documentos": [
+  {
+   "bytes": 1347601,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-29",
+   "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+   "tipo": "cuentas_anuales",
+   "titulo": "Presentación utilizada en la Junta General Ordinaria y Extraordinaria de Accionistas (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf"
+  },
+  {
+   "bytes": 188724,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-14",
+   "huella": "d65c66f3e748d3558aa4f7a48d08cee8c6832cb5395840a2cc03927b1d935e41",
+   "tipo": "dividendo",
+   "titulo": "Calendario de pago correspondiente al dividendo del ejercicio 2025 (184 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05389_OtraInfRelev_20260714.pdf"
+  },
+  {
+   "bytes": 125565,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-03",
+   "huella": "7af7bb9d1d06c71573e1800afcf11563cce0d356677219d4b79db3624fdc2783",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (122 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05389_OtraInfRelev_20260703.pdf"
+  },
+  {
+   "bytes": 2616462,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-22",
+   "huella": "174a895f372f3b73ecf55b0d3544aa4a07658af0abcc1b29ceca63af2b60bb27",
+   "tipo": "semestral",
+   "titulo": "INVERSA PRIME SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05389_OtraInfRelev_20261022_3.pdf"
+  },
+  {
+   "bytes": 79690,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-24",
+   "huella": "4f0f8fccc2849c4a63359cda95300329bf3028a75e78c50da822ad95f6feae98",
+   "tipo": "valoracion",
+   "titulo": "Valoración de activos a 31 de diciembre de 2025 (77 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05389_OtraInfRelev_20260324_1.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 157088380.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (1 sumandos)",
+    "unidad": "EUR",
+    "valor": 572624.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": -3720598.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3371510.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3371510.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": -2.5
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 572624.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4293222.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 150977556.0
+   }
+  },
+  "2026": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 115357986.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (1 sumandos)",
+    "unidad": "EUR",
+    "valor": 547909.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": -1411747.0
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-29",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05389_OtraInfRelev_20260714.pdf",
+    "huella": "d65c66f3e748d3558aa4f7a48d08cee8c6832cb5395840a2cc03927b1d935e41",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.06364995
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2953050.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2953050.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": -1.3
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 547909.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1959656.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05389_OtraInfRelev_20260629.pdf",
+    "huella": "8ccb38c0e509e4b8727faf73983789a44cbeb3f00bc7047f71a4ad0212e6a9a2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 111709856.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 0.725,
+  "domicilio": "PASEO DE RECOLETOS 16, MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105389003",
+  "mercado": "BME MTF Equity",
+  "nif": "A87858908",
+  "nombre": "INVERSA PRIME SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "segmento": "BME Growth",
+  "ticker": "YIPS",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.inversa-prime-socimi-s-a-es0105389003.html",
+  "web": "https://www.inversaprime.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}
