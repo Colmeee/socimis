@@ -1,0 +1,198 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "GRUPO LAR INVERSIONES INMOBILIARIAS, S.A. –",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05961_OtraInfRelev_20260109.pdf",
+   "huella": "8342e6ac277c47eae6c8f770e8b385ffbaba65670d7f25003a6d6909c4e3463f",
+   "pct_directo": 69.8176,
+   "pct_indirecto": null,
+   "pct_total": 69.8176,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2026: no encontrado: inversiones_inmobiliarias",
+  "cuentas 2026: no encontrado: deuda_entidades_lp",
+  "cuentas 2026: no encontrado: deuda_entidades_cp",
+  "cuentas 2026: no encontrado: patrimonio_neto",
+  "cuentas 2026: no encontrado: ingresos_rentas",
+  "cuentas 2026: no encontrado: variacion_valor_razonable",
+  "cuentas 2026: estados no reconocidos (2 de 4 partidas básicas): el PDF puede estar escaneado en parte o usar otro formato; a revisar"
+ ],
+ "documentos": [
+  {
+   "bytes": 7038231,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-05-27",
+   "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+   "revisar": true,
+   "tipo": "cuentas_anuales",
+   "titulo": "La Sociedad publica las Cuentas Anuales del ejercicio 2025 e Informe de Gestión junto con el preceptivo informe de auditoría, así como el Informe de Estructura Organizativa y Sistema de Control Intern",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf"
+  },
+  {
+   "bytes": 73984,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-12-19",
+   "huella": "546e6804a238eeaac0322d3f7740282993c9407d1fd925a6c8b13e46ef483f89",
+   "tipo": "dividendo",
+   "titulo": "Acuerdo de distribución de dividendo a cuenta del resultado del ejercicio 2025 (72 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/12/05961_OtraInfRelev_20251219.pdf"
+  },
+  {
+   "bytes": 70260,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-09",
+   "huella": "8342e6ac277c47eae6c8f770e8b385ffbaba65670d7f25003a6d6909c4e3463f",
+   "tipo": "participaciones",
+   "titulo": "La Sociedad publica participaciones significativas a 31.12.2025 (68 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05961_OtraInfRelev_20260109.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 94429141.0
+   },
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2025-12-19",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/12/05961_OtraInfRelev_20251219.pdf",
+    "huella": "546e6804a238eeaac0322d3f7740282993c9407d1fd925a6c8b13e46ef483f89",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 9000000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": -4915.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 422500.0
+   }
+  },
+  "2026": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 100933495.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 9000000.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 10511734.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 10108203.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05961_OtraInfRelev_20260527.pdf",
+    "huella": "f42daf1006f79c0da9f867d5ea1e9076108e48e001d2ead87dbee33527fb2f72",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3400599.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 96969332,
+  "cotizacion": 19.8,
+  "domicilio": "MARíA DE MOLINA 39, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105961009",
+  "mercado": "BME MTF Equity",
+  "nif": "A83713792",
+  "nombre": "LAR RETAIL",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCGLR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.lar-retail-es0105961009.html",
+  "web": "https://www.glretailinvestments.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

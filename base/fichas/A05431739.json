@@ -1,0 +1,63 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 7045368,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-03-30",
+   "huella": "9c0470f6787addfa9d8cfb94e525a65b7e267d7d315e8b61a3de91251b133d72",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 (6 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05657_OtraInfRelev_20260330_2.pdf"
+  },
+  {
+   "bytes": 117837,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-08",
+   "huella": "53744ed95e25f5b1165c38bb6b30b860eb633e4380a43f6433c31bf773d7ea55",
+   "tipo": "participaciones",
+   "titulo": "Participaciones Significativas enero 2026 (115 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05657_OtraInfRelev_20260108.pdf"
+  },
+  {
+   "bytes": 11859258,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-30",
+   "huella": "e7283491c149a40ebf08d5be1fa305fc8771e3a3367ba4957fe5105944383b19",
+   "tipo": "semestral",
+   "titulo": "Información Financiera del 1er semestre de 2025 (11 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05657_OtraInfRelev_20251030.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 33465579,
+  "cotizacion": 13.7,
+  "domicilio": "ORTEGA Y GASSET 7, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105657003",
+  "mercado": "BME MTF Equity",
+  "nif": "A05431739",
+  "nombre": "INHOME PRIME PROPERTIES SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIPP",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inhome-prime-properties-socimi-s-a-es0105657003.html",
+  "web": "https://inhomeprime.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": null
+}

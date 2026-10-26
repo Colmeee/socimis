@@ -1,0 +1,98 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "HZ20 CORPOARTE S.L.U",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05681_OtraInfRelev_20260707.pdf",
+   "huella": "825fa6578c043afdf9efdacd3d13ec16aa384a9b8a80ee0fafce3fd4ab50e1a3",
+   "pct_directo": 10.1,
+   "pct_indirecto": 9.99,
+   "pct_total": 10.1,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3676365,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "bab50128e32106fa291f533a987edf69f6b6d9cdfbb45fbba689a62f91affdbf",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05681_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 137470,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-20",
+   "huella": "b0c2a1ead9e2c2000b2d6b865d289d124233f1cee2cc4b5c35d14699603fc770",
+   "tipo": "dividendo",
+   "titulo": "Distribución dividendo de prima de emisión 20.06.2025 (134 KB) Relacionado con: Otra Información Relevante ( 17:00)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05681_OtraInfRelev_20250620.pdf"
+  },
+  {
+   "bytes": 255166,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "825fa6578c043afdf9efdacd3d13ec16aa384a9b8a80ee0fafce3fd4ab50e1a3",
+   "tipo": "participaciones",
+   "titulo": "INBEST GPF MULTI-ASSET CLASS PRIME II SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05681_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 632080,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "6f5f4545e98b6edc5d7e83e46395772d67b5fa4c48cf05b7c2c80584f22340e6",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (617 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05681_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 75840,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-03-28",
+   "huella": "666b37bde081971642dd14c9b0e8c573e82262a65c5295e9f89e62d4cd20616d",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos (74 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/03/05681_OtraInfRelev_20250328.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 33783750,
+  "cotizacion": 0.975,
+  "domicilio": "VELAZQUEZ 86, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105681003",
+  "mercado": "BME MTF Equity",
+  "nif": "A10874642",
+  "nombre": "INBEST GPF MULTI-ASSET CLASS PRIME II SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIG2",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-ii-socimi-s-a-es0105681003.html",
+  "web": "https://inbestgpfii.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": null
+}

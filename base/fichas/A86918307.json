@@ -1,0 +1,605 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Grupo Lar Retail Investments SOCIMI, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "pct_directo": 33.06,
+   "pct_indirecto": null,
+   "pct_total": 33.06,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Hines PropCo 37, S.à r.l.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "pct_directo": 66.94,
+   "pct_indirecto": null,
+   "pct_total": 66.94,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "HEREP III Master HoldCo S.à r.l (“HEREP III”)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "pct_directo": 44.91,
+   "pct_indirecto": null,
+   "pct_total": 44.91,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Grupo Lar Inversiones Inmobiliarias, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "pct_directo": 23.08,
+   "pct_indirecto": null,
+   "pct_total": 23.08,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "SRE Ronaldo Holdings S.à r.l. (“SRE”)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "pct_directo": 14.4,
+   "pct_indirecto": null,
+   "pct_total": 14.4,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": "de las acciones de la Sociedad.",
+   "acciones": null,
+   "accionista": "del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "pct_directo": null,
+   "pct_indirecto": 66.94,
+   "pct_total": 66.94,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2026: no encontrado: patrimonio_neto",
+  "cuentas 2026: no encontrado: ingresos_rentas"
+ ],
+ "documentos": [
+  {
+   "bytes": 3544737,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-05-13",
+   "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas anuales individuales y consolidadas 2025 junto con informes de auditoría e Informe de estructura organizativa y sistema de control interno de la información 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf"
+  },
+  {
+   "bytes": 53299,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-12-17",
+   "huella": "433c8f112afa5ebab329cf9d6fb1991e341b1e82cd9c8f84cef105eff9d169a7",
+   "tipo": "dividendo",
+   "titulo": "Acuerdo de distribución de dividendo-reservas (52 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/12/05015_OtraInfRelev_20251217_2.pdf"
+  },
+  {
+   "bytes": 74780,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-07",
+   "huella": "c1c01da66d97f1be2e62940fb28331e24b211f08ccf7799ce07d71051a5f7ec8",
+   "tipo": "participaciones",
+   "titulo": "La Sociedad publica Participaciones significativas a 31 de diciembre de 2025. (73 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05015_OtraInfRelev_20260107.pdf"
+  },
+  {
+   "bytes": 1341805,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-31",
+   "huella": "3732e6b3214dc891ab31ca1e51b402093f1ba0d6929325f41e93ff5655c3bf5e",
+   "tipo": "semestral",
+   "titulo": "La Sociedad publica estados financieros intermedios consolidados del periodo finalizado el 30 de junio de 2025. (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05015_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 43410,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-04-11",
+   "huella": "67bf51de85451da28ff37e41e70da4e11e04835a17ee8497a8a4519e9cd0eef5",
+   "tipo": "valoracion",
+   "titulo": "Valoración de activos inmobiliarios a 31 de diciembre de 2024 (42 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/04/05015_OtraInfRelev_20250411.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 789468000.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 489435000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 254171000.0
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2025-12-17",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/12/05015_OtraInfRelev_20251217_2.pdf",
+    "huella": "433c8f112afa5ebab329cf9d6fb1991e341b1e82cd9c8f84cef105eff9d169a7",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.38
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 66164000.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 49471000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 19.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 87221000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 402214000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 23723000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 235264000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1339018000.0
+   }
+  },
+  "2026": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1186811000.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 733849000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 712519000.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 31800000.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 65192000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 56.1
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 16623000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 717226000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": -13139000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 21330000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05015_OtraInfRelev_20260513_1.pdf",
+    "huella": "d530df5733886e80d0581e04b011420ea0e497bc8008e6f9f1a4b4ba9896f58b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1269717000.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 694651643,
+  "cotizacion": 8.3,
+  "domicilio": "MARIA DE MOLINA 39, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105015012",
+  "mercado": "BME MTF Equity",
+  "nif": "A86918307",
+  "nombre": "HELIOS RE SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCHLR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.helios-re-socimi-s-a-es0105015012.html",
+  "web": "http://www.hlresocimi.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "• Locales comerciales situados en Parque Comercial de Txingudi, situados en Irún, aportados a",
+    "lugar": "Irún",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "• Locales comerciales situados en Parque Comercial de Txingudi, situados en Irún, aportados",
+    "lugar": "Irún",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Diputación Foral de Bizkaia, en virtud del cual ha finalizado el procedimiento de",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Económico Administrativo Foral de Bizkaia contra dicho acuerdo de liquidación, y se ha",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "la Diputación Foral de Bizkaia.",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "dictado por el Departamento de Hacienda y Finanzas de la Diputación Foral de Bizkaia, en",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "las liquidaciones emitidas hasta la fecha por parte de la Diputación Foral de Bizkaia,",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "administrativas ante el Tribunal Económico Administrativo Foral de Bizkaia respecto de los",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "liquidaciones emitidas por la Diputación Foral de Bizkaia.",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "acumulación por parte del Tribunal Económico Administrativo Foral de Vizcaya.",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Indirectos de la Hacienda Foral de Vizcaya por los que se desestimaron los recursos de",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "El Tribunal Económico Administrativo Foral de Vizcaya estima las pretensiones efectuadas",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Económico Administrativo Foral de Bizkaia concluye que proceden a acreditarse y debitarse",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Tribunal Económico-Administrativo Foral de Vizcaya en relación con la reclamación",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Hacienda Foral de Vizcaya por el que se desestimó el recurso de reposición interpuesto frente",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "El Tribunal Económico Administrativo Foral de Vizcaya ha estimado las pretensiones",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Administrativo Foral de Vizcaya en relación con las liquidaciones del IVA correspondientes a",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "de Servicio de Tributos Indirectos de la Hacienda Foral de Bizkaia con número de referencia",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Hacienda Foral de Bizkaia, por medio de la cual se requería a Hiper Ondara la puesta a",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "oficinas de la Hacienda Foral de Bizkaia.",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "Hacienda Foral de Bizkaia (sin una resolución expresa a Hiper Ondara), sin que haya existido",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-cuentas_anuales-2026-05-13.txt",
+    "linea": "aportados a la Diputación Foral de Bizkaia por un procedimiento tributario iniciado durante",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-semestral-2025-10-31.txt",
+    "linea": "Diputación Foral de Bizkaia por un procedimiento tributario iniciado durante el ejercicio",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-semestral-2025-10-31.txt",
+    "linea": " Locales comerciales situados en Parque Comercial de Txingudi, situados en Irún, aportados a",
+    "lugar": "Irún",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86918307-semestral-2025-10-31.txt",
+    "linea": "Diputación Foral de Bizkaia, en virtud del cual ha finalizado el procedimiento de comprobación",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-semestral-2025-10-31.txt",
+    "linea": "Administrativo Foral de Bizkaia contra dicho acuerdo de liquidación, y se ha constituido un",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-semestral-2025-10-31.txt",
+    "linea": "Foral de Bizkaia.",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86918307-semestral-2025-10-31.txt",
+    "linea": "acuerdo dictado por el Departamento de Hacienda y Finanzas de la Diputación Foral de Bizkaia,",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

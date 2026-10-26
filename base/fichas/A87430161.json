@@ -1,0 +1,497 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2025: no encontrado: ingresos_rentas",
+  "cuentas 2025: no encontrado: cifra_negocios"
+ ],
+ "documentos": [
+  {
+   "bytes": 6985546,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-27",
+   "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas anuales individuales y consolidadas, informe de gestión individual y consolidado y los corresopndientes informes de auditoría del ejercicio 2025, así como actualización del informe de estructu",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf"
+  },
+  {
+   "bytes": 71434,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-09-08",
+   "huella": "bac1a9cc348eefc0ae555ea085ae93e9102ac3c6af705b706082b7fd4251b8a5",
+   "tipo": "dividendo",
+   "titulo": "La Sociedad comunica el reparto de un dividendo a cuenta (69 KB) Sustituye a: Otra Información Relevante ( 10:07))",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05290_OtraInfRelev_20260908_1.pdf"
+  },
+  {
+   "bytes": 99012,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-08",
+   "huella": "76511581f99a1127a0cacf5a91c15edc2c800bacfccaa274dbe031c524d3a5f6",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 31 de diciembre de 2025 (96 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05290_OtraInfRelev_20260108.pdf"
+  },
+  {
+   "bytes": 941397,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-10-20",
+   "huella": "29d6a5a45f1631528546932b0872cb83970c9f442563878b2bce26811f8801b4",
+   "tipo": "semestral",
+   "titulo": "GALIL CAPITAL RE SPAIN SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05290_OtraInfRelev_20261020.pdf"
+  },
+  {
+   "bytes": 33688549,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2020-02-26",
+   "huella": "0dca5f41640211132cfbcf46ff4d82320f82623ae42b77e9010c88040f5b973c",
+   "tipo": "valoracion",
+   "titulo": "Cambios en la valoración de activos y pasivosValoraciones RICS a 31 de diciembre de 2019 de los activos de la sociedad (32 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2020/02/05290_HRelev_20200226.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2024": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 23971639.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 305679.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": -2343982.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2516813.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": -13.1
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 19347966.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 937748.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": -632069.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1007958.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2649661.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 17918289.0
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 21533063.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": -191336.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": -1830907.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2926491.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": -10.9
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 18068888.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 960553.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": -1151889.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1643293.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1639571.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05290_OtraInfRelev_20260427.pdf",
+    "huella": "11f12ad63d4a5f1c791170d7a544a48586bf70240f8450c9ca62b38c9d13ac6b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 16866074.0
+   }
+  },
+  "2026": {
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2026-09-08",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05290_OtraInfRelev_20260908_1.pdf",
+    "huella": "bac1a9cc348eefc0ae555ea085ae93e9102ac3c6af705b706082b7fd4251b8a5",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3000000.0
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-09-08",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05290_OtraInfRelev_20260908_1.pdf",
+    "huella": "bac1a9cc348eefc0ae555ea085ae93e9102ac3c6af705b706082b7fd4251b8a5",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1.1068036
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 16432176,
+  "cotizacion": 6,
+  "domicilio": "AVD/ DIAGONAL 520, 08006 BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105290003",
+  "mercado": "BME MTF Equity",
+  "nif": "A87430161",
+  "nombre": "GALIL CAPITAL RE SPAIN SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Barcelona",
+  "segmento": "BME Scaleup",
+  "ticker": "SCGCS",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.galil-capital-re-spain-socimi-s-a-es0105290003.html",
+  "web": "http://www.galilcapital.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A87430161-cuentas_anuales-2026-04-27.txt",
+    "linea": "Edificio Navas de Tolosa 279, Barcelona 88.690 84.672",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-cuentas_anuales-2026-04-27.txt",
+    "linea": "EDIFICIO NAVAS DE TOLOSA 2019",
+    "lugar": "TOLOSA",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-semestral-2026-10-20.txt",
+    "linea": "Edificio Calle Navas de Tolosa 279, Barcelona 41.619 42.816",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Casco Histórico, Hondarribia 58,00 240.000,00 4.137,93 3.724,14",
+    "lugar": "Hondarribia",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Casco Histórico, Hondarribia 80,00 330.000,00 4.125,00 3.712,50",
+    "lugar": "Hondarribia",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "NAVAS DE TOLOSA, 279",
+    "lugar": "TOLOSA",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "PROPIEDAD: NAVAS DE TOLOSA, 279, 08026, BARCELONA",
+    "lugar": "TOLOSA",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "NAVAS DE TOLOSA, 279, 08026, BARCELONA",
+    "lugar": "TOLOSA",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Dirección NAVAS DE TOLOSA, 279, 08026, BARCELONA",
+    "lugar": "TOLOSA",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "El inmueble objeto de valoración se encuentra ubicado en la calle Navas de Tolosa nº 279 (Barcelona).",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Navas de Tolosa, 279",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Tolosa, 279. El activo consiste en un edificio residencial de 11 viviendas y un local comercial en planta baja. El edificio fue",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "C/ Navas de Tolosa, 272 30,00 400,00 13,33",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "C/ Navas de Tolosa, 317 58,00 495,00 8,53",
+    "lugar": "Tolosa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "En este mercado, el “High Street” de Madrid, Barcelona, Valencia, Bilbao, Sevilla destaca por el interés de grandes inversores. Precios",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "mayor incremento en 2019 son: Sevilla (14,2 %), Castellón (12 %), Lleida (11,8 %), Girona (11,6 %), A Coruña (11,5 %), Bizkaia (11,4",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "encontramos por tercer año a Gipuzkoa; después de haberse disputado desde 2007 hasta 2016, solo los dos primeros lugares del",
+    "lugar": "Gipuzkoa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "ranking con Barcelona o Bizkaia.",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Madrid (14,86 €/m² al mes), Gipuzkoa (14,52 €/m² al mes), Bizkaia (12,62 €/m² al mes) e Illes Balears (12,19 €/m² al mes).",
+    "lugar": "Gipuzkoa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "a lo largo de 2019. El resto de las provincias con el número de incrementos máximos este año son: Valencia (6), Bizkaia (5), Madrid",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "(5), Málaga (5), Santa Cruz de Tenerife (4), Gipuzkoa (4), Segovia (4), Las Palmas (3), Valladolid (2), Granada (2), Palencia (2),",
+    "lugar": "Gipuzkoa",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87430161-valoracion-2020-02-26.txt",
+    "linea": "Elche/Elx, en Alicante, con una variación de 24 %. Le siguen, Murcia Capital (20,4 %), Bilbao (17,8 %) y Badalona (17,1 %), entre otras.",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

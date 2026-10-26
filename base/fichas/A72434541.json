@@ -1,0 +1,39 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 42414410,
+  "cotizacion": 1.73,
+  "domicilio": "VILLANUEVA 2, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105797007",
+  "mercado": "BME MTF Equity",
+  "nif": "A72434541",
+  "nombre": "ASHINGTON SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCASH",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.ashington-socimi-s-a-es0105797007.html",
+  "web": "http://www.ashingtonlogistics.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

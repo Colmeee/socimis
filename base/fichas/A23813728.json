@@ -1,0 +1,74 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 227629,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-23",
+   "huella": "c260ad0bffaa4bc878c715ce235c06415d1f9a2f35a0c4f98dd8e0d3196fe861",
+   "tipo": "dividendo",
+   "titulo": "La Sociedad publica el pago de dividendo con cargo a resultado del 2025 (222 KB) Sustituye a: Otra Información Relevante ( 14:03))",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/06036_OtraInfRelev_20260723.pdf"
+  },
+  {
+   "bytes": 1964838,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-10-16",
+   "huella": "e2b38ec996d5a169984fb8e9772ec86dbce26aca1f213b4f2c07ccca8b8695a4",
+   "tipo": "semestral",
+   "titulo": "GRUPO ANTAGÓN INVERSIONES INMOBILIARIAS 2025 SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/06036_OtraInfRelev_20261016_1.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2026-07-23",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/06036_OtraInfRelev_20260723.pdf",
+    "huella": "c260ad0bffaa4bc878c715ce235c06415d1f9a2f35a0c4f98dd8e0d3196fe861",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 998220.95
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 36300000,
+  "cotizacion": 605,
+  "domicilio": "CUARTELES NUMERO 51, 29002 MALAGA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0106036009",
+  "mercado": "BME MTF Equity",
+  "nif": "A23813728",
+  "nombre": "GRUPO ANTAGÓN INVERSIONES INMOBILIARIAS 2025 SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Málaga",
+  "segmento": "BME Scaleup",
+  "ticker": "SCANT",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.grupo-antagon-inversiones-inmobiliarias-2025-socimi-s-a-es0106036009.html",
+  "web": "http://www.grupoantagon.es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

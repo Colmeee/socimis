@@ -1,0 +1,60 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 24196291,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-29",
+   "huella": "1853e51fbc5479773b4ac726f1b1182b7bca045cfe964689271dd1d5aac09411",
+   "tipo": "cuentas_anuales",
+   "titulo": "INICIATIVAS FARO 2024 SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/06007_OtraInfRelev_20260529.pdf"
+  },
+  {
+   "bytes": 12686774,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-06",
+   "huella": "47b697958da157bfe6c89a2c8bc2f05de831a2068d30becdc07fc4f2bc102723",
+   "tipo": "semestral",
+   "titulo": "INICIATIVAS FARO 2024 SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/06007_OtraInfRelev_20261006.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 9808800,
+  "cotizacion": 1.83,
+  "domicilio": "COLUMELA 11, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0106007000",
+  "mercado": "BME MTF Equity",
+  "nif": "A19906973",
+  "nombre": "INICIATIVAS FARO 2024 SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCFRS",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.iniciativas-faro-2024-socimi-s-a-es0106007000.html",
+  "web": "-"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

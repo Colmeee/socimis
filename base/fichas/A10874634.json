@@ -1,0 +1,83 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3647764,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "0328d091865df78f74832ac577586866f2579c101ba8dc20ce21321314fcbde3",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05680_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 137941,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-20",
+   "huella": "8992cb5b6278d6e2340b58de365b20cb0f5b3941d02df7c681f9e6dc329d8594",
+   "tipo": "dividendo",
+   "titulo": "Distribución dividendo de prima de emisión 20.06.2025 (134 KB) Relacionado con: Otra Información Relevante ( 16:59)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05680_OtraInfRelev_20250620.pdf"
+  },
+  {
+   "bytes": 117460,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "7b6de63c7e8b572a8319de5b0551cedf18de3f6235229d49343e03d5e2f190d9",
+   "tipo": "participaciones",
+   "titulo": "INBEST GPF MULTI-ASSET CLASS PRIME I SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05680_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 657387,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "f7c15770638af8f04162c156ae21d99b6021e66d65d40c73f2ed40e573157f0b",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (641 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05680_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 75786,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-03-28",
+   "huella": "9607b3abff1ba35fa591829c06d2424c2be28c41a7156e23487eae75676aa01f",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos (74 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/03/05680_OtraInfRelev_20250328.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 17062500,
+  "cotizacion": 0.975,
+  "domicilio": "VELAZQUEZ 86, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105680005",
+  "mercado": "BME MTF Equity",
+  "nif": "A10874634",
+  "nombre": "INBEST GPF MULTI-ASSET CLASS PRIME I SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIG1",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-i-socimi-s-a-es0105680005.html",
+  "web": "https://inbestgpfi.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": null
+}
