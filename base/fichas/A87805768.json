@@ -72,15 +72,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A87805768-cuentas_anuales-2026-04-14.txt",
-    "linea": "b) Don Fernando Antonio Lacadena Azpeitia: consejero dominical",
-    "lugar": "Azpeitia",
-    "provincia": "Gipuzkoa"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

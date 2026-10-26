@@ -74,15 +74,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A79783981-semestral-2026-10-16.txt",
-    "linea": "Locales comerciales C/ Príncipe de Vergara, 266 - Local 1 (Madrid) 01/10/1997",
-    "lugar": "Vergara",
-    "provincia": "Gipuzkoa"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

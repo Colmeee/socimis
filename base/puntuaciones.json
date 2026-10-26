@@ -7227,6 +7227,202 @@
   },
   "hoy": "2026-10-26"
  },
+ "A66967936": {
+  "evaluacion": {
+   "avisos": [
+    "cobertura 1 de 6: la puntuación dice poco"
+   ],
+   "cobertura": 1,
+   "de": 6,
+   "dimensiones": [
+    {
+     "estado": "sin datos",
+     "id": "apalancamiento",
+     "max": 25,
+     "nombre": "Apalancamiento",
+     "partes": [
+      {
+       "detalle": "sin deuda ni valor de inmuebles con que calcularlo (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "LTV",
+       "fuente": null,
+       "max": 17,
+       "puntos": null
+      },
+      {
+       "detalle": "sin tabla de vencimientos de la deuda (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Vencimientos a 2 años",
+       "fuente": null,
+       "max": 8,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "sin datos",
+     "id": "dividendos",
+     "max": 20,
+     "nombre": "Dividendos",
+     "partes": [
+      {
+       "detalle": "ni dividendo acordado ni pagado en el último ejercicio (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Reparte dividendo",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "falta el dividendo o la capitalización",
+       "estado": "sin datos",
+       "etiqueta": "Rendimiento sobre capitalización",
+       "fuente": null,
+       "max": 6,
+       "puntos": null
+      },
+      {
+       "detalle": "sin dividendo del ejercicio anterior con que comparar",
+       "estado": "sin datos",
+       "etiqueta": "Crece",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "sin datos",
+     "id": "valor_liquidativo",
+     "max": 15,
+     "nombre": "Valor liquidativo",
+     "partes": [
+      {
+       "detalle": "sin NAV por acción ni patrimonio neto con capitalización (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Cotización frente al valor",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "sin ejercicio",
+       "estado": "sin datos",
+       "etiqueta": "Valoración externa",
+       "fuente": null,
+       "max": 5,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "sin datos",
+     "id": "concentracion",
+     "max": 15,
+     "nombre": "Concentración accionarial",
+     "partes": [
+      {
+       "detalle": "sin participaciones significativas publicadas (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Mayor accionista",
+       "fuente": null,
+       "max": 8,
+       "puntos": null
+      },
+      {
+       "detalle": "sin participaciones significativas publicadas (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Suma de significativos",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      },
+      {
+       "detalle": "sin participaciones significativas publicadas (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Persona física detrás",
+       "fuente": null,
+       "max": 3,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "sin datos",
+     "id": "activos",
+     "max": 15,
+     "nombre": "Activos",
+     "partes": [
+      {
+       "detalle": "sin valor de los inmuebles (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Tamaño de la cartera",
+       "fuente": null,
+       "max": 6,
+       "puntos": null
+      },
+      {
+       "detalle": "sin lista de activos con valor (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Diversificación",
+       "fuente": null,
+       "max": 5,
+       "puntos": null
+      },
+      {
+       "detalle": "faltan las rentas o el valor de los inmuebles",
+       "estado": "sin datos",
+       "etiqueta": "Rentas sobre valor",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "parcial",
+     "id": "madurez",
+     "max": 10,
+     "nombre": "Madurez en el mercado",
+     "partes": [
+      {
+       "detalle": "BME Scaleup",
+       "estado": "parcial",
+       "etiqueta": "Mercado",
+       "fuente": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.urban-view-development-spain-socimi-s-a-es0105392007.html",
+       "max": 4,
+       "puntos": 2.0
+      },
+      {
+       "detalle": "sin fecha de incorporación (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Antigüedad en el mercado",
+       "fuente": null,
+       "max": 3,
+       "puntos": null
+      },
+      {
+       "detalle": "cuentas anuales recientes: sí; semestral reciente: sí",
+       "estado": "cumplida",
+       "etiqueta": "Publica lo que debe",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05392_OtraInfRelev_20260429.pdf",
+       "max": 3,
+       "puntos": 3.0
+      }
+     ],
+     "puntos": 5.0
+    }
+   ],
+   "puntos": 5.0,
+   "tramo": "de momento no"
+  },
+  "hoy": "2026-10-26"
+ },
  "A67077628": {
   "evaluacion": {
    "avisos": [],
@@ -7807,6 +8003,200 @@
     }
    ],
    "puntos": 2.0,
+   "tramo": "de momento no"
+  },
+  "hoy": "2026-10-26"
+ },
+ "A72502404": {
+  "evaluacion": {
+   "avisos": [],
+   "cobertura": 4,
+   "de": 6,
+   "dimensiones": [
+    {
+     "estado": "no cumplida",
+     "id": "apalancamiento",
+     "max": 25,
+     "nombre": "Apalancamiento",
+     "partes": [
+      {
+       "detalle": "LTV 596,9 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0",
+       "estado": "no cumplida",
+       "etiqueta": "LTV",
+       "fuente": "deuda financiera neta / inversiones inmobiliarias del balance",
+       "max": 17,
+       "puntos": 0.0
+      },
+      {
+       "detalle": "sin tabla de vencimientos de la deuda (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Vencimientos a 2 años",
+       "fuente": null,
+       "max": 8,
+       "puntos": null
+      }
+     ],
+     "puntos": 0.0
+    },
+    {
+     "estado": "sin datos",
+     "id": "dividendos",
+     "max": 20,
+     "nombre": "Dividendos",
+     "partes": [
+      {
+       "detalle": "ni dividendo acordado ni pagado en el último ejercicio (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Reparte dividendo",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "falta el dividendo o la capitalización",
+       "estado": "sin datos",
+       "etiqueta": "Rendimiento sobre capitalización",
+       "fuente": null,
+       "max": 6,
+       "puntos": null
+      },
+      {
+       "detalle": "sin dividendo del ejercicio anterior con que comparar",
+       "estado": "sin datos",
+       "etiqueta": "Crece",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "no cumplida",
+     "id": "valor_liquidativo",
+     "max": 15,
+     "nombre": "Valor liquidativo",
+     "partes": [
+      {
+       "detalle": "sin NAV por acción ni patrimonio neto con capitalización (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Cotización frente al valor",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "no se ha encontrado una valoración externa comunicada al mercado",
+       "estado": "no cumplida",
+       "etiqueta": "Valoración externa",
+       "fuente": null,
+       "max": 5,
+       "puntos": 0.0
+      }
+     ],
+     "puntos": 0.0
+    },
+    {
+     "estado": "sin datos",
+     "id": "concentracion",
+     "max": 15,
+     "nombre": "Concentración accionarial",
+     "partes": [
+      {
+       "detalle": "sin participaciones significativas publicadas (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Mayor accionista",
+       "fuente": null,
+       "max": 8,
+       "puntos": null
+      },
+      {
+       "detalle": "sin participaciones significativas publicadas (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Suma de significativos",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      },
+      {
+       "detalle": "sin participaciones significativas publicadas (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Persona física detrás",
+       "fuente": null,
+       "max": 3,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "parcial",
+     "id": "activos",
+     "max": 15,
+     "nombre": "Activos",
+     "partes": [
+      {
+       "detalle": "inmuebles por 7,1 M€",
+       "estado": "no cumplida",
+       "etiqueta": "Tamaño de la cartera",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+       "max": 6,
+       "puntos": 0.0
+      },
+      {
+       "detalle": "sin lista de activos con valor (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Diversificación",
+       "fuente": null,
+       "max": 5,
+       "puntos": null
+      },
+      {
+       "detalle": "28,5 % (2,0 M€ de rentas sobre 7,1 M€)",
+       "estado": "cumplida",
+       "etiqueta": "Rentas sobre valor",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+       "max": 4,
+       "puntos": 4.0
+      }
+     ],
+     "puntos": 4.0
+    },
+    {
+     "estado": "parcial",
+     "id": "madurez",
+     "max": 10,
+     "nombre": "Madurez en el mercado",
+     "partes": [
+      {
+       "detalle": "BME Scaleup",
+       "estado": "parcial",
+       "etiqueta": "Mercado",
+       "fuente": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.wellder-senior-assets-socimi-s-a-es0105806006.html",
+       "max": 4,
+       "puntos": 2.0
+      },
+      {
+       "detalle": "sin fecha de incorporación (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Antigüedad en el mercado",
+       "fuente": null,
+       "max": 3,
+       "puntos": null
+      },
+      {
+       "detalle": "cuentas anuales recientes: sí; semestral reciente: sí",
+       "estado": "cumplida",
+       "etiqueta": "Publica lo que debe",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+       "max": 3,
+       "puntos": 3.0
+      }
+     ],
+     "puntos": 5.0
+    }
+   ],
+   "puntos": 9.0,
    "tramo": "de momento no"
   },
   "hoy": "2026-10-26"
@@ -12293,6 +12683,200 @@
   },
   "hoy": "2026-10-26"
  },
+ "A87200598": {
+  "evaluacion": {
+   "avisos": [],
+   "cobertura": 4,
+   "de": 6,
+   "dimensiones": [
+    {
+     "estado": "sin datos",
+     "id": "apalancamiento",
+     "max": 25,
+     "nombre": "Apalancamiento",
+     "partes": [
+      {
+       "detalle": "sin deuda ni valor de inmuebles con que calcularlo (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "LTV",
+       "fuente": null,
+       "max": 17,
+       "puntos": null
+      },
+      {
+       "detalle": "sin tabla de vencimientos de la deuda (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Vencimientos a 2 años",
+       "fuente": null,
+       "max": 8,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "parcial",
+     "id": "dividendos",
+     "max": 20,
+     "nombre": "Dividendos",
+     "partes": [
+      {
+       "detalle": "34.886 € acordados con cargo a 2026",
+       "estado": "cumplida",
+       "etiqueta": "Reparte dividendo",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05196_OtraInfRelev_20260504.pdf",
+       "max": 10,
+       "puntos": 10
+      },
+      {
+       "detalle": "0,3 % (34.886 € sobre 13,1 M€ de capitalización)",
+       "estado": "no cumplida",
+       "etiqueta": "Rendimiento sobre capitalización",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05196_OtraInfRelev_20260504.pdf",
+       "max": 6,
+       "puntos": 0.0
+      },
+      {
+       "detalle": "sin dividendo del ejercicio anterior con que comparar",
+       "estado": "sin datos",
+       "etiqueta": "Crece",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": 10.0
+    },
+    {
+     "estado": "no cumplida",
+     "id": "valor_liquidativo",
+     "max": 15,
+     "nombre": "Valor liquidativo",
+     "partes": [
+      {
+       "detalle": "sin NAV por acción ni patrimonio neto con capitalización (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Cotización frente al valor",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "no se ha encontrado una valoración externa comunicada al mercado",
+       "estado": "no cumplida",
+       "etiqueta": "Valoración externa",
+       "fuente": null,
+       "max": 5,
+       "puntos": 0.0
+      }
+     ],
+     "puntos": 0.0
+    },
+    {
+     "estado": "parcial",
+     "id": "concentracion",
+     "max": 15,
+     "nombre": "Concentración accionarial",
+     "partes": [
+      {
+       "detalle": "SINGULAR PRIME INVESTMENT SICC II SA con el 98,05 %",
+       "estado": "cumplida",
+       "etiqueta": "Mayor accionista",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05196_OtraInfRelev_20260107.pdf",
+       "max": 8,
+       "puntos": 8.0
+      },
+      {
+       "detalle": "2 accionistas ≥ 5 % suman el 103,0 %",
+       "estado": "cumplida",
+       "etiqueta": "Suma de significativos",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05196_OtraInfRelev_20260107.pdf",
+       "max": 4,
+       "puntos": 4.0
+      },
+      {
+       "detalle": "ninguna persona física publicada entre los significativos",
+       "estado": "no cumplida",
+       "etiqueta": "Persona física detrás",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05196_OtraInfRelev_20260107.pdf",
+       "max": 3,
+       "puntos": 0.0
+      }
+     ],
+     "puntos": 12.0
+    },
+    {
+     "estado": "sin datos",
+     "id": "activos",
+     "max": 15,
+     "nombre": "Activos",
+     "partes": [
+      {
+       "detalle": "sin valor de los inmuebles (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Tamaño de la cartera",
+       "fuente": null,
+       "max": 6,
+       "puntos": null
+      },
+      {
+       "detalle": "sin lista de activos con valor (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Diversificación",
+       "fuente": null,
+       "max": 5,
+       "puntos": null
+      },
+      {
+       "detalle": "faltan las rentas o el valor de los inmuebles",
+       "estado": "sin datos",
+       "etiqueta": "Rentas sobre valor",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "parcial",
+     "id": "madurez",
+     "max": 10,
+     "nombre": "Madurez en el mercado",
+     "partes": [
+      {
+       "detalle": "BME Scaleup",
+       "estado": "parcial",
+       "etiqueta": "Mercado",
+       "fuente": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.vbare-iberian-properties-socimi-s-a-es0105196002.html",
+       "max": 4,
+       "puntos": 2.0
+      },
+      {
+       "detalle": "sin fecha de incorporación (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Antigüedad en el mercado",
+       "fuente": null,
+       "max": 3,
+       "puntos": null
+      },
+      {
+       "detalle": "cuentas anuales recientes: sí; semestral reciente: sí",
+       "estado": "cumplida",
+       "etiqueta": "Publica lo que debe",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05196_OtraInfRelev_20260327.pdf",
+       "max": 3,
+       "puntos": 3.0
+      }
+     ],
+     "puntos": 5.0
+    }
+   ],
+   "puntos": 27.0,
+   "tramo": "de momento no"
+  },
+  "hoy": "2026-10-26"
+ },
  "A87227120": {
   "evaluacion": {
    "avisos": [
@@ -15219,6 +15803,200 @@
     }
    ],
    "puntos": 26.9,
+   "tramo": "de momento no"
+  },
+  "hoy": "2026-10-26"
+ },
+ "A87870150": {
+  "evaluacion": {
+   "avisos": [],
+   "cobertura": 3,
+   "de": 6,
+   "dimensiones": [
+    {
+     "estado": "sin datos",
+     "id": "apalancamiento",
+     "max": 25,
+     "nombre": "Apalancamiento",
+     "partes": [
+      {
+       "detalle": "sin deuda ni valor de inmuebles con que calcularlo (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "LTV",
+       "fuente": null,
+       "max": 17,
+       "puntos": null
+      },
+      {
+       "detalle": "sin tabla de vencimientos de la deuda (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Vencimientos a 2 años",
+       "fuente": null,
+       "max": 8,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "sin datos",
+     "id": "dividendos",
+     "max": 20,
+     "nombre": "Dividendos",
+     "partes": [
+      {
+       "detalle": "ni dividendo acordado ni pagado en el último ejercicio (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Reparte dividendo",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "falta el dividendo o la capitalización",
+       "estado": "sin datos",
+       "etiqueta": "Rendimiento sobre capitalización",
+       "fuente": null,
+       "max": 6,
+       "puntos": null
+      },
+      {
+       "detalle": "sin dividendo del ejercicio anterior con que comparar",
+       "estado": "sin datos",
+       "etiqueta": "Crece",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "no cumplida",
+     "id": "valor_liquidativo",
+     "max": 15,
+     "nombre": "Valor liquidativo",
+     "partes": [
+      {
+       "detalle": "sin NAV por acción ni patrimonio neto con capitalización (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Cotización frente al valor",
+       "fuente": null,
+       "max": 10,
+       "puntos": null
+      },
+      {
+       "detalle": "no se ha encontrado una valoración externa comunicada al mercado",
+       "estado": "no cumplida",
+       "etiqueta": "Valoración externa",
+       "fuente": null,
+       "max": 5,
+       "puntos": 0.0
+      }
+     ],
+     "puntos": 0.0
+    },
+    {
+     "estado": "parcial",
+     "id": "concentracion",
+     "max": 15,
+     "nombre": "Concentración accionarial",
+     "partes": [
+      {
+       "detalle": "SCSp, del con el 99,58 %",
+       "estado": "cumplida",
+       "etiqueta": "Mayor accionista",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05323_OtraInfRelev_20260701.pdf",
+       "max": 8,
+       "puntos": 8.0
+      },
+      {
+       "detalle": "1 accionistas ≥ 5 % suman el 99,6 %",
+       "estado": "cumplida",
+       "etiqueta": "Suma de significativos",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05323_OtraInfRelev_20260701.pdf",
+       "max": 4,
+       "puntos": 4.0
+      },
+      {
+       "detalle": "ninguna persona física publicada entre los significativos",
+       "estado": "no cumplida",
+       "etiqueta": "Persona física detrás",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05323_OtraInfRelev_20260701.pdf",
+       "max": 3,
+       "puntos": 0.0
+      }
+     ],
+     "puntos": 12.0
+    },
+    {
+     "estado": "sin datos",
+     "id": "activos",
+     "max": 15,
+     "nombre": "Activos",
+     "partes": [
+      {
+       "detalle": "sin valor de los inmuebles (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Tamaño de la cartera",
+       "fuente": null,
+       "max": 6,
+       "puntos": null
+      },
+      {
+       "detalle": "sin lista de activos con valor (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Diversificación",
+       "fuente": null,
+       "max": 5,
+       "puntos": null
+      },
+      {
+       "detalle": "faltan las rentas o el valor de los inmuebles",
+       "estado": "sin datos",
+       "etiqueta": "Rentas sobre valor",
+       "fuente": null,
+       "max": 4,
+       "puntos": null
+      }
+     ],
+     "puntos": null
+    },
+    {
+     "estado": "parcial",
+     "id": "madurez",
+     "max": 10,
+     "nombre": "Madurez en el mercado",
+     "partes": [
+      {
+       "detalle": "BME Scaleup",
+       "estado": "parcial",
+       "etiqueta": "Mercado",
+       "fuente": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.tempore-properties-socimi-s-a-es0105323002.html",
+       "max": 4,
+       "puntos": 2.0
+      },
+      {
+       "detalle": "sin fecha de incorporación (no consta)",
+       "estado": "sin datos",
+       "etiqueta": "Antigüedad en el mercado",
+       "fuente": null,
+       "max": 3,
+       "puntos": null
+      },
+      {
+       "detalle": "cuentas anuales recientes: sí; semestral reciente: sí",
+       "estado": "cumplida",
+       "etiqueta": "Publica lo que debe",
+       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05323_OtraInfRelev_20260429.pdf",
+       "max": 3,
+       "puntos": 3.0
+      }
+     ],
+     "puntos": 5.0
+    }
+   ],
+   "puntos": 17.0,
    "tramo": "de momento no"
   },
   "hoy": "2026-10-26"

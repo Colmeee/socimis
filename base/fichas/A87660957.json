@@ -415,15 +415,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A87660957-cuentas_anuales-2026-04-29.txt",
-    "linea": "Banco Bilbao Vizcaya Argentaria S.A. 27.000 27.000 Euribor a 3 meses + 1,70%",
-    "lugar": "Bilbao",
-    "provincia": "Bizkaia"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

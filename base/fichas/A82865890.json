@@ -87,15 +87,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A82865890-cuentas_anuales-2026-04-30.txt",
-    "linea": "b) D. Miguel Oñate Rino",
-    "lugar": "Oñate",
-    "provincia": "Gipuzkoa"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

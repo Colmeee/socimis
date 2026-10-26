@@ -317,15 +317,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A59095901-cuentas_anuales-2026-03-23.txt",
-    "linea": "✓ Préstamo suscrito con Banco Bilbao Vizcaya Argentaria, S.A. (“BBVA”), en fecha 20 de diciembre",
-    "lugar": "Bilbao",
-    "provincia": "Bizkaia"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

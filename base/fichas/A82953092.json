@@ -415,15 +415,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A82953092-cuentas_anuales-2026-05-27.txt",
-    "linea": "Con fecha 4 de diciembre de 2014 la Sociedad firmó con el Banco Bilbao Vizcaya Argentaria, S.A. (BBVA) un contrato",
-    "lugar": "Bilbao",
-    "provincia": "Bizkaia"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

@@ -1,0 +1,109 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": "del capital social de Témpore.",
+   "acciones": null,
+   "accionista": "SCSp, del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05323_OtraInfRelev_20260701.pdf",
+   "huella": "009684910aced2434b6dd97ec840d747a29f34e8be65c8ab709bef5e2962b75e",
+   "pct_directo": null,
+   "pct_indirecto": 99.58,
+   "pct_total": 99.58,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 14824373,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-29",
+   "huella": "619d3d560fa793a3c24c43e055be7cd3a324292c583bf971b08918630e60512c",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (14 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05323_OtraInfRelev_20260429.pdf"
+  },
+  {
+   "bytes": 243697,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-09",
+   "huella": "1cc56d9426699cd7e4b3ee9e01a4af345bc678c2828d21e948cf8bbbefc27038",
+   "tipo": "dividendo",
+   "titulo": "Calendario de pago del dividendo en caso de ser aprobado por la Junta General Ordinaria de Accionistas (237 KB) Relacionado con: Otra Información Relevante ( 20:08)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05323_OtraInfRelev_20260609.pdf"
+  },
+  {
+   "bytes": 220865,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-01",
+   "huella": "009684910aced2434b6dd97ec840d747a29f34e8be65c8ab709bef5e2962b75e",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (215 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05323_OtraInfRelev_20260701.pdf"
+  },
+  {
+   "bytes": 2079950,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-10-20",
+   "huella": "c6b5c1bd4b029c5bf3e82c97277730353e54df401a42c713f08aac9849ee4b75",
+   "tipo": "semestral",
+   "titulo": "TÉMPORE PROPERTIES SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05323_OtraInfRelev_20261020.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-09",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05323_OtraInfRelev_20260609.pdf",
+    "huella": "1cc56d9426699cd7e4b3ee9e01a4af345bc678c2828d21e948cf8bbbefc27038",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.28683492
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 93953383,
+  "cotizacion": 2.7,
+  "domicilio": "AVENIDA DE MANOTERAS 46, 28050 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105323002",
+  "mercado": "BME MTF Equity",
+  "nif": "A87870150",
+  "nombre": "TÉMPORE PROPERTIES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCTEM",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.tempore-properties-socimi-s-a-es0105323002.html",
+  "web": "http://www.temporeproperties.es"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

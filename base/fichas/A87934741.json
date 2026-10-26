@@ -1265,12 +1265,6 @@
    },
    {
     "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
-    "linea": "El día 27 de septiembre de 2024, la Sociedad Dominante suscribió con Banco Bilbao Vizcaya",
-    "lugar": "Bilbao",
-    "provincia": "Bizkaia"
-   },
-   {
-    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
     "linea": "Los préstamos hipotecarios relativos al aparthotel Gasteiz y al Edificio de Valencia, requieren",
     "lugar": "Gasteiz",
     "provincia": "Álava"
@@ -1376,6 +1370,12 @@
     "linea": "el Koisi Hostel ubicado en Donostia- San Sebastián y el Hostel de Córdoba). Adicionalmente,",
     "lugar": "Donostia",
     "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Avenida Gasteiz, Vitoria: Aparthotel de 120 apartamentos cuya explotación se inició el",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
    },
    {
     "documento": "A87934741-semestral-2025-10-31.txt",

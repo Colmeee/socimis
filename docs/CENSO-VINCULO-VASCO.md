@@ -1,22 +1,22 @@
 # Censo del piloto: SOCIMIs cotizadas con vínculo vasco
 
-Generado el 2026-10-26 por `herramientas/censo_vasco.py` desde `base/fichas/` (96 sociedades). Las fuentes de cada dato están en las fichas y en `base/socimis.sqlite`.
+Generado el 2026-10-26 por `herramientas/censo_vasco.py` desde `base/fichas/` (100 sociedades). Las fuentes de cada dato están en las fichas y en `base/socimis.sqlite`.
 
 ## Lo primero: por domicilio no hay ninguna
 
-Sociedades con domicilio social en Álava, Bizkaia o Gipuzkoa: **0 de 96**. Es lo esperado: las tres Normas Forales del Impuesto sobre Sociedades eliminaron el régimen SOCIMI (ver `VEREDICTO-FASE-1.md`, pero 1). Por eso el piloto mide el **vínculo**: activos, financiación y menciones en los documentos que la propia sociedad publica.
+Sociedades con domicilio social en Álava, Bizkaia o Gipuzkoa: **0 de 100**. Es lo esperado: las tres Normas Forales del Impuesto sobre Sociedades eliminaron el régimen SOCIMI (ver `VEREDICTO-FASE-1.md`, pero 1). Por eso el piloto mide el **vínculo**: activos, financiación y menciones en los documentos que la propia sociedad publica.
 
 ## Estado de la base
 
 | Segmento | Sociedades |
 |---|---|
 | BME Growth | 54 |
-| BME Scaleup | 41 |
+| BME Scaleup | 45 |
 | Continuo | 1 |
 
-- Con cuentas anuales leídas (tesorería en la base): **24**.
-- Con las cuentas anuales **escaneadas** (sin capa de texto; a la cola de OCR del Mac, `python3 -m socimis ocr-pendientes`): **55**. En estas el vínculo solo puede verse en los avisos cortos (participaciones, dividendos, valoración), no en la memoria.
-- Vínculo vasco **fuerte** (activos o financiación): **1**. **Indicio** (solo menciones): **14**. **Ninguno**: **81**.
+- Con cuentas anuales leídas (tesorería en la base): **25**.
+- Con las cuentas anuales **escaneadas** (sin capa de texto; a la cola de OCR del Mac, `python3 -m socimis ocr-pendientes`): **57**. En estas el vínculo solo puede verse en los avisos cortos (participaciones, dividendos, valoración), no en la memoria.
+- Vínculo vasco **fuerte** (activos o financiación): **1**. **Indicio** (solo menciones): **15**. **Ninguno**: **84**.
 
 ## Vínculo fuerte
 
@@ -61,6 +61,7 @@ Menciones (41; las primeras):
 - **MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A.** (BME Scaleup): 3 menciones; p. ej. *Vizcaya* — «Viviendas de Vizcaya, S.A. 14,29%»
 - **CUPULAS PROPERTIES SOCIMI, S.A.U.** (BME Scaleup): 1 menciones; p. ej. *Bilbao* — «PKF ATTEST SERVICIOS EMPRESARIALES, S.L. – Alameda de Recalde, 36 8º 48009 Bilbao - Reg. Merc. Biz., Tomo 4205, Sec 8, H»
 - **INMOBILIARIA PARK ROSE IBEROAMERICANA SOCIMI, S.A** (BME Scaleup): 12 menciones; p. ej. *Eibar* — «Otaola Hiribidea 2 Eibar 6.228.332,31 6.228.332,31»
+- **WELLDER SENIOR ASSETS SOCIMI, S.A.** (BME Scaleup): 6 menciones; p. ej. *Bilbao* — «Zamora, A Coruña, Pontevedra, León, Pamplona, Badalona, Alicante, Albacete y Bilbao. Con fecha 16 de»
 - **SOLVENTO GROUP 2022 SOCIMI S.A.** (BME Scaleup): 1 menciones; p. ej. *Oñate* — «Local comercial en Oñate (Guipúzcoa) 01/12/2023»
 - **FIDERE PATRIMONIO SOCIMI, S.A.** (BME Growth): 1 menciones; p. ej. *Oñate* — «Oñate Rino y Dña. Elena Piaia»
 - **TANDER INVERSIONES, SOCIMI, S.A** (BME Growth): 12 menciones; p. ej. *San Sebastián* — «de Gracia 15, Paseo de Gracia 27) y en San Sebastián, Bilbao, Santander, Palma de 2%»
@@ -75,7 +76,7 @@ Menciones (41; las primeras):
 
 ## Sin vínculo encontrado
 
-Las 81 restantes no nombran ningún lugar vasco ni tienen préstamos de entidades vascas en lo leído. Para las escaneadas (55) esto no significa «no»: significa «no leído». La lista completa, con segmento y domicilio, está en `base/csv/sociedad.csv` y `base/csv/vinculo_vasco.csv`.
+Las 84 restantes no nombran ningún lugar vasco ni tienen préstamos de entidades vascas en lo leído. Para las escaneadas (57) esto no significa «no»: significa «no leído». La lista completa, con segmento y domicilio, está en `base/csv/sociedad.csv` y `base/csv/vinculo_vasco.csv`.
 
 ## Cómo se ha medido
 

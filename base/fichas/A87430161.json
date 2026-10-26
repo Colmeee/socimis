@@ -359,24 +359,6 @@
   "grado": "indicio",
   "menciones": [
    {
-    "documento": "A87430161-cuentas_anuales-2026-04-27.txt",
-    "linea": "Edificio Navas de Tolosa 279, Barcelona 88.690 84.672",
-    "lugar": "Tolosa",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-cuentas_anuales-2026-04-27.txt",
-    "linea": "EDIFICIO NAVAS DE TOLOSA 2019",
-    "lugar": "TOLOSA",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-semestral-2026-10-20.txt",
-    "linea": "Edificio Calle Navas de Tolosa 279, Barcelona 41.619 42.816",
-    "lugar": "Tolosa",
-    "provincia": "Gipuzkoa"
-   },
-   {
     "documento": "A87430161-valoracion-2020-02-26.txt",
     "linea": "Casco Histórico, Hondarribia 58,00 240.000,00 4.137,93 3.724,14",
     "lugar": "Hondarribia",
@@ -390,55 +372,7 @@
    },
    {
     "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "NAVAS DE TOLOSA, 279",
-    "lugar": "TOLOSA",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "PROPIEDAD: NAVAS DE TOLOSA, 279, 08026, BARCELONA",
-    "lugar": "TOLOSA",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "NAVAS DE TOLOSA, 279, 08026, BARCELONA",
-    "lugar": "TOLOSA",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "Dirección NAVAS DE TOLOSA, 279, 08026, BARCELONA",
-    "lugar": "TOLOSA",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "El inmueble objeto de valoración se encuentra ubicado en la calle Navas de Tolosa nº 279 (Barcelona).",
-    "lugar": "Tolosa",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "Navas de Tolosa, 279",
-    "lugar": "Tolosa",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
     "linea": "Tolosa, 279. El activo consiste en un edificio residencial de 11 viviendas y un local comercial en planta baja. El edificio fue",
-    "lugar": "Tolosa",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "C/ Navas de Tolosa, 272 30,00 400,00 13,33",
-    "lugar": "Tolosa",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A87430161-valoracion-2020-02-26.txt",
-    "linea": "C/ Navas de Tolosa, 317 58,00 495,00 8,53",
     "lugar": "Tolosa",
     "provincia": "Gipuzkoa"
    },

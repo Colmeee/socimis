@@ -1,0 +1,282 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2025: no encontrado: patrimonio_neto",
+  "cuentas 2025: no encontrado: cifra_negocios",
+  "cuentas 2025: no encontrado: variacion_valor_razonable",
+  "cuentas 2025: no encontrado: pagos_dividendos"
+ ],
+ "documentos": [
+  {
+   "bytes": 1991197,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-26",
+   "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf"
+  },
+  {
+   "bytes": 110809,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-08",
+   "huella": "fd26e154e52ff5c513b24ba4352a2a4d4d5bab485354eb2a8dfa6125f4f27f84",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 31 de diciembre de 2025 (108 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05806_OtraInfRelev_20260108.pdf"
+  },
+  {
+   "bytes": 1220159,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-09-22",
+   "huella": "8f49c1e38529aabb7ffb17837f5b0b9cf12af7d8498ad7fe86f6a6071b50434a",
+   "tipo": "semestral",
+   "titulo": "WELLDER SENIOR ASSETS SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05806_OtraInfRelev_20260922.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2024": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 91563000.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (1 sumandos)",
+    "unidad": "EUR",
+    "valor": 37553000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 37553000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4561000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7205000.0
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 91466000.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 44188000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 42425000.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2025000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 596.9
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3381000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 40807000.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7540000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1763000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05806_OtraInfRelev_20260326_1.pdf",
+    "huella": "7889cb4404da635501bc860700bd898c2a5cb368c9d1c7364657157a5c94344e",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7108000.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 93173790,
+  "cotizacion": 1,
+  "domicilio": "AUGUSTA 252, 08017 BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105806006",
+  "mercado": "BME MTF Equity",
+  "nif": "A72502404",
+  "nombre": "WELLDER SENIOR ASSETS SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Barcelona",
+  "segmento": "BME Scaleup",
+  "ticker": "SCWEL",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.wellder-senior-assets-socimi-s-a-es0105806006.html",
+  "web": "https://www.wellder.es"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A72502404-cuentas_anuales-2026-03-26.txt",
+    "linea": "Zamora, A Coruña, Pontevedra, León, Pamplona, Badalona, Alicante, Albacete y Bilbao. Con fecha 16 de",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A72502404-cuentas_anuales-2026-03-26.txt",
+    "linea": "Albacete y Bilbao, con fecha 11 de noviembre de 2025 y 29 de diciembre de 2025, respectivamente. Salvo",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A72502404-cuentas_anuales-2026-03-26.txt",
+    "linea": "Durante el ejercicio 2025, el Grupo ha adquirido dos nuevas residencias ubicadas en Albacete y Bilbao.",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A72502404-semestral-2026-09-22.txt",
+    "linea": "Burgos, Ávila, Zamora, A Coruña, Pontevedra, León, Pamplona, Badalona, Alicante, Albacete y Bilbao.",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A72502404-semestral-2026-09-22.txt",
+    "linea": "residencias ubicadas en Albacete y Bilbao. A 30 de junio de 2026 todas las residencias se encuentran",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A72502404-semestral-2026-09-22.txt",
+    "linea": "2025, el Grupo adquirió dos nuevas residencias ubicadas en Albacete y Bilbao. Durante el ejercicio 2024,",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

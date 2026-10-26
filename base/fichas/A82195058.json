@@ -213,33 +213,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A82195058-cuentas_anuales-2026-03-24.txt",
-    "linea": "C/ Príncipe de Vergara, 109. Edificio completo. Fecha de adquisición 31 de",
-    "lugar": "Vergara",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A82195058-cuentas_anuales-2026-03-24.txt",
-    "linea": "de Príncipe de Vergara, 109, así como el inicio de la imputación por reforma del",
-    "lugar": "Vergara",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A82195058-semestral-2026-09-30.txt",
-    "linea": "Príncipe de Vergara, 109; San Bernardo, 123; y Magallanes, 3.",
-    "lugar": "Vergara",
-    "provincia": "Gipuzkoa"
-   },
-   {
-    "documento": "A82195058-semestral-2026-09-30.txt",
-    "linea": "calle Príncipe de Vergara, 109, y otras nuevas inversiones.",
-    "lugar": "Vergara",
-    "provincia": "Gipuzkoa"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }

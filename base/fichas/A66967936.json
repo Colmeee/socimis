@@ -1,0 +1,80 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 31422988,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-29",
+   "huella": "5c2ce7904b0b0b4eb8ae2eaa93b81830c6b6cedf5ca899c35661e6557dc7a48c",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (29 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05392_OtraInfRelev_20260429.pdf"
+  },
+  {
+   "bytes": 77182,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-12-02",
+   "huella": "efba7f8f99d5b4d254351bf8b081858d1d2f64c41b89c664a014f70c62419588",
+   "tipo": "dividendo",
+   "titulo": "Acuerdo del Consejo de Administración de distribución de dividendo a cuenta del ejercicio 2025 (75 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/12/05392_OtraInfRelev_20251202.pdf"
+  },
+  {
+   "bytes": 165518,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-09",
+   "huella": "a9c1567d1c05c354f00de321372d73b373cfd22a95163ce458ae34df92e7802a",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 31 de diciembre de 2025 (161 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05392_OtraInfRelev_20260109.pdf"
+  },
+  {
+   "bytes": 37038837,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-27",
+   "huella": "55e024c71f0f6d7299fe8201e23bd10d8fc3e97f8401526a438f7eae2ba6f3e5",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (35 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05392_OtraInfRelev_20251027.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 34775902,
+  "cotizacion": 6.55,
+  "domicilio": "CL/ ORTIGOSA 14, 08003 BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105392007",
+  "mercado": "BME MTF Equity",
+  "nif": "A66967936",
+  "nombre": "URBAN VIEW DEVELOPMENT SPAIN SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Barcelona",
+  "segmento": "BME Scaleup",
+  "ticker": "SCUVS",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.urban-view-development-spain-socimi-s-a-es0105392007.html",
+  "web": "https://www.urbanview.es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

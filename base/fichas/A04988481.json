@@ -87,15 +87,8 @@
  "vinculo_vasco": {
   "activos": [],
   "financiacion": [],
-  "grado": "indicio",
-  "menciones": [
-   {
-    "documento": "A04988481-cuentas_anuales-2026-05-29.txt",
-    "linea": "domicilio en Calle Príncipe de Vergara 112, 4º Madrid, España.",
-    "lugar": "Vergara",
-    "provincia": "Gipuzkoa"
-   }
-  ],
+  "grado": "ninguno",
+  "menciones": [],
   "pct_valor_en_pais_vasco": null,
   "provincias": {}
  }
