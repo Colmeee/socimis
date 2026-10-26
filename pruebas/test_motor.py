@@ -149,6 +149,23 @@ class TestVinculoVasco(unittest.TestCase):
         self.assertEqual(v["menciones"][0]["lugar"], "Alava")
 
 
+class TestVinculoVascoExclusiones(unittest.TestCase):
+    def test_bbva_calles_y_apellidos_no_cuentan(self):
+        f = modelo.ficha_vacia()
+        textos = {"x": "Préstamo con Banco Bilbao Vizcaya Argentaria S.A. 27.000\ndomicilio en Calle Príncipe de Vergara 112, Madrid\n"
+                       "Edificio Navas de Tolosa 279, Barcelona\nC/ SAN SEBASTIAN 25 ALCANTARILLA (MURCIA)\nDon Fernando Lacadena Azpeitia: consejero\n"}
+        self.assertEqual(vinculo_vasco.evaluar(f, textos)["grado"], "ninguno")
+
+    def test_lugares_de_verdad_siguen_contando(self):
+        f = modelo.ficha_vacia()
+        v = vinculo_vasco.evaluar(f, {"x": "Locales en el Parque Comercial de Txingudi, en Irún\nOtaola Hiribidea 2 Eibar 6.228.332\nCalle Arrasate 27, San Sebastián\n"})
+        self.assertEqual(v["grado"], "indicio")
+        lugares = {m["lugar"] for m in v["menciones"]}
+        self.assertTrue({"Eibar", "Irún"} <= lugares)
+        self.assertTrue(lugares & {"Arrasate", "San Sebastián"})       # la calle Arrasate de Donostia: cualquiera de los dos vale
+        self.assertEqual(len(v["menciones"]), 3)
+
+
 class TestBase(unittest.TestCase):
     def test_sqlite_y_csv(self):
         with tempfile.TemporaryDirectory() as tmp:

@@ -9,7 +9,9 @@ mide ese vínculo sobre los textos ya bajados, con evidencia línea a línea, y 
 Tres señales, cada una con sus pruebas:
   activos       activos de la tabla de inversiones inmobiliarias con ubicación vasca, y su valor
   financiacion  préstamos de entidades vascas (Kutxabank, Laboral Kutxa, Bankoa) en la tabla de vencimientos
-  menciones     líneas del texto que nombran lugares vascos (fuera de las dos tablas), como pista para leer a mano
+  menciones     líneas del texto que nombran lugares vascos (fuera de las dos tablas), como pista para leer a mano; antes se
+                quitan las frases que engañan (BBVA, «Príncipe de Vergara», «Navas de Tolosa», «San Sebastián de los Reyes»,
+                apellidos tras «Don/Dña»): `exclusiones` en vasco.json
 El resultado lleva `grado`: «fuerte» (activos o financiación), «indicio» (solo menciones) o «ninguno».
 """
 import json
@@ -33,9 +35,15 @@ def evaluar(ficha, textos, gaz=None):
     gaz = gaz or cargar_gazetteer()
     lugares = _patron([n for prov in gaz["provincias"].values() for n in prov])
     bancos = _patron(gaz["entidades_financieras"])
+    exclusiones = [re.compile(x, re.I) for x in gaz.get("exclusiones", [])]
+
+    def limpia(texto):
+        for rx in exclusiones:
+            texto = rx.sub(" ", texto)
+        return texto
     salida = {"grado": "ninguno", "activos": [], "financiacion": [], "menciones": [], "provincias": {}}
     for a in ficha.get("activos", []):
-        m = lugares.search("%s %s" % (a.get("nombre", ""), a.get("ubicacion", "")))
+        m = lugares.search(limpia("%s %s" % (a.get("nombre", ""), a.get("ubicacion", ""))))
         if m:
             prov = _provincia(m.group(1), gaz)
             salida["activos"].append({"nombre": a.get("nombre"), "ubicacion": a.get("ubicacion"), "valor": a.get("valor"), "provincia": prov, "fuente": a.get("fuente")})
@@ -46,7 +54,7 @@ def evaluar(ficha, textos, gaz=None):
     vistas = set()
     for nombre, texto in (textos or {}).items():
         for linea in texto.splitlines():
-            m = lugares.search(linea)
+            m = lugares.search(limpia(linea))
             if m and len(linea.strip()) > 8:
                 l = re.sub(r"\s+", " ", linea.strip())[:160]
                 if l in vistas:
