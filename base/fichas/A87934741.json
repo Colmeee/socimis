@@ -1,0 +1,1394 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": 890601,
+   "accionista": "Ion Ion, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": 5.73,
+   "pct_indirecto": null,
+   "pct_total": 5.73,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": 890601,
+   "accionista": "D. Juan María Riberas",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": null,
+   "pct_indirecto": 5.73,
+   "pct_total": 5.73,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": 803753,
+   "accionista": "EMPEDRAT 2015, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": 5.17,
+   "pct_indirecto": null,
+   "pct_total": 5.17,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": "EMPEDRAT 2015 S.L.",
+   "acciones": 784195,
+   "accionista": "D. David Sala Coll",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": null,
+   "pct_indirecto": 5.04,
+   "pct_total": 5.04,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": 794574,
+   "accionista": "MIRLING EUROPE, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": 5.11,
+   "pct_indirecto": null,
+   "pct_total": 5.11,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": 783718,
+   "accionista": "Gassbona 2006, SL",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": 5.04,
+   "pct_indirecto": null,
+   "pct_total": 5.04,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": 779967,
+   "accionista": "ODRE 2005, S.L.U.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": 5.01,
+   "pct_indirecto": null,
+   "pct_total": 5.01,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": "ODRE 2005 S.L.U.",
+   "acciones": null,
+   "accionista": "D. Luis Gómez Laguna",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "pct_directo": null,
+   "pct_indirecto": 5.01,
+   "pct_total": 5.01,
+   "tipo": "fisica"
+  }
+ ],
+ "activos": [
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Aparthotel Gasteiz",
+   "ubicacion": "Avenida de Gasteiz 45, Vitoria",
+   "valor": 34800000.0,
+   "valor_anterior": 28900000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Valencia",
+   "ubicacion": "Avenida del Oeste 48, Valencia",
+   "valor": 60700000.0,
+   "valor_anterior": 42000000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Koisi Hostel",
+   "ubicacion": "Paseo Heriz 38, San Sebastián",
+   "valor": null,
+   "valor_anterior": 6100000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Córdoba",
+   "ubicacion": "Calle Santa Marta 9-11, Córdoba",
+   "valor": null,
+   "valor_anterior": 5318998.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Apartamentos Alameda de Recalde",
+   "ubicacion": "Alameda de Recalde 1, Bilbao",
+   "valor": 3800000.0,
+   "valor_anterior": 3669769.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Apartamentos Bilbao la Vieja",
+   "ubicacion": "Calle Vitoria Gasteiz 6. Bilbao",
+   "valor": 2300000.0,
+   "valor_anterior": 2277883.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Sevilla",
+   "ubicacion": "Calle Albareda 18, Sevilla",
+   "valor": 21860000.0,
+   "valor_anterior": 15000000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Bilbao Ledesma",
+   "ubicacion": "Calle Ledesma 5, Bilbao",
+   "valor": 15000000.0,
+   "valor_anterior": 14590000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Barcelona Sant Antoni",
+   "ubicacion": "Ronda Sant Antoni 49, Barcelona",
+   "valor": 25300000.0,
+   "valor_anterior": 24100000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Pamplona",
+   "ubicacion": "Plaza Yamaguchi 12, Pamplona",
+   "valor": 10020000.0,
+   "valor_anterior": 10020853.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Alicante calle Gerona",
+   "ubicacion": "Calle Gerona 2, Alicante",
+   "valor": 18650000.0,
+   "valor_anterior": 12386158.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Madrid José Abascal",
+   "ubicacion": "Calle José Abascal 8, Madrid",
+   "valor": 30000000.0,
+   "valor_anterior": 28000000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Apartamentos Málaga Granada 76",
+   "ubicacion": "Calle Granada 76, Málaga",
+   "valor": 11180000.0,
+   "valor_anterior": 9589404.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Málaga Plaza del Siglo",
+   "ubicacion": "Plaza del Siglo 3, Málaga",
+   "valor": 15610000.0,
+   "valor_anterior": 11844948.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Madrid Almagro",
+   "ubicacion": "Calle Almagro 28, Madrid",
+   "valor": 3800000.0,
+   "valor_anterior": 3820000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Sevilla San Jacinto",
+   "ubicacion": "Calle San Jacinto 62, Sevilla",
+   "valor": 10350000.0,
+   "valor_anterior": 6000000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Málaga Beatas",
+   "ubicacion": "Calle Beatas 47, Málaga",
+   "valor": 2866000.0,
+   "valor_anterior": 3530171.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Madrid Alcántara",
+   "ubicacion": "Calle Alcántara 25, Madrid",
+   "valor": 50000000.0,
+   "valor_anterior": 43000000.0
+  },
+  {
+   "consultado": "2026-10-26",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "nombre": "Edificio Barcelona Sancho de Ávila",
+   "ubicacion": "Calle Sancho de Ávila nº 32-34",
+   "valor": 47201000.0,
+   "valor_anterior": 5250000.0
+  }
+ ],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 12593109,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-05-21",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 (12 MB) Rectifica: Otra Información Relevante ( 08:42)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf"
+  },
+  {
+   "bytes": 128649,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-24",
+   "huella": "282adfe29a94b103d78dde19a946c7ed87ebd166d11212b52e085a1754043954",
+   "tipo": "dividendo",
+   "titulo": "Distribución y pago de dividendos 2026 (125 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05495_OtraInfRelev_20260624.pdf"
+  },
+  {
+   "bytes": 281901,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-06",
+   "huella": "7e443826b98691edb7016fb64182a7f20ea74a3068f5c66a142078966d8dea46",
+   "tipo": "participaciones",
+   "titulo": "ALL IRON RE I SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05495_OtraInfRelev_20260706.pdf"
+  },
+  {
+   "bytes": 1175233,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-31",
+   "huella": "2867e020683828fafdc921f77e1403c8c2d8702a2155c7f84b132120ab6f3799",
+   "tipo": "semestral",
+   "titulo": "Información financiera del primer semestre de 2025 (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05495_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 67839,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-30",
+   "huella": "1e7732ca3a4ce23f6aecb8aaec350089387f63fbc12ea4155f356cb2bd506860",
+   "tipo": "valoracion",
+   "titulo": "Valoración de activos a 31 de diciembre de 2025 (66 KB) Rectifica: Otra Información Relevante ( 08:43)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05495_OtraInfRelev_20260430.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2024": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 311618619.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 98381819.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 75973358.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 843416.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6988472.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7586867.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 27.6
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 206665961.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4160422.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 94221397.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 11966084.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 22408461.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 275398184.0
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 391193555.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 123869416.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 110652115.0
+   },
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago 2026-07-16",
+    "fecha": "2026-06-23",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05495_OtraInfRelev_20260624.pdf",
+    "huella": "282adfe29a94b103d78dde19a946c7ed87ebd166d11212b52e085a1754043954",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 3226792.91
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-23",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05495_OtraInfRelev_20260624.pdf",
+    "huella": "282adfe29a94b103d78dde19a946c7ed87ebd166d11212b52e085a1754043954",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.20751445
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2245589.0
+   },
+   "gav_valoracion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de valoración; valoradores: Savills Aguirre Newman Valoraciones y Tasaciones, S.A.U., Gloval Valuation, S.A.U.",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05495_OtraInfRelev_20260430.pdf",
+    "huella": "1e7732ca3a4ce23f6aecb8aaec350089387f63fbc12ea4155f356cb2bd506860",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 363437000.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 9322657.0
+   },
+   "ingresos_rentas": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «ingresos_rentas», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 9832863.0
+   },
+   "ltv_declarado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "«LTV» en el informe de gestión",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "%",
+    "valor": 31.8
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / valoración externa (GAV)",
+    "unidad": "%",
+    "valor": 30.4
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 259382688.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6483865.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 117385551.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 44580816.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 13217301.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 363437000.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 216189800,
+  "cotizacion": 13.9,
+  "domicilio": "C/ MONTESQUINZA 28, 28010 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105495008",
+  "mercado": "BME MTF Equity",
+  "nif": "A87934741",
+  "nombre": "ALL IRON RE I SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YAI1",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.all-iron-re-i-socimi-s-a-es0105495008.html",
+  "web": "http://www.allironresocimi.es"
+ },
+ "vencimientos": [
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Banco Santander",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 21872301.0,
+   "importe_anterior": 14218460.0,
+   "tipo_interes": "2,45%",
+   "vencimiento": "2031-09-05"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Banco Santander",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 7006265.0,
+   "importe_anterior": 7649559.0,
+   "tipo_interes": "Euribor+2,25%",
+   "vencimiento": "2029-06-23"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Banco Santander",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 0.0,
+   "importe_anterior": 170017.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2025-04-25"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Banco Santander",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 193330.0,
+   "importe_anterior": 446858.0,
+   "tipo_interes": "1,90%",
+   "vencimiento": "2026-09-10"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 735652.0,
+   "importe_anterior": 782609.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2035-12-24"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 1021739.0,
+   "importe_anterior": 1086956.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2035-12-24"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 0.0,
+   "importe_anterior": 2194694.0,
+   "tipo_interes": "1,70%",
+   "vencimiento": "2035-10-26"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 1967613.0,
+   "importe_anterior": 2092258.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2036-04-21"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Kutxabank",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 1967616.0,
+   "importe_anterior": 2092260.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2036-04-21"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Banco Santander",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 7454264.0,
+   "importe_anterior": 8000626.0,
+   "tipo_interes": "2,00%",
+   "vencimiento": "2030-06-03"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Bankinter",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 6496063.0,
+   "importe_anterior": 5000000.0,
+   "tipo_interes": "Euribor+2,00%",
+   "vencimiento": "2036-03-29"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Abanca-Bankoa",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 0.0,
+   "importe_anterior": 1601145.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2036-09-30"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Rural de Navarra",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 2539769.0,
+   "importe_anterior": 2754072.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2036-11-14"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 4826164.0,
+   "importe_anterior": 5114088.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2037-02-04"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Kutxabank",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 4794597.0,
+   "importe_anterior": 5082551.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2037-02-04"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Kutxabank",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 3177368.0,
+   "importe_anterior": 3379491.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2037-02-11"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caixabank",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 7228320.0,
+   "importe_anterior": 7351900.0,
+   "tipo_interes": "1,50%",
+   "vencimiento": "2032-08-28"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Abanca-Bankoa",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 2612701.0,
+   "importe_anterior": 2612701.0,
+   "tipo_interes": "1,75%",
+   "vencimiento": "2037-09-01"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "BBVA",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 5568105.0,
+   "importe_anterior": 5750555.0,
+   "tipo_interes": "Euribor+1,5%",
+   "vencimiento": "2029-01-27"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja Laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 8250000.0,
+   "importe_anterior": 8250000.0,
+   "tipo_interes": "Euribor+1,3%",
+   "vencimiento": "2038-01-30"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Kutxabank",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 8250000.0,
+   "importe_anterior": 8250000.0,
+   "tipo_interes": "Euribor+1,3%",
+   "vencimiento": "2038-01-30"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "BBVA",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 5250000.0,
+   "importe_anterior": 5250000.0,
+   "tipo_interes": "Euribor+1,5%",
+   "vencimiento": "2037-09-27"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Caja laboral",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 2210500.0,
+   "importe_anterior": 510500.0,
+   "tipo_interes": "Euribor+1,75%",
+   "vencimiento": "2038-01-30"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Kutxabank",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 2200000.0,
+   "importe_anterior": 500000.0,
+   "tipo_interes": "Euribor+1,75%",
+   "vencimiento": "2038-01-30"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "BBVA",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 10000000.0,
+   "importe_anterior": 0.0,
+   "tipo_interes": "Euribor+1,5%",
+   "vencimiento": "2040-01-20"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Abanca-Bankoa",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+   "huella": "19ea634a81dad934d7908655fe2b508a446cec27bbef78a0e53ad859e862815b",
+   "importe": 10000000.0,
+   "importe_anterior": 0.0,
+   "tipo_interes": "Euribor+1,5%",
+   "vencimiento": "2040-01-20"
+  }
+ ],
+ "vinculo_vasco": {
+  "activos": [
+   {
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "nombre": "Aparthotel Gasteiz",
+    "provincia": "Álava",
+    "ubicacion": "Avenida de Gasteiz 45, Vitoria",
+    "valor": 34800000.0
+   },
+   {
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "nombre": "Koisi Hostel",
+    "provincia": "Gipuzkoa",
+    "ubicacion": "Paseo Heriz 38, San Sebastián",
+    "valor": null
+   },
+   {
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "nombre": "Apartamentos Alameda de Recalde",
+    "provincia": "Bizkaia",
+    "ubicacion": "Alameda de Recalde 1, Bilbao",
+    "valor": 3800000.0
+   },
+   {
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "nombre": "Apartamentos Bilbao la Vieja",
+    "provincia": "Bizkaia",
+    "ubicacion": "Calle Vitoria Gasteiz 6. Bilbao",
+    "valor": 2300000.0
+   },
+   {
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "nombre": "Edificio Bilbao Ledesma",
+    "provincia": "Bizkaia",
+    "ubicacion": "Calle Ledesma 5, Bilbao",
+    "valor": 15000000.0
+   }
+  ],
+  "financiacion": [
+   {
+    "entidad": "Caja Laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 735652.0,
+    "vencimiento": "2035-12-24"
+   },
+   {
+    "entidad": "Caja Laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 1021739.0,
+    "vencimiento": "2035-12-24"
+   },
+   {
+    "entidad": "Caja Laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 0.0,
+    "vencimiento": "2035-10-26"
+   },
+   {
+    "entidad": "Caja Laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 1967613.0,
+    "vencimiento": "2036-04-21"
+   },
+   {
+    "entidad": "Kutxabank",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 1967616.0,
+    "vencimiento": "2036-04-21"
+   },
+   {
+    "entidad": "Abanca-Bankoa",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 0.0,
+    "vencimiento": "2036-09-30"
+   },
+   {
+    "entidad": "Caja Laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 4826164.0,
+    "vencimiento": "2037-02-04"
+   },
+   {
+    "entidad": "Kutxabank",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 4794597.0,
+    "vencimiento": "2037-02-04"
+   },
+   {
+    "entidad": "Kutxabank",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 3177368.0,
+    "vencimiento": "2037-02-11"
+   },
+   {
+    "entidad": "Abanca-Bankoa",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 2612701.0,
+    "vencimiento": "2037-09-01"
+   },
+   {
+    "entidad": "Caja Laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 8250000.0,
+    "vencimiento": "2038-01-30"
+   },
+   {
+    "entidad": "Kutxabank",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 8250000.0,
+    "vencimiento": "2038-01-30"
+   },
+   {
+    "entidad": "Caja laboral",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 2210500.0,
+    "vencimiento": "2038-01-30"
+   },
+   {
+    "entidad": "Kutxabank",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 2200000.0,
+    "vencimiento": "2038-01-30"
+   },
+   {
+    "entidad": "Abanca-Bankoa",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf",
+    "importe": 10000000.0,
+    "vencimiento": "2040-01-20"
+   }
+  ],
+  "grado": "fuerte",
+  "menciones": [
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Aparthotel Gasteiz Avenida de Gasteiz 45, Vitoria 34.800.000 28.900.000",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Koisi Hostel Paseo Heriz 38, San Sebastián - 6.100.000",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Apartamentos Alameda de Recalde Alameda de Recalde 1, Bilbao 3.800.000 3.669.769",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Apartamentos Bilbao la Vieja Calle Vitoria Gasteiz 6. Bilbao 2.300.000 2.277.883",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Edificio Bilbao Ledesma Calle Ledesma 5, Bilbao 15.000.000 14.590.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Grupo, ubicados en San Sebastián y Córdoba, con superficie construida total de 2.481m2 y",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "2024 del activo ubicado en la calle Ledesma de Bilbao.",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "el edificio de Valencia, el edificio de Bilbao ubicado en la calle Ledesma, el edificio de Madrid",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Aparthotel Gasteiz 34.800.000 35.700.000 34.000.000",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Apartamentos Bilbao la Vieja 2.300.000 2.350.000 2.250.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Edificio Bilbao Ledesma 15.000.000 15.430.000 14.600.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Aparthotel Gasteiz 28.900.000 29.700.000 28.200.000",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Apartamentos Bilbao la Vieja 2.277.883 2.330.000 2.230.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Edificio Bilbao Ledesma 14.590.000 15.010.000 14.200.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Aparthotel Gasteiz 34.800.000 36.100.000 33.500.000",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Apartamentos Bilbao la Vieja 2.300.000 2.380.000 2.220.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Edificio Bilbao Ledesma 15.000.000 15.580.000 14.440.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Aparthotel Gasteiz 28.900.000 30.000.000 27.900.000",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Apartamentos Bilbao la Vieja 2.277.883 2.360.000 2.200.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Edificio Bilbao Ledesma 14.590.000 15.160.000 14.040.000",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "inmueble ubicado en el paseo de Heriz, 38, en San Sebastián con motivo de la desinversión",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "El día 27 de septiembre de 2024, la Sociedad Dominante suscribió con Banco Bilbao Vizcaya",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Los préstamos hipotecarios relativos al aparthotel Gasteiz y al Edificio de Valencia, requieren",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "aparthotel de Vitoria, fianzas de un local arrendado correspondiente al edificio de Málaga",
+    "lugar": "Vitoria",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Activo propiedad de la Avenida de Gasteiz 45,",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "28/11/2018 28/11/2018 Sociedad Dominante Aparthotel Gasteiz Vitoria",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "11/11/2019 11/11/2019 Sociedad Dominante Recalde Bilbao",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Activo propiedad de la Apart. Bilbao la Calle Vitoria Gasteiz 6,",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "17/02/2020 17/02/2020 Sociedad Dominante Vieja Bilbao",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "21/04/2021 21/04/2021 Sociedad Dominante Edificio Ledesma Calle Ledesma 5, Bilbao",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "AI Rentals Gasteiz 45, S.L. Otras partes vinculadas",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Líbere Bilbao, S.L. Otras partes vinculadas",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Heriz, S.L., Al Rentals Gasteiz 45, S.L., Líbere Bilbao, S.L., Líbere Madrid, S.L., Líbere",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "en la calle Vitoria-Gasteiz de Bilbao. El inmueble, que cuenta con una superficie construida",
+    "lugar": "Vitoria-Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "los dos hostels propiedad del Grupo, ubicados en San Sebastián y Córdoba, los cuales se",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "edificio de apartamentos ubicado en la calle Ledesma de Bilbao. Este activo se une a los 9",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "activos que ya se encontraban en explotación (el activo de la avenida Gasteiz 45 de Vitoria,",
+    "lugar": "Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "la entreplanta ubicada en la calle Alameda Recalde 1 de Bilbao, el edificio ubicado en la calle",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "Vitoria-Gasteiz 6 de Bilbao, el edificio situado en la calle Granada 76 de Málaga, el edificio de",
+    "lugar": "Vitoria-Gasteiz",
+    "provincia": "Álava"
+   },
+   {
+    "documento": "A87934741-cuentas_anuales-2026-05-21.txt",
+    "linea": "el Koisi Hostel ubicado en Donostia- San Sebastián y el Hostel de Córdoba). Adicionalmente,",
+    "lugar": "Donostia",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87934741-semestral-2025-10-31.txt",
+    "linea": "Bilbao 21.960.000 6% 20.537.652 7%",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": 15.4,
+  "provincias": {
+   "Bizkaia": 21100000.0,
+   "Gipuzkoa": 0,
+   "Álava": 34800000.0
+  }
+ }
+}

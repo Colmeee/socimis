@@ -1,0 +1,97 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 6074481,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-29",
+   "huella": "0cc38b493a5ab3a0f0f53565812fe716cb01b194d92d8aca5581b114f0bfeac9",
+   "tipo": "cuentas_anuales",
+   "titulo": "Informacion financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno. (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05436_OtraInfRelev_20260429_2.pdf"
+  },
+  {
+   "bytes": 121299,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-07-02",
+   "huella": "9a7e03c561a1409620e4afbb6adee3381ff8363d33ccdbc40b90e924ae715941",
+   "tipo": "dividendo",
+   "titulo": "Calendario de la distribución del dividendo aprobado en la junta de accionistas (118 KB) Sustituye a: Otra Información Relevante ( 16:42))",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/07/05436_OtraInfRelev_20250702_1.pdf"
+  },
+  {
+   "bytes": 91990,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-08",
+   "huella": "8b8aa9440fa67f1c44c4eb654a01821d365c895d2facc838c0e0066afe0f6418",
+   "tipo": "participaciones",
+   "titulo": "GREENOAK SPAIN HOLDINGS SOCIMI II, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05436_OtraInfRelev_20260708.pdf"
+  },
+  {
+   "bytes": 3896378,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-19",
+   "huella": "0cc32e8a10be515f96e93c5ea8bc4ae279b44d6657e07281e1bf09d261eed2c1",
+   "tipo": "semestral",
+   "titulo": "GREENOAK SPAIN HOLDINGS SOCIMI II, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05436_OtraInfRelev_20261019.pdf"
+  },
+  {
+   "bytes": 90528,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-29",
+   "huella": "6011ab55f13bb01fc9ced2147bee17c8a1656a4b81c8c18f314487fe34a3e0ea",
+   "tipo": "valoracion",
+   "titulo": "Valoracion de activos a 31 de diciembre de 2025 (88 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05436_OtraInfRelev_20260429_3.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 10947710,
+  "cotizacion": 1.66,
+  "domicilio": "CALLE PINAR 7, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105436002",
+  "mercado": "BME MTF Equity",
+  "nif": "A87595799",
+  "nombre": "GREENOAK SPAIN HOLDINGS SOCIMI II, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YGO2",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.greenoak-spain-holdings-socimi-ii-s-a-es0105436002.html",
+  "web": "http://www.gospainiisocimi.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A87595799-cuentas_anuales-2026-04-29.txt",
+    "linea": "2 Suelo Amorebieta Go Love Suelo logístico Vizcaya 19.442",
+    "lugar": "Amorebieta",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

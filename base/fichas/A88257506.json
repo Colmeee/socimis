@@ -1,0 +1,207 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Imra Business, S.L. (B54778030)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05405_OtraInfRelev_20260707.pdf",
+   "huella": "7724a868b171902429e48e2ce990611be82bc527860a856cb489565b966304cb",
+   "pct_directo": 8.33,
+   "pct_indirecto": null,
+   "pct_total": 8.33,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Alvanella, S.L. (B79052924)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05405_OtraInfRelev_20260707.pdf",
+   "huella": "7724a868b171902429e48e2ce990611be82bc527860a856cb489565b966304cb",
+   "pct_directo": 5.04,
+   "pct_indirecto": null,
+   "pct_total": 5.04,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Musaat Mutua de Seguros a Prima Fija (V28865855)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05405_OtraInfRelev_20260707.pdf",
+   "huella": "7724a868b171902429e48e2ce990611be82bc527860a856cb489565b966304cb",
+   "pct_directo": 5.0,
+   "pct_indirecto": null,
+   "pct_total": 5.0,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Finmaser Diversificación, S.L. (B97905988)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05405_OtraInfRelev_20260707.pdf",
+   "huella": "7724a868b171902429e48e2ce990611be82bc527860a856cb489565b966304cb",
+   "pct_directo": 5.0,
+   "pct_indirecto": null,
+   "pct_total": 5.0,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Hermandad Nacional de Arquitectos Superiores (V28306678)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05405_OtraInfRelev_20260707.pdf",
+   "huella": "7724a868b171902429e48e2ce990611be82bc527860a856cb489565b966304cb",
+   "pct_directo": 5.0,
+   "pct_indirecto": null,
+   "pct_total": 5.0,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 8309063,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-22",
+   "huella": "543867ed7020d9283b69e8cc770ad5ce3db6e444ca691835cf88d39ea31cde12",
+   "tipo": "cuentas_anuales",
+   "titulo": "Informe de evolución del negocio en el ejercicio 2025, cuentas anuales auditadas e informe de auditoria. (7 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05405_OtraInfRelev_20260422.pdf"
+  },
+  {
+   "bytes": 293538,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-26",
+   "huella": "6ad609793f585ee8d8aa4b84773e3c9d0f09b99c785b32fbc9a69193448ab74e",
+   "tipo": "dividendo",
+   "titulo": "Distribución de Dividendos. (286 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05405_OtraInfRelev_20260626_1.pdf"
+  },
+  {
+   "bytes": 79587,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "7724a868b171902429e48e2ce990611be82bc527860a856cb489565b966304cb",
+   "tipo": "participaciones",
+   "titulo": "ADRIANO CARE SOCIMI S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05405_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 2875592,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-10",
+   "huella": "7080367f29e5399444c748f7b75f34dd141abbf22dc4f00890025598f1681694",
+   "tipo": "semestral",
+   "titulo": "Informe evolución negocio primer semestre ejercicio 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05405_OtraInfRelev_20251010.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05405_OtraInfRelev_20260422.pdf",
+    "huella": "543867ed7020d9283b69e8cc770ad5ce3db6e444ca691835cf88d39ea31cde12",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 268241000.0
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05405_OtraInfRelev_20260422.pdf",
+    "huella": "543867ed7020d9283b69e8cc770ad5ce3db6e444ca691835cf88d39ea31cde12",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 134775000.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 119400000,
+  "cotizacion": 9.95,
+  "domicilio": "CALLE VILLANUEVA 2, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105405007",
+  "mercado": "BME MTF Equity",
+  "nif": "A88257506",
+  "nombre": "ADRIANO CARE SOCIMI S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YADR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.adriano-care-socimi-s-a-es0105405007.html",
+  "web": "http://www.adrianocare.es"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A88257506-cuentas_anuales-2026-04-22.txt",
+    "linea": "comprometido y la concesión de Ortuella). Senior living Población",
+    "lugar": "Ortuella",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A88257506-cuentas_anuales-2026-04-22.txt",
+    "linea": "Nota 1: Sobre total inversión. Ortuella incluido con capacidad de conversión en activo arrendado. Nota 2: Objetivo renta estabilizada incluye resultado concesio",
+    "lugar": "Ortuella",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A88257506-cuentas_anuales-2026-04-22.txt",
+    "linea": "Olimpia - Bilbao Kirikiño - Bilbao Barrika Barri – Barrika, Bilbao",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A88257506-cuentas_anuales-2026-04-22.txt",
+    "linea": "Otxartaga – Ortuella, Bilbao Mombuey – Mombuey, Zamora El Saler – Valencia",
+    "lugar": "Ortuella",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A88257506-semestral-2025-10-10.txt",
+    "linea": "comprometido y la concesión de Ortuella).",
+    "lugar": "Ortuella",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

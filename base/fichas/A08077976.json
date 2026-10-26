@@ -1,0 +1,189 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Iñigo Fontcuberta Alonso-Martínez",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "pct_directo": 7.87,
+   "pct_indirecto": null,
+   "pct_total": 7.87,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Magdalena Fontcuberta Alonso-Martínez",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "pct_directo": 7.19,
+   "pct_indirecto": null,
+   "pct_total": 7.19,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Casilda Fontcuberta Alonso-Martínez",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "pct_directo": 6.43,
+   "pct_indirecto": null,
+   "pct_total": 6.43,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Santiago Fontcuberta Alonso-Martínez",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "pct_directo": 5.11,
+   "pct_indirecto": null,
+   "pct_total": 5.11,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Cristina Fontcuberta Alonso-Martínez",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "pct_directo": 9.63,
+   "pct_indirecto": null,
+   "pct_total": 9.63,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Almudena Fontcuberta Alonso-Martínez",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "pct_directo": 11.91,
+   "pct_indirecto": null,
+   "pct_total": 11.91,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 8577560,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-13",
+   "huella": "e74f0750358b8bcb7b2d0776b43c5f8ee948d7c6f23dc170b24aad35599757a1",
+   "tipo": "cuentas_anuales",
+   "titulo": "La Sociedad comunica sus estados financieros del ejercicio cerrado a 31 de diciembre de 2025, junto con el informe de auditoria y el informe sobre la estructura organizativa y sistema de control inter",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05379_OtraInfRelev_20260413.pdf"
+  },
+  {
+   "bytes": 80913,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-02-25",
+   "huella": "9b8c27b8038ca6cdcabe52b8b8a231b9254fbcf06fcde326b5511d85a47c70cc",
+   "tipo": "dividendo",
+   "titulo": "La Sociedad anuncia el pago de un dividendo a cuenta. (79 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/05379_OtraInfRelev_20260225.pdf"
+  },
+  {
+   "bytes": 80278,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-06",
+   "huella": "5f76d194933a9adb208ff533a0571442bb8e58ee8fe4def5acf1edb0056a6eea",
+   "tipo": "participaciones",
+   "titulo": "La Sociedad comunica las Participaciones Significativas a 30 de junio de 2026 (78 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05379_OtraInfRelev_20260706.pdf"
+  },
+  {
+   "bytes": 10719533,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-30",
+   "huella": "dc7d3633974329ce5007bcd673cd8d15cd615b1d74bd5f1547e93c37d670de65",
+   "tipo": "semestral",
+   "titulo": "La Sociedad publica los estados financieros intermedios del periodo cerrado a 30 de junio de 2025 junto con el informe de revisión limitada. (10 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05379_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 7214834,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-04-09",
+   "huella": "4d5908711dac15b3a176ff15c7443496e0fcc99c6b9ef13f86c748ce122b9fbc",
+   "tipo": "valoracion",
+   "titulo": "La Sociedad publica sus estados financieros auditados relativos al ejercicio cerrado el 31 de diciembre de 2024 y la valoración de sus activos. (6 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/04/05379_OtraInfRelev_20250409.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-02-25",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/05379_OtraInfRelev_20260225.pdf",
+    "huella": "9b8c27b8038ca6cdcabe52b8b8a231b9254fbcf06fcde326b5511d85a47c70cc",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.17
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 94427905,
+  "cotizacion": 8.45,
+  "domicilio": "CL/ ZURBANO 83, 28004 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105379004",
+  "mercado": "BME MTF Equity",
+  "nif": "A08077976",
+  "nombre": "HISPANOTELS INVERSIONES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YHSP",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.hispanotels-inversiones-socimi-s-a-es0105379004.html",
+  "web": "http://hispanotels.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

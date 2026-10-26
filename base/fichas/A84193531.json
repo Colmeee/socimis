@@ -1,0 +1,105 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "al 5% del capital social de ENTRECAMPOS son los siguientes",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/31172_OtraInfRelev_20260708.pdf",
+   "huella": "e1d2c8670e0562b1b97d87e85fc6a13debbc5fe9437e4dff46a09daab1772239",
+   "pct_directo": 5.0,
+   "pct_indirecto": null,
+   "pct_total": 5.0,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 12179263,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-22",
+   "huella": "fc8fed28bc052d4ff22c745bcaa1b4205bd46165df85d36f6963b5216cde272f",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas Anuales Individuales y Consolidadas e Informes de Auditoría del ejercicio 2025 (11 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/31172_OtraInfRelev_20260422.pdf"
+  },
+  {
+   "bytes": 197907,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-26",
+   "huella": "ae0dcb84584d36aa84088894907c6f2e685655379f335d01d7411d1918570c06",
+   "tipo": "dividendo",
+   "titulo": "Notificación Pago Dividendos Ejercicio 2024 (193 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/31172_OtraInfRelev_20250626_1.pdf"
+  },
+  {
+   "bytes": 119825,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-08",
+   "huella": "e1d2c8670e0562b1b97d87e85fc6a13debbc5fe9437e4dff46a09daab1772239",
+   "tipo": "participaciones",
+   "titulo": "ENTRECAMPOS CUATRO, SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/31172_OtraInfRelev_20260708.pdf"
+  },
+  {
+   "bytes": 8684332,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "da84f3b1727639ad2ffd9bc3ce9c242183976f6b668b138addcd7d9b081414b2",
+   "tipo": "semestral",
+   "titulo": "PUBLICACIÓN INFORMACIÓN FINANCIERA INTERMEDIA DE LA SOCIEDAD AL 30-06-25 (8 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/31172_OtraInfRelev_20251031_2.pdf"
+  },
+  {
+   "bytes": 156809,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-17",
+   "huella": "5085716e1d9ffe862b4593785506366507e83cf8370fcfb2f68b9c04fa8db400",
+   "tipo": "valoracion",
+   "titulo": "VALORACIÓN DE ACTIVOS A FECHA 31-12-2025 (153 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/31172_OtraInfRelev_20260317.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 101450303,
+  "cotizacion": 1.78,
+  "domicilio": "CL/ ROSARIO PINO 18, 28020 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0131172001",
+  "mercado": "BME MTF Equity",
+  "nif": "A84193531",
+  "nombre": "ENTRECAMPOS CUATRO, SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YENT",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.entrecampos-cuatro-socimi-s-a-es0131172001.html",
+  "web": "http://www.entrecampos.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

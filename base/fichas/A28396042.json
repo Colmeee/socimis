@@ -1,0 +1,94 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 9816689,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-22",
+   "huella": "cf8bf027b15118e38061e8647fa16b5301d74bbe92005743ea264b8ab36debcb",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (9 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05134_OtraInfRelev_20260422.pdf"
+  },
+  {
+   "bytes": 92851,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2019-12-18",
+   "huella": "2e5729b2a8068f2f5943da68dfda3c7c1f041a77cbe88c628718b64e6d46d61f",
+   "tipo": "dividendo",
+   "titulo": "Información sobre dividendosAprobación de dividendo a cuenta del resultado del 2019 (90 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2019/12/05134_HRelev_20191218.pdf"
+  },
+  {
+   "bytes": 169294,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "9ce4e8d1cd289930a92dc52dfc720f4597b12320e83deac17b5523fdf8202437",
+   "tipo": "participaciones",
+   "titulo": "GMP PROPERTY SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05134_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 3487078,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-20",
+   "huella": "bd80771c598973c9950ffc45919406f5044ab7e89f42cad4af0805943f4a3e7c",
+   "tipo": "semestral",
+   "titulo": "GMP PROPERTY SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05134_OtraInfRelev_20261020.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2019": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2019-12-18",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2019/12/05134_HRelev_20191218.pdf",
+    "huella": "2e5729b2a8068f2f5943da68dfda3c7c1f041a77cbe88c628718b64e6d46d61f",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1.046
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 1185704740,
+  "cotizacion": 62,
+  "domicilio": "CL/ LUCHANA 23, 28010 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105134011",
+  "mercado": "BME MTF Equity",
+  "nif": "A28396042",
+  "nombre": "GMP PROPERTY SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YGMP",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.gmp-property-socimi-s-a-es0105134011.html",
+  "web": "http://www.grupogmp.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

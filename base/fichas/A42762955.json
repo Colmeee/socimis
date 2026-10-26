@@ -1,0 +1,70 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 19213967,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-29",
+   "huella": "7d6b998e8c6ee1fccbedb40212ff54720ae4230242722b82deab89533404d69a",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (18 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05633_OtraInfRelev_20260429.pdf"
+  },
+  {
+   "bytes": 90080,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-09",
+   "huella": "aa7d58863bd3614b657f9b041a65b185074aa8a2635e9fca189c3d5bb512f2bf",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (87 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05633_OtraInfRelev_20260709.pdf"
+  },
+  {
+   "bytes": 6250604,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-28",
+   "huella": "0416caf8807516e0b1570e0fc57733036a41189ec693dcca58e2bdba0c89849f",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05633_OtraInfRelev_20251028_1.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 104580457,
+  "cotizacion": 1.34,
+  "domicilio": "VELAZQUEZ 17, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105633004",
+  "mercado": "BME MTF Equity",
+  "nif": "A42762955",
+  "nombre": "IBI LION SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YIBI",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.ibi-lion-socimi-s-a-es0105633004.html",
+  "web": "https://www.ibi-lion.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

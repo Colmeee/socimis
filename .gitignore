@@ -1,0 +1,15 @@
+# Lo que se baja no sube: PDF, xhtml ESEF, textos extraídos, diario de descargas (tamaño y derechos; en la base solo URL y huella)
+descargas/
+*.pdf
+*.xhtml
+*.xbri
+!pruebas/fixtures/ixbrl-merlin-2025-extracto.xhtml
+# ruido
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+# nunca secretos
+.env
+*.key
+*.pem

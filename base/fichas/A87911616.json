@@ -1,0 +1,80 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 5537033,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-28",
+   "huella": "a2319a8058df0d4dde719ffeb63df6bf510fcd49b250934270012d89e6d7425b",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe sobre la estructura organizativa y sistema de control interno (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05383_OtraInfRelev_20260428.pdf"
+  },
+  {
+   "bytes": 177635,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-26",
+   "huella": "0f3f465ae9e194a610e64d1b49840216de538f6d00ac138f26f78e38efd83f3b",
+   "tipo": "dividendo",
+   "titulo": "Calendario de pago del dividendo del ejercicio 2024 (173 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05383_OtraInfRelev_20250626_1.pdf"
+  },
+  {
+   "bytes": 167853,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-01",
+   "huella": "ac2d826025602f183482d09dc105f72a4b1a35508e40e1e35134c45f827f29c4",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (163 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05383_OtraInfRelev_20260701.pdf"
+  },
+  {
+   "bytes": 4620099,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-30",
+   "huella": "f0e725a129edb642d7afa5bcff1653d51d266e593c7c81a07582cecda3afea68",
+   "tipo": "semestral",
+   "titulo": "Información financiera 1er semestre 2025 (4 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05383_OtraInfRelev_20251030.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 60580914,
+  "cotizacion": 2.94,
+  "domicilio": "BAHIA DE CARTAGENA 1, 28042 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105383006",
+  "mercado": "BME MTF Equity",
+  "nif": "A87911616",
+  "nombre": "ARRIENDA RENTAL PROPERTIES SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YARP",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.arrienda-rental-properties-socimi-s-a-es0105383006.html",
+  "web": "http://www.arrienda.es"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

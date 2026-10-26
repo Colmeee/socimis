@@ -1,0 +1,190 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Bankinter Investment S.A.(1)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "pct_directo": 5.35,
+   "pct_indirecto": null,
+   "pct_total": 5.35,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Terrenos y Edificaciones Dosrius, S.L.U.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "pct_directo": 5.13,
+   "pct_indirecto": null,
+   "pct_total": 5.13,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Aligrupo Business Opportunities, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "pct_directo": 5.07,
+   "pct_indirecto": null,
+   "pct_total": 5.07,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Global Mergers Acquisitions Capital, S.L. (1)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "pct_directo": 5.01,
+   "pct_indirecto": null,
+   "pct_total": 5.01,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": "de las acciones de ATOM.",
+   "acciones": null,
+   "accionista": "del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "pct_directo": null,
+   "pct_indirecto": 5.01,
+   "pct_total": 5.01,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "directivos del 1%).",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "pct_directo": 1.0,
+   "pct_indirecto": null,
+   "pct_total": 1.0,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 8452748,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-23",
+   "huella": "396b2c8f088764acf67bfef7d8e9d1f35e7c4430a505a1c7b7b77343cd33459e",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas anuales individuales y consolidadas e Informe de Gestión de Atom Hoteles SOCIMI, S.A. correspondiente al ejercicio cerrado a 31 de diciembre de 2025 (8 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05318_OtraInfRelev_20260423.pdf"
+  },
+  {
+   "bytes": 149758,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-30",
+   "huella": "01461275738efe8835f0daa9ba4a3243e2211cf056b6e9c325453a891aaadb50",
+   "tipo": "dividendo",
+   "titulo": "Acuerdo sobre Dividendos a cuenta del ejercicio 2026 (146 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05318_OtraInfRelev_20260630.pdf"
+  },
+  {
+   "bytes": 531343,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "8cbd0320ae3f81cc1e9e161755b4020c6b324b86450999a2f18a860268468229",
+   "tipo": "participaciones",
+   "titulo": "ATOM HOTELES SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05318_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 4493697,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-01",
+   "huella": "a6ab6ecbbb4a41ac54aff33e3bc5916f78c26d6a49f19acae67e1b1c63d94dcc",
+   "tipo": "semestral",
+   "titulo": "Estados Financieros Intermedios a 30 de junio de 2025 de Atom Hoteles SOCIMI, S.A. (4 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05318_OtraInfRelev_20251001.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2026-06-30",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05318_OtraInfRelev_20260630.pdf",
+    "huella": "01461275738efe8835f0daa9ba4a3243e2211cf056b6e9c325453a891aaadb50",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 40195155.0
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-30",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05318_OtraInfRelev_20260630.pdf",
+    "huella": "01461275738efe8835f0daa9ba4a3243e2211cf056b6e9c325453a891aaadb50",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1.24530912
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 568282000,
+  "cotizacion": 17.6,
+  "domicilio": "PO/ DEL CLUB DEPORTIVO 1, 28223 POZUELO DE ALARCÓN",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105318002",
+  "mercado": "BME MTF Equity",
+  "nif": "A87998928",
+  "nombre": "ATOM HOTELES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YATO",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.atom-hoteles-socimi-s-a-es0105318002.html",
+  "web": "http://www.atomhoteles.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

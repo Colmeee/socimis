@@ -1,0 +1,94 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3666235,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-29",
+   "huella": "a50ce7a5db0451d30c4705ae14d273fa781e2519c0b04e3f28978c186ac81c43",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05281_OtraInfRelev_20260429.pdf"
+  },
+  {
+   "bytes": 569768,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-19",
+   "huella": "f219cd71a8731ea8ad0dc6e103622fdb49446e326dfb593fda19a449e88fec57",
+   "tipo": "dividendo",
+   "titulo": "Distrubución de dividendos (556 KB) Relacionado con: Otra Información Relevante ( 14:27)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05281_OtraInfRelev_20260619_1.pdf"
+  },
+  {
+   "bytes": 419194,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-01",
+   "huella": "a21c25bc6de5467fb982a8822cc148c46daf01462a4c8ea0489d0c119585b5ee",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (409 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05281_OtraInfRelev_20260701.pdf"
+  },
+  {
+   "bytes": 2744776,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-21",
+   "huella": "73d45665256e39e2038212c950011564b76cc3a77ab90db092726ee9db95a99e",
+   "tipo": "semestral",
+   "titulo": "ELAIA INVESTMENT SPAIN SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05281_OtraInfRelev_20261021.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-06-19",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05281_OtraInfRelev_20260619_1.pdf",
+    "huella": "f219cd71a8731ea8ad0dc6e103622fdb49446e326dfb593fda19a449e88fec57",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.09615617
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 5194513,
+  "cotizacion": 0.46,
+  "domicilio": "SERRANO 16, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105281002",
+  "mercado": "BME MTF Equity",
+  "nif": "A87436846",
+  "nombre": "ELAIA INVESTMENT SPAIN SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YEIS",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.elaia-investment-spain-socimi-s-a-es0105281002.html",
+  "web": "https://www.elaiaspain.es"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

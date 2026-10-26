@@ -1,0 +1,85 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": 19368632,
+   "accionista": "Investments Spain",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05685_OtraInfRelev_20260710.pdf",
+   "huella": "5c98151fc0f31c9eb6ee3ce26226839b29dd28d651e2293c47bfd0c893725fa7",
+   "pct_directo": 15.95,
+   "pct_indirecto": null,
+   "pct_total": 15.95,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 8137092,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "e1c87513470c2617e6a45fcb27f5ed1e5fb6b67f89a98ed3f438a61fa6713040",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (7 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05685_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 185119,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-10",
+   "huella": "5c98151fc0f31c9eb6ee3ce26226839b29dd28d651e2293c47bfd0c893725fa7",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (180 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05685_OtraInfRelev_20260710.pdf"
+  },
+  {
+   "bytes": 3859919,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "0257ac7b47fe2da19d770ab6f720c281d8c66f1f3f7f4bf1e98e20ad84bc00bd",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05685_OtraInfRelev_20251031.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 1287098661,
+  "cotizacion": 10.6,
+  "domicilio": "PASEO CASTELLANA 259, 28046 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105685004",
+  "mercado": "BME MTF Equity",
+  "nif": "A88501051",
+  "nombre": "EMPERADOR PROPERTIES SOCIMI S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YEPSA",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.emperador-properties-socimi-s-a-es0105685004.html",
+  "web": "https://emperadorpropertiessocimi.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

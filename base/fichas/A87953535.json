@@ -1,0 +1,123 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Timón, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05465_OtraInfRelev_20260709.pdf",
+   "huella": "e851ccbf13f946ea4464481fb37d6ad460615a791384fe80706c9cb1591414eb",
+   "pct_directo": 26.61,
+   "pct_indirecto": null,
+   "pct_total": 26.61,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Inmuebles Gil Comes, S.L.U. (1)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05465_OtraInfRelev_20260709.pdf",
+   "huella": "e851ccbf13f946ea4464481fb37d6ad460615a791384fe80706c9cb1591414eb",
+   "pct_directo": 19.93,
+   "pct_indirecto": null,
+   "pct_total": 19.93,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 4001633,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "3c21fa63d826cc6a218e080376dd7b3cc5218d1cebc51af3264fcbee99374ddf",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05465_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 137429,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-27",
+   "huella": "259cf5657aaeb5cf0e0d4803ab22b00c9623daa4b3b112dc29afbd1ce8d1e94f",
+   "tipo": "dividendo",
+   "titulo": "Modificación distribución dividendo ordinario y prima de emisión (134 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05465_OtraInfRelev_20251027.pdf"
+  },
+  {
+   "bytes": 216600,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-09",
+   "huella": "e851ccbf13f946ea4464481fb37d6ad460615a791384fe80706c9cb1591414eb",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30.06.2026 (211 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05465_OtraInfRelev_20260709.pdf"
+  },
+  {
+   "bytes": 1830016,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "1aa1e38e578f4cf857147dd7d36a4febea7b2daaf5a88163d08456806c62a983",
+   "tipo": "semestral",
+   "titulo": "Información financiera 1er semestre 2025 (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05465_OtraInfRelev_20251031.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2025-10-27",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05465_OtraInfRelev_20251027.pdf",
+    "huella": "259cf5657aaeb5cf0e0d4803ab22b00c9623daa4b3b112dc29afbd1ce8d1e94f",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.17631553
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 36018150,
+  "cotizacion": 6,
+  "domicilio": "DANIEL URRABIETA 7, 28002 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105465001",
+  "mercado": "BME MTF Equity",
+  "nif": "A87953535",
+  "nombre": "HOME CAPITAL RENTALS SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YHCR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.home-capital-rentals-socimi-s-a-es0105465001.html",
+  "web": "https://www.homecapitalsocimi.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

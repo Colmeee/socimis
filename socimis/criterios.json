@@ -1,0 +1,53 @@
+{
+  "_que_es": "Pesos y umbrales del motor de SOCIMIs. 100 puntos en seis dimensiones. Se edita aquí, no en el código; puntuacion.validar() comprueba que las sumas cuadran. Cada umbral lleva su porqué.",
+  "_version": "2026-10-26",
+
+  "apalancamiento": {
+    "peso": 25,
+    "_por_que": "Una SOCIMI vive de la deuda contra sus inmuebles. El LTV y cuánto vence pronto dicen si va a necesitar refinanciar (una conversación de banca) o si tiene holgura. Es la dimensión que mejor separa a una SOCIMI de otra.",
+    "ltv": {"puntos": 17, "holgado_pct": 30, "maximo_pct": 60, "_por_que": "Por debajo del 30 % es el extremo bajo del universo europeo de REIT (lo dice Merlin de su 28,9 %); por encima del 60 % el valor se come la deuda. Lineal entre los dos."},
+    "vencimientos": {"puntos": 8, "horizonte_anios": 2, "tranquilo_pct": 15, "tenso_pct": 50, "_por_que": "Si más de la mitad de la deuda vence en dos años, hay refinanciación segura; menos del 15 % es tranquilo. Solo puntúa con tabla de vencimientos."}
+  },
+
+  "dividendos": {
+    "peso": 20,
+    "_por_que": "Están obligadas a repartir el 80 % del resultado (art. 6 Ley 11/2009): el dividendo es la señal de que el régimen funciona y de que hay caja saliendo hacia los accionistas, que son el cliente de banca privada.",
+    "reparte": {"puntos": 10, "_por_que": "Dividendo pagado o acordado con cargo al último ejercicio: cumple la obligación."},
+    "rendimiento": {"puntos": 6, "minimo_pct": 1.0, "bueno_pct": 4.0, "_por_que": "Dividendo sobre capitalización: por debajo del 1 % no mueve nada; del 4 % en adelante es un REIT que paga."},
+    "crece": {"puntos": 4, "_por_que": "Dividendo del último ejercicio mayor que el del anterior."}
+  },
+
+  "valor_liquidativo": {
+    "peso": 15,
+    "_por_que": "La cotización frente al valor de los activos (NAV) dice si el mercado cree la valoración. Un descuento grande es oportunidad para quien compre y aviso para quien venda; una prima, confianza.",
+    "descuento": {"puntos": 10, "descuento_maximo_pct": 40, "_por_que": "Puntúa más cuanto más cerca del NAV cotiza (confianza). Descuentos de más del 40 % puntúan 0: el mercado no se cree el valor o no hay liquidez."},
+    "valoracion_externa": {"puntos": 5, "_por_que": "Hay una valoración externa comunicada al mercado (RICS). Sin ella el NAV es solo contable."}
+  },
+
+  "concentracion": {
+    "peso": 15,
+    "_por_que": "Quién manda. Una SOCIMI con un accionista familiar al 60 % es una familia con patrimonio (el lead de banca privada); una con el capital repartido es una empresa. Se mide con las participaciones significativas que la propia sociedad publica.",
+    "mayor_accionista": {"puntos": 8, "control_pct": 50, "_por_que": "Lineal de 0 (menos del 5 %) a 8 (50 % o más)."},
+    "suma_significativos": {"puntos": 4, "alto_pct": 75, "_por_que": "Cuánto capital está en manos de los que declaran ≥ 5 %: 75 % o más es capital cerrado."},
+    "persona_fisica_detras": {"puntos": 3, "_por_que": "Alguna participación significativa se publica con la persona física que está detrás: hay un nombre con quien hablar (dato que la sociedad hace público, no se cruza con nada)."}
+  },
+
+  "activos": {
+    "peso": 15,
+    "_por_que": "Qué tiene y cuánto vale. Pocos activos muy grandes concentran riesgo; muchos pequeños diversifican. El tipo (residencial, oficinas, hoteles, logístico, comercial) importa para el ángulo.",
+    "tamano": {"puntos": 6, "minimo_eur": 20000000, "grande_eur": 500000000, "_por_que": "Valor de los inmuebles: lineal en escala logarítmica entre 20 M€ y 500 M€."},
+    "diversificacion": {"puntos": 5, "pocos": 1, "muchos": 10, "_por_que": "Número de activos con valor publicado: de 1 (todo en uno) a 10 o más."},
+    "rentas_sobre_valor": {"puntos": 4, "minimo_pct": 2.0, "bueno_pct": 6.0, "_por_que": "Rentas brutas sobre valor de los inmuebles: la rentabilidad bruta de la cartera."}
+  },
+
+  "madurez": {
+    "peso": 10,
+    "_por_que": "Cuánto tiempo lleva en el mercado y en qué mercado, y si publica lo que debe. Separa la SOCIMI de verdad de la recién estrenada en Scaleup.",
+    "mercado": {"puntos": 4, "valores": {"Continuo": 4, "BME Growth": 3, "BME Scaleup": 2, "Euronext Access": 1, "Portfolio Stock Exchange": 1}, "_por_que": "Más exigencia de información cuanto más arriba."},
+    "antiguedad": {"puntos": 3, "anios_pleno": 5, "_por_que": "Años cotizando, lineal hasta 5."},
+    "informa": {"puntos": 3, "_por_que": "Tiene cuentas anuales auditadas publicadas del último ejercicio cerrado (1,5) y la última semestral (1,5)."}
+  },
+
+  "tramos": {"prioritaria": 70, "interesante": 50, "_por_que": "Los mismos cortes que Cantera: ≥ 70 prioritaria, 50-69 interesante, menos «de momento no»."},
+  "cobertura_minima": 3
+}

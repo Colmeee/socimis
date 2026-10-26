@@ -1,0 +1,444 @@
+{
+ "accionistas": [
+  {
+   "accionista": "BANCO SANTANDER, S.A.",
+   "contraste": "mercado",
+   "fecha": "2016-11-02",
+   "fecha_registro": "2016-11-02",
+   "fuente": "https://www.cnmv.es/portal/Consultas/derechosvoto/Notificaciones-Participaciones.aspx?qS={c17a5d2d-106e-4703-bab3-c607e751e9b3}",
+   "huella": null,
+   "pct_directo": 16.697,
+   "pct_indirecto": 5.571,
+   "pct_instrumentos": 0.0,
+   "pct_total": 22.268,
+   "pct_total_ab": 22.268,
+   "tipo": "juridica",
+   "url_pdf": "https://www.cnmv.es/webservices/verdocumento/ver?e=FRVfOCmt1vmf1GU57KsljXRvH39zBaraWdf%2bHm5inaWY1bLbSDf76rU2Umyew0mw"
+  },
+  {
+   "accionista": "BLACKROCK INC.",
+   "contraste": "mercado",
+   "fecha": "2025-07-04",
+   "fecha_registro": "2025-07-04",
+   "fuente": "https://www.cnmv.es/portal/Consultas/derechosvoto/Notificaciones-Participaciones.aspx?qS={c17a5d2d-106e-4703-bab3-c607e751e9b3}",
+   "huella": null,
+   "pct_directo": 0.0,
+   "pct_indirecto": 4.46,
+   "pct_instrumentos": 0.172,
+   "pct_total": 4.46,
+   "pct_total_ab": 4.632,
+   "tipo": "juridica",
+   "url_pdf": "https://www.cnmv.es/webservices/verdocumento/ver?e=OiiZZniFLi90bGUFwLMtiDuNg%2blOvbDFzDAYtYzBFOKY1bLbSDf76rU2Umyew0mw"
+  },
+  {
+   "accionista": "LAO HERNANDEZ, MANUEL",
+   "contraste": "mercado",
+   "fecha": "2020-03-31",
+   "fecha_registro": "2020-03-31",
+   "fuente": "https://www.cnmv.es/portal/Consultas/derechosvoto/Notificaciones-Participaciones.aspx?qS={c17a5d2d-106e-4703-bab3-c607e751e9b3}",
+   "huella": null,
+   "pct_directo": 0.0,
+   "pct_indirecto": 6.271,
+   "pct_instrumentos": 0.0,
+   "pct_total": 6.271,
+   "pct_total_ab": 6.271,
+   "tipo": "fisica",
+   "url_pdf": "https://www.cnmv.es/webservices/verdocumento/ver?e=vPpbUnLcCcKX9M4jGk3GH1RT5nS4d97oJKCY9W4ifdWY1bLbSDf76rU2Umyew0mw"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 48439614,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-02-26",
+   "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+   "tipo": "cuentas_anuales",
+   "titulo": "IFA 2025 consolidado (ESEF), registro 20913",
+   "url": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f"
+  }
+ ],
+ "ejercicios": {
+  "2023": {
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Equity f-153",
+    "fecha": "2023-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 6539038000.0
+   }
+  },
+  "2024": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Assets f-78",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 13459195000.0
+   },
+   "bonos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CurrentBondsIssuedAndCurrentPortionOfNoncurrentBondsIssued f-52",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 621361000.0
+   },
+   "bonos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:NoncurrentPortionOfNoncurrentBondsIssued f-40",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 2781045000.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (4 sumandos)",
+    "unidad": "EUR",
+    "valor": 4929732000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 3377056000.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:DividendsPaid f-197",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 213676000.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Revenue f-82",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 494572000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 31.1
+   },
+   "pasivo_corriente": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CurrentLiabilities f-76",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 840253000.0
+   },
+   "pasivo_no_corriente": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:NoncurrentLiabilities f-50",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 5117962000.0
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Equity f-38",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 7500980000.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived f-56",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 4124000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:NoncurrentPortionOfNoncurrentLoansReceived f-42",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 1523202000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CashAndCashEquivalents f-70",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 1552676000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:InvestmentProperty f-10",
+    "fecha": "2024-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 10865480000.0
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Assets f-77",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 14268718000.0
+   },
+   "bonos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CurrentBondsIssuedAndCurrentPortionOfNoncurrentBondsIssued f-51",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 820658000.0
+   },
+   "bonos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:NoncurrentPortionOfNoncurrentBondsIssued f-39",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 2532309000.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (4 sumandos)",
+    "unidad": "EUR",
+    "valor": 4972361000.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 3757416000.0
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:DividendsPaid f-307",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 236381000.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Revenue f-81",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 538963000.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 31.4
+   },
+   "pasivo_corriente": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CurrentLiabilities f-75",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 1175872000.0
+   },
+   "pasivo_no_corriente": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:NoncurrentLiabilities f-49",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 5018414000.0
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:Equity f-37",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 8074432000.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived f-55",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 45945000.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:NoncurrentPortionOfNoncurrentLoansReceived f-41",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 1573449000.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:CashAndCashEquivalents f-69",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 1214945000.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "ifrs-full:InvestmentProperty f-9",
+    "fecha": "2025-12-31",
+    "fuente": "https://www.cnmv.es/webservices/verdocumento/ver?e=BkIsWwMBv1yEfg2Yc2JvuUvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f",
+    "huella": "22132dafe57d679c9c291ee2c93b8ddb159d8772ceb028ee7dc571505fc18f57",
+    "nota": "iXBRL ESEF, hecho sin dimensiones",
+    "unidad": "EUR",
+    "valor": 11983699000.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": "PRICEWATERHOUSECOOPERS AUDITORES, S.L.",
+  "capitalizacion": null,
+  "cotizacion": null,
+  "domicilio": null,
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": null,
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": null,
+  "mercado": "Mercado Continuo",
+  "nif": "A86977790",
+  "nombre": "MERLIN PROPERTIES, SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "segmento": "Continuo",
+  "ticker": null,
+  "url_ficha": "https://www.cnmv.es/portal/Consultas/DatosEntidad.aspx?nif=A86977790",
+  "web": null
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

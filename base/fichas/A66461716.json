@@ -1,0 +1,119 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "al 5% que ostentan los accionistas en el capital de Barcino a 30 de junio de 2026",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05284_OtraInfRelev_20260708.pdf",
+   "huella": "b6ed7b855638c523bc97b23008e4f93dfe5e651bcc2b7f3037da45e2bd3e24ca",
+   "pct_directo": 5.0,
+   "pct_indirecto": null,
+   "pct_total": 5.0,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 32056595,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-28",
+   "huella": "922bc82e633f2e0afa5d5e005b39a07e432ab3d8b32f99e99b3ed85031710a16",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (30 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05284_OtraInfRelev_20260428.pdf"
+  },
+  {
+   "bytes": 166594,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-17",
+   "huella": "6aa8326997b68461c18b6541029c905a4a508517c75047543bcd330d867529c0",
+   "tipo": "dividendo",
+   "titulo": "Información sobre el pago de dividendos ejercicio 2024 (162 KB) Relacionado con: Otra Información Relevante ( 16:58)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05284_OtraInfRelev_20250617_1.pdf"
+  },
+  {
+   "bytes": 229954,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-08",
+   "huella": "b6ed7b855638c523bc97b23008e4f93dfe5e651bcc2b7f3037da45e2bd3e24ca",
+   "tipo": "participaciones",
+   "titulo": "Otra información relevante a 30 de junio de 2026 (224 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05284_OtraInfRelev_20260708.pdf"
+  },
+  {
+   "bytes": 6349048,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-24",
+   "huella": "585ef4a855d217922664b39ef1192611b7fe67d6e5951563ae4e1cb3718c8d04",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (6 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05284_OtraInfRelev_20251024.pdf"
+  },
+  {
+   "bytes": 177153,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2020-01-31",
+   "huella": "63ff05ea5a5c69eacd553868b606f26bef4023de979f2333c5edeff863a86041",
+   "tipo": "valoracion",
+   "titulo": "Cambios en la valoración de activos y pasivosActualización de la valoración de la cartera inmobiliaria a 31 de diciembre de 2019 y cálculo del NAV (pre-auditoria) a dicha fecha (173 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2020/01/05284_HRelev_20200131.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2025-06-17",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05284_OtraInfRelev_20250617_1.pdf",
+    "huella": "6aa8326997b68461c18b6541029c905a4a508517c75047543bcd330d867529c0",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.03451224
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 29139721,
+  "cotizacion": 1.3,
+  "domicilio": "AV. DIAGONAL 497, 08029 BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105284006",
+  "mercado": "BME MTF Equity",
+  "nif": "A66461716",
+  "nombre": "BARCINO PROPERTY SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Barcelona",
+  "segmento": "BME Growth",
+  "ticker": "YBAR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.barcino-property-socimi-s-a-es0105284006.html",
+  "web": "http://www.barcinoproperty.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

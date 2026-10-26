@@ -1,0 +1,95 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": "“Euro Iberia Private Limited”.",
+   "acciones": null,
+   "accionista": "indirectamente una participación del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05175_OtraInfRelev_20260710_1.pdf",
+   "huella": "398a58866db67c991d5f4b159124bafde71d78875be12e47f08d5e114d10d860",
+   "pct_directo": null,
+   "pct_indirecto": 98.97,
+   "pct_total": 98.97,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 27076524,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-07-30",
+   "huella": "d6490d0dfa920bc0c2bb5f65179d4536ca414ebba4c0a9ef099c9bd5b5002ccf",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025, finalizado el 31 de marzo de 2026 (25 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05175_OtraInfRelev_20260730.pdf"
+  },
+  {
+   "bytes": 123763,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-10",
+   "huella": "398a58866db67c991d5f4b159124bafde71d78875be12e47f08d5e114d10d860",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (120 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05175_OtraInfRelev_20260710_1.pdf"
+  },
+  {
+   "bytes": 14468822,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-01-26",
+   "huella": "1b6a7c5e9357db1861fcf94a029debfac30b8cbb4963708582f550386ebbd191",
+   "tipo": "semestral",
+   "titulo": "Información financiera del primer semestre de 2026, finalizado el 30 de septiembre de 2025 (13 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05175_OtraInfRelev_20260126.pdf"
+  },
+  {
+   "bytes": 125485,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-31",
+   "huella": "57860497807ab5b8e8b0b5749d3c3b8d778d7542850f64e2801d6c0d3b49feeb",
+   "tipo": "valoracion",
+   "titulo": "Valoración de activos actualizada (122 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05175_OtraInfRelev_20260731_2.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 159000000,
+  "cotizacion": 31.8,
+  "domicilio": "CL/ MALDONADO 4, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105175006",
+  "mercado": "BME MTF Equity",
+  "nif": "A87035853",
+  "nombre": "EURO CERVANTES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YEUR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.euro-cervantes-socimi-s-a-es0105175006.html",
+  "web": "http://www.euro-cervantes.es"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": ". En virtud de su",
+   "acciones": null,
+   "accionista": "Investments Holding Europe LTD ostenta una participación del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05373_OtraInfRelev_20260701.pdf",
+   "huella": "71ecb6d0f049f5141493354c832fe29ebd204024ac7bc146e456c0be586232ad",
+   "pct_directo": null,
+   "pct_indirecto": 6.9659,
+   "pct_total": 6.9659,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 5317254,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "cd95c8acbcb40047e785895b1346085ed2259d466b447d3e3cfaff743da17768",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera de 2025 e informe de estructura organizativa y sistemas de control interno (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05373_OtraInfRelev_20260430_1.pdf"
+  },
+  {
+   "bytes": 55038,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-02-06",
+   "huella": "b674dae9fbc1fefb2804ebe74f949b553c07eed6562d1ff2ac85821223cc5fdc",
+   "tipo": "dividendo",
+   "titulo": "Distribución de dividendo a cuenta de resultados del ejercicio 2024 (53 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/02/05373_OtraInfRelev_20250206.pdf"
+  },
+  {
+   "bytes": 59388,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-01",
+   "huella": "71ecb6d0f049f5141493354c832fe29ebd204024ac7bc146e456c0be586232ad",
+   "tipo": "participaciones",
+   "titulo": "AZARIA RENTAL SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05373_OtraInfRelev_20260701.pdf"
+  },
+  {
+   "bytes": 1809502,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "81a5cfb677a992ad18991d9565b925482a6f78baa01de759f8c7c4dad9a19def",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05373_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 32135,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2020-04-28",
+   "huella": "70066ea43f51626b063a752d79a5b5e9779ef8762e71c79c9141ff43bfc84f5e",
+   "tipo": "valoracion",
+   "titulo": "Cambios en la valoración de activos y pasivosValoración RICS de la cartera inmobiliaria a 31 de diciembre de 2019 (31 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2020/04/05373_HRelev_20200428.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 79889074,
+  "cotizacion": 8.4,
+  "domicilio": "SERRANO 67, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105373007",
+  "mercado": "BME MTF Equity",
+  "nif": "A87685145",
+  "nombre": "AZARIA RENTAL SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YAZR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.azaria-rental-socimi-s-a-es0105373007.html",
+  "web": "http://www.azariarental.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}
