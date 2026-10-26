@@ -1,0 +1,117 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "IRG10 SOCIMI, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf",
+   "huella": "62beb641fc98a6a6df920ac34ca455a44514df57eca0e30c1e8948f9d5e1e9e7",
+   "pct_directo": 100.0,
+   "pct_indirecto": null,
+   "pct_total": 100.0,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "D. Jose Miguel Isidro Rincón",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf",
+   "huella": "62beb641fc98a6a6df920ac34ca455a44514df57eca0e30c1e8948f9d5e1e9e7",
+   "pct_directo": null,
+   "pct_indirecto": 15.13,
+   "pct_total": 15.13,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "D. Diego Isidro Rincón",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf",
+   "huella": "62beb641fc98a6a6df920ac34ca455a44514df57eca0e30c1e8948f9d5e1e9e7",
+   "pct_directo": null,
+   "pct_indirecto": 11.44,
+   "pct_total": 11.44,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Dª Marta Isidro Rincón",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf",
+   "huella": "62beb641fc98a6a6df920ac34ca455a44514df57eca0e30c1e8948f9d5e1e9e7",
+   "pct_directo": null,
+   "pct_indirecto": 11.17,
+   "pct_total": 11.17,
+   "tipo": "fisica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 9993939,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-06-05",
+   "huella": "1064b9ea2267e1c93cf1cc0be9a7d458d0b518dba249565673e2bc3da8f51b6c",
+   "tipo": "cuentas_anuales",
+   "titulo": "IBERVALLES HOTELES SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/06005_OtraInfRelev_20260605.pdf"
+  },
+  {
+   "bytes": 72411,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-09",
+   "huella": "62beb641fc98a6a6df920ac34ca455a44514df57eca0e30c1e8948f9d5e1e9e7",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 31 de diciembre de 2025 (70 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 92820000,
+  "cotizacion": null,
+  "domicilio": "AVENIDA BRUSELAS 7, 28108 ALCOBENDAS, MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": null,
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0106005004",
+  "mercado": "BME MTF Equity",
+  "nif": "A85885887",
+  "nombre": "IBERVALLES HOTELES SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIBH",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.ibervalles-hoteles-socimi-s-a-es0106005004.html",
+  "web": "-"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

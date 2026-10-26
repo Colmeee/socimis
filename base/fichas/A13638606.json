@@ -1,0 +1,123 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "TURIAZQUEZ 21 S.L. (*)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf",
+   "huella": "bd284e674a777491eec824b32adbe2995b35c1e736655bbddf7d541dc55dcb32",
+   "pct_directo": 99.9,
+   "pct_indirecto": null,
+   "pct_total": 99.9,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "D. José Ignacio Sala Milego",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf",
+   "huella": "bd284e674a777491eec824b32adbe2995b35c1e736655bbddf7d541dc55dcb32",
+   "pct_directo": null,
+   "pct_indirecto": 49.95,
+   "pct_total": 49.95,
+   "tipo": "fisica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "D. Juan Carlos Sala Milego",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf",
+   "huella": "bd284e674a777491eec824b32adbe2995b35c1e736655bbddf7d541dc55dcb32",
+   "pct_directo": null,
+   "pct_indirecto": 49.95,
+   "pct_total": 49.95,
+   "tipo": "fisica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 2989341,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "6e2fd07e2aacbadf77b17f48d852b37a13a71444707e6da5d5501785b345ddf8",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05767_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 145361,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "bd284e674a777491eec824b32adbe2995b35c1e736655bbddf7d541dc55dcb32",
+   "tipo": "participaciones",
+   "titulo": "INBEST GPF MULTI-ASSET CLASS PRIME VII SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 545231,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "7731b7027bc2511516d8f46f3bee497aaa2a40220354a94b3ea284ba8a856f45",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (532 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05767_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 99658,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-03-28",
+   "huella": "54fdeb1a3fbd455f466f08113e3b5c88a15dd02d20c5fd76f01afecdf049b91d",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos (97 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/03/05767_OtraInfRelev_20250328.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 5000000,
+  "cotizacion": null,
+  "domicilio": "VELáZQUEZ 86, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": null,
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105767000",
+  "mercado": "BME MTF Equity",
+  "nif": "A13638606",
+  "nombre": "INBEST GPF MULTI-ASSET CLASS PRIME VII SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIG7",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-vii-socimi-s-a-es0105767000.html",
+  "web": "https://inbestgpfvii.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

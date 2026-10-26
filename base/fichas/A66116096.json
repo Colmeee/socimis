@@ -458,5 +458,85 @@
   "web": "http://www.parkroseinmobiliaria.com"
  },
  "vencimientos": [],
- "vinculo_vasco": null
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "Otaola Hiribidea 2 Eibar 6.228.332,31 6.228.332,31",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "Supermercado Eibar (Av. Otaola N2) Eibar 6.228.332,31 -330.494,30 5.897.838,01 7.826.774,00",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "Otaola Hiribidea 2 Eibar",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "A finales del ejercicio 2020 el Grupo adquirió un inmueble sito en Eibar el cual está arrendado a una gran",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "Edificio en Eibar 27/11/2020",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "Edificio en Eibar 6.228.332,31",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "Otaola Hiribidea 2 Eibar 6.228.332,31 -330.494,30 5.897.838,01 7.826.774,00",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "A finales del ejercicio 2020 se adquirió un inmueble sito en Eibar, el cual está arrendado a una gran",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-cuentas_anuales-2026-04-22.txt",
+    "linea": "f) destinados al arrendamiento que Edificio en Eibar 27/11/2020",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-semestral-2025-10-27.txt",
+    "linea": "Supermercado Eibar (AV. Otaola N2) Eibar 6.228.332,31 -297.986,30 5.930.346,01 7.666.835,00",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-semestral-2025-10-27.txt",
+    "linea": "Supermercado Eibar (AV. Otaola N2) Eibar 6.228.332,31 6.228.332,31",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A66116096-semestral-2025-10-27.txt",
+    "linea": "A finales del ejercicio 2020 el Grupo adquirió un inmueble sito en Eibar el cual está arrendado a una",
+    "lugar": "Eibar",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
 }

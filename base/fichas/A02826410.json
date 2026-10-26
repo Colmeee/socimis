@@ -1,0 +1,90 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 8319010,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-08",
+   "huella": "8f7a3611661d66839a8f08c0476dd70d34da740db44d8cd35ab568f5a898dde2",
+   "tipo": "cuentas_anuales",
+   "titulo": "COMUNICACION DE LAS CUENTAS ANUALES A 31-DICIEMBRE-2025 JUNTO CON EL INFORME DE AUDITORIA, EL INFORME DE GESTIÓN Y EL INFORME SOBRE LA ESTRUCTURA ORGANIZATIVA Y SISTEMA DE CONTROL INTERNO. (7 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05790_OtraInfRelev_20260508_2.pdf"
+  },
+  {
+   "bytes": 340025,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-03-18",
+   "huella": "0db37aa02b910f8746e4224aa5689d73b707ceb4cd1110949f172780eb51012c",
+   "tipo": "dividendo",
+   "titulo": "Reparto a cuenta dividendo 1er trimestre de 2026 (332 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05790_OtraInfRelev_20260318.pdf"
+  },
+  {
+   "bytes": 299054,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-01-09",
+   "huella": "35d776222025a50de098527383f1d1889fb9ba51d7b59eb15667989fe2767c5f",
+   "tipo": "participaciones",
+   "titulo": "PARTICIPACIONES SIGNIFICATIVAS AL (292 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05790_OtraInfRelev_20260109.pdf"
+  },
+  {
+   "bytes": 18917615,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-01",
+   "huella": "00988ea76a131d6101eee1235a2ee2ba0084ecd8a496946ac5c5ec9af9a963fb",
+   "tipo": "semestral",
+   "titulo": "NORDESTE PROPERTIES SOCIMI S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05790_OtraInfRelev_20261001.pdf"
+  },
+  {
+   "bytes": 665829,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-08",
+   "huella": "daee7f43f176fb79e7e5f323bf113410da12ac62d3a4090e6e480290367d284b",
+   "tipo": "valoracion",
+   "titulo": "VALORACION DE LOS ACTIVOS A (650 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05790_OtraInfRelev_20260508.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 589646000,
+  "cotizacion": 11.8,
+  "domicilio": "JUAN BRAVO 8, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105790002",
+  "mercado": "BME MTF Equity",
+  "nif": "A02826410",
+  "nombre": "NORDESTE PROPERTIES SOCIMI S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCHST",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.nordeste-properties-socimi-s-a-es0105790002.html",
+  "web": "https://www.nordesteproperties.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

@@ -7,73 +7,97 @@
 | 3 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | 57.9 | interesante | 5/6 | -7,7 % | 331.106 € | — | ninguno |
 | 4 | AP67 SOCIMI, S.A. | BME Scaleup | 53.3 | interesante | 6/6 | 54,8 % | 1,2 M€ | directo del (95,194 %) | indicio |
 | 5 | MERLIN PROPERTIES, SOCIMI, S.A. | Continuo | 51.5 | interesante | 6/6 | 31,4 % | 236,4 M€ | BANCO SANTANDER, S.A. (22,268 %) | ninguno |
-| 6 | VERACRUZ PROPERTIES SOCIMI, S.A. | BME Growth | 50.2 | interesante | 5/6 | -5,3 % | 1,1 M€ | — | ninguno |
-| 7 | HELIOS RE SOCIMI, S.A. | BME Scaleup | 44.3 | de momento no | 6/6 | 56,1 % | 31,8 M€ | Hines PropCo 37, S.à r.l. (66,94 %) | indicio |
-| 8 | LAFINCA GLOBAL ASSETS SOCIMI, S.A. | BME Growth | 40.5 | de momento no | 6/6 | 152,8 % | 7,1 M€ | Grupo LaFinca Promociones y (88,77 %) | indicio |
-| 9 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | 33.9 | de momento no | 4/6 | — | — | LUNA CONFORT S.L. (27,27 %) | ninguno |
-| 10 | CASTELLANA PROPERTIES SOCIMI, S.A. | BME Growth | 32.2 | de momento no | 5/6 | 38,42 % | — | or over than 5%. (5,0 %) | ninguno |
-| 11 | CUPULAS PROPERTIES SOCIMI, S.A.U. | BME Scaleup | 32.0 | de momento no | 5/6 | 4,9 % | — | — | indicio |
-| 12 | LAR RETAIL | BME Scaleup | 31.2 | de momento no | 4/6 | — | 9,0 M€ | GRUPO LAR INVERSIONES INMOBILIARIAS, S.A. – (69,8176 %) | ninguno |
-| 13 | GAVARI PROPERTIES SOCIMI, S.A. | BME Scaleup | 28.2 | de momento no | 4/6 | 45,0 % | — | — | indicio |
-| 14 | MISTRAL IBERIA REAL ESTATE SOCIMI, S.A. | BME Growth | 27.4 | de momento no | 6/6 | 2870,7 % | 2,9 M€ | HFMX Designated Activity Company (25,01 %) | ninguno |
-| 15 | INVERSA PRIME SOCIMI, S.A. | BME Growth | 26.9 | de momento no | 5/6 | -1,3 % | — | Preventiva Compañía De Seguros Y Reaseguros, S.A. (2) (5,51 %) | ninguno |
-| 16 | GALIL CAPITAL RE SPAIN SOCIMI, S.A. | BME Scaleup | 25.0 | de momento no | 3/6 | — | 3,0 M€ | — | indicio |
-| 17 | NEXTPOINT CAPITAL SOCIMI, S.A. | BME Growth | 24.0 | de momento no | 5/6 | 36,5 % | — | — | ninguno |
-| 18 | ATOM HOTELES SOCIMI, S.A. | BME Growth | 23.3 | de momento no | 4/6 | — | 40,2 M€ | Bankinter Investment S.A.(1) (5,35 %) | ninguno |
-| 19 | GREYMILE SOCIMI, S.A. | BME Scaleup | 23.0 | de momento no | 5/6 | -85,9 % | — | INMUEBLES GIL COMES, S.L. – (10,05 %) | ninguno |
-| 20 | ALFIL PATRIMONIAL SOCIMI, S.A. | BME Scaleup | 19.6 | de momento no | 4/6 | — | 639.224 € | Francisco de Asís Gómez Palma– (16,67 %) | ninguno |
-| 21 | GOP PROPERTIES SOCIMI, S.A. | BME Growth | 19.3 | de momento no | 2/6 | — | — | Ortiz Construcciones y Proyectos, S.A. (47,78 %) | ninguno |
-| 22 | INBEST PRIME VIII INMUEBLES SOCIMI, S.A. | BME Growth | 18.8 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L. (46,37 %) | ninguno |
-| 23 | ISC FRESH WATER INVESTMENT SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | Branch Management S.A.P.I de C.V. (98,79 %) | ninguno |
-| 24 | EURO CERVANTES SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 2/6 | — | — | indirectamente una participación del (98,97 %) | ninguno |
-| 25 | KTESIOS REAL ESTATE SOCIMI S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | RKS REAL ESTATE SOCIETE EN COMMANDITE SPECIALE (83,64 %) | indicio |
-| 26 | OLIMPO REAL ESTATE SOCIMI, S.A. (ORES) | BME Growth | 17.7 | de momento no | 4/6 | — | 18,4 M€ | Bankinter Investment, S.A. (7,44 %) | ninguno |
-| 27 | GRUPO ANTAGÓN INVERSIONES INMOBILIARIAS 2025 SOCIMI, S.A. | BME Scaleup | 17.0 | de momento no | 3/6 | — | 998.221 € | — | ninguno |
-| 28 | MATRITENSE REAL ESTATE SOCIMI, S.A. | BME Growth | 16.4 | de momento no | 2/6 | — | — | KH V PROPERTIES S.A.R.L. (50,76 %) | ninguno |
-| 29 | IRG10 SOCIMI, S.A. | BME Growth | 16.1 | de momento no | 5/6 | 54,7 % | — | Dº Blanca Martín Pérez (9,21 %) | ninguno |
-| 30 | ADRIANO CARE SOCIMI S.A. | BME Growth | 15.0 | de momento no | 3/6 | — | — | Imra Business, S.L. (B54778030) (8,33 %) | indicio |
-| 31 | INBEST PRIME III INMUEBLES SOCIMI, S.A. | BME Growth | 14.9 | de momento no | 2/6 | — | — | BESTESTATE VALENCIA S.L. (15,96 %) | ninguno |
-| 32 | SILICIUS REAL ESTATE SOCIMI, S.A. | BME Growth | 14.4 | de momento no | 2/6 | — | — | El Arverjal, S.L. (29,59 %) | ninguno |
-| 33 | TORIMBIA SOCIMI, S.A. | BME Growth | 14.1 | de momento no | 2/6 | — | — | María del Carmen Fernández-Ordás Abarca (27,9 %) | ninguno |
-| 34 | PREVISIÓN SANITARIA NACIONAL GESTIÓN SOCIMI, S.A. | BME Growth | 13.3 | de momento no | 3/6 | — | — | — | ninguno |
-| 35 | INBEST PRIME II INMUEBLES SOCIMI, S.A. | BME Growth | 13.2 | de momento no | 2/6 | — | — | SOCIEDAD DE GESTIÓN PATRIMONIAL BANIX, S.L. (6,28 %) | ninguno |
-| 36 | INBEST PRIME IV INMUEBLES SOCIMI, S.A. | BME Growth | 13.1 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L (*) (14,28 %) | ninguno |
-| 37 | MERIDIA REAL ESTATE III, SOCIMI, S.A. | BME Growth | 12.4 | de momento no | 2/6 | — | — | GRUPO DREOF (18,41 %) | ninguno |
-| 38 | HOME CAPITAL RENTALS SOCIMI, S.A. | BME Growth | 12.2 | de momento no | 3/6 | — | — | Timón, S.A. (26,61 %) | ninguno |
-| 39 | INBEST PRIME VII INMUEBLES SOCIMI, S.A. | BME Growth | 11.0 | de momento no | 2/6 | — | — | ENTEMAR INVERSIONES, S.L. (**) (8,33 %) | ninguno |
-| 40 | HISPANOTELS INVERSIONES SOCIMI, S.A. | BME Growth | 9.7 | de momento no | 3/6 | — | — | Almudena Fontcuberta Alonso-Martínez (11,91 %) | ninguno |
-| 41 | MILEPRO LOGÍSTICA ÚLTIMA MILLA SOCIMI, S.A. | BME Growth | 8.8 | de momento no | 2/6 | — | — | Mutual Médica, M.P.S. A Prima Fija (8,34 %) | ninguno |
-| 42 | QUONIA SOCIMI, S.A. | BME Growth | 8.7 | de momento no | 2/6 | — | — | Alfonso de Angoitia Noriega (13,98 %) | ninguno |
-| 43 | EMPERADOR PROPERTIES SOCIMI S.A. | BME Growth | 8.5 | de momento no | 2/6 | — | — | Investments Spain (15,95 %) | ninguno |
-| 44 | AZARIA RENTAL SOCIMI, S.A. | BME Growth | 6.4 | de momento no | 2/6 | — | — | Investments Holding Europe LTD ostenta una participación del (6,9659 %) | ninguno |
-| 45 | GMP PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
-| 46 | IBI LION SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 47 | BARCINO PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | al 5% que ostentan los accionistas en el capital de Barcino a 30 de junio de 2026 (5,0 %) | ninguno |
-| 48 | INVERSIONES DOALCA, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
-| 49 | TESTA RESIDENCIAL, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% DEL (5,0 %) | indicio |
-| 50 | ENTRECAMPOS CUATRO, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | al 5% del capital social de ENTRECAMPOS son los siguientes (5,0 %) | ninguno |
-| 51 | FIDERE PATRIMONIO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 3/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% (5,0 %) | indicio |
-| 52 | TANDER INVERSIONES, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
-| 53 | ZAMBAL SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 54 | VITRUVIO REAL ESTATE SOCIMI S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | — | indicio |
-| 55 | JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 56 | SERRANO 61 DESARROLLO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 57 | ELAIA INVESTMENT SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
-| 58 | INBEST PRIME I INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 59 | GREENOAK SPAIN HOLDINGS SOCIMI II, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | indicio |
-| 60 | VIVENIO RESIDENCIAL SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | indicio |
-| 61 | ARRIENDA RENTAL PROPERTIES SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 62 | TRIVIUM REAL ESTATE SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
-| 63 | TECHO HOGAR SOCIMI SOCIEDAD DE BENEFICIO E INTERÉS COMÚN S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 64 | INBEST PRIME VI INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 65 | INICIATIVAS FARO 2024 SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 66 | AM LOCALES PROPERTY SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | indicio |
-| 67 | ALQUILER SEGURO ASSET MARKET SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 68 | HOTEI PROPERTIES GROUP SOCIMI, S.A. | BME Growth | 4.5 | de momento no | 1/6 | — | — | — | ninguno |
-| 69 | ECOINMO SPACES SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 70 | AHORRO FAMILIAR SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 71 | ALDICER RE SOCIMI S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 72 | ASHINGTON SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 6 | SAINT CROIX HOLDING IMMOBILIER, SOCIMI, S.A | BME Scaleup | 50.3 | interesante | 6/6 | 26,94 % | 2,9 M€ | PER 32, S.L. (22,31 %) | ninguno |
+| 7 | VERACRUZ PROPERTIES SOCIMI, S.A. | BME Growth | 50.2 | interesante | 5/6 | -5,3 % | 1,1 M€ | — | ninguno |
+| 8 | TARJAR XAIRO SOCIMI, S.A. | BME Scaleup | 49.4 | de momento no | 5/6 | 28,4 % | 370.000 € | — | ninguno |
+| 9 | HELIOS RE SOCIMI, S.A. | BME Scaleup | 44.3 | de momento no | 6/6 | 56,1 % | 31,8 M€ | Hines PropCo 37, S.à r.l. (66,94 %) | indicio |
+| 10 | LAFINCA GLOBAL ASSETS SOCIMI, S.A. | BME Growth | 40.5 | de momento no | 6/6 | 152,8 % | 7,1 M€ | Grupo LaFinca Promociones y (88,77 %) | indicio |
+| 11 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | 33.9 | de momento no | 4/6 | — | — | LUNA CONFORT S.L. (27,27 %) | ninguno |
+| 12 | INMUEBLES EN ALQUILER RESYDENZA SOCIMI, S.A.U. | BME Scaleup | 32.5 | de momento no | 4/6 | — | 93.754 € | Promociones y Construcciones PYC Pryconsa, S.L. (100,0 %) | ninguno |
+| 13 | CASTELLANA PROPERTIES SOCIMI, S.A. | BME Growth | 32.2 | de momento no | 5/6 | 38,42 % | — | or over than 5%. (5,0 %) | ninguno |
+| 14 | CUPULAS PROPERTIES SOCIMI, S.A.U. | BME Scaleup | 32.0 | de momento no | 5/6 | 4,9 % | — | — | indicio |
+| 15 | LAR RETAIL | BME Scaleup | 31.2 | de momento no | 4/6 | — | 9,0 M€ | GRUPO LAR INVERSIONES INMOBILIARIAS, S.A. – (69,8176 %) | ninguno |
+| 16 | MASA RENTAL SOCIMI S.A. | BME Scaleup | 31.1 | de momento no | 4/6 | -341,9 % | — | Solway Capital S.L.U. (25,0 %) | ninguno |
+| 17 | JHG DOMUS SOCIMI, S.A. | BME Scaleup | 30.0 | de momento no | 4/6 | 38,5 % | — | — | ninguno |
+| 18 | GAVARI PROPERTIES SOCIMI, S.A. | BME Scaleup | 28.2 | de momento no | 4/6 | 45,0 % | — | — | indicio |
+| 19 | MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A. | BME Scaleup | 28.1 | de momento no | 5/6 | 43,8 % | — | Micosquic SA de Capital Variable (14,29 %) | indicio |
+| 20 | MISTRAL IBERIA REAL ESTATE SOCIMI, S.A. | BME Growth | 27.4 | de momento no | 6/6 | 2870,7 % | 2,9 M€ | HFMX Designated Activity Company (25,01 %) | ninguno |
+| 21 | INVERSA PRIME SOCIMI, S.A. | BME Growth | 26.9 | de momento no | 5/6 | -1,3 % | — | Preventiva Compañía De Seguros Y Reaseguros, S.A. (2) (5,51 %) | ninguno |
+| 22 | GALIL CAPITAL RE SPAIN SOCIMI, S.A. | BME Scaleup | 25.0 | de momento no | 3/6 | — | 3,0 M€ | — | indicio |
+| 23 | NEXTPOINT CAPITAL SOCIMI, S.A. | BME Growth | 24.0 | de momento no | 5/6 | 36,5 % | — | — | ninguno |
+| 24 | ATOM HOTELES SOCIMI, S.A. | BME Growth | 23.3 | de momento no | 4/6 | — | 40,2 M€ | Bankinter Investment S.A.(1) (5,35 %) | ninguno |
+| 25 | GREYMILE SOCIMI, S.A. | BME Scaleup | 23.0 | de momento no | 5/6 | -85,9 % | — | INMUEBLES GIL COMES, S.L. – (10,05 %) | ninguno |
+| 26 | INBEST GPF MULTI-ASSET CLASS PRIME VII SOCIMI, S.A. | BME Scaleup | 20.0 | de momento no | 2/6 | — | — | TURIAZQUEZ 21 S.L. (*) (99,9 %) | ninguno |
+| 27 | INBEST GPF MULTI-ASSET CLASS PRIME VIII SOCIMI, S.A | BME Scaleup | 20.0 | de momento no | 2/6 | — | — | ALADINO H1 ESPAÑA, S.L.U. (*) (99,73 %) | ninguno |
+| 28 | INMOBILIARIA PARK ROSE IBEROAMERICANA SOCIMI, S.A | BME Scaleup | 20.0 | de momento no | 3/6 | — | — | Artic Badeck, S.L. (74,0 %) | indicio |
+| 29 | ALFIL PATRIMONIAL SOCIMI, S.A. | BME Scaleup | 19.6 | de momento no | 4/6 | — | 639.224 € | Francisco de Asís Gómez Palma– (16,67 %) | ninguno |
+| 30 | GOP PROPERTIES SOCIMI, S.A. | BME Growth | 19.3 | de momento no | 2/6 | — | — | Ortiz Construcciones y Proyectos, S.A. (47,78 %) | ninguno |
+| 31 | INBEST PRIME VIII INMUEBLES SOCIMI, S.A. | BME Growth | 18.8 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L. (46,37 %) | ninguno |
+| 32 | SOLVENTO GROUP 2022 SOCIMI S.A. | BME Scaleup | 18.5 | de momento no | 3/6 | — | 1,7 M€ | — | indicio |
+| 33 | IBERVALLES HOTELES SOCIMI, S.A. | BME Scaleup | 18.5 | de momento no | 2/6 | — | — | IRG10 SOCIMI, S.A. (100,0 %) | ninguno |
+| 34 | ISC FRESH WATER INVESTMENT SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | Branch Management S.A.P.I de C.V. (98,79 %) | ninguno |
+| 35 | EURO CERVANTES SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 2/6 | — | — | indirectamente una participación del (98,97 %) | ninguno |
+| 36 | KTESIOS REAL ESTATE SOCIMI S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | RKS REAL ESTATE SOCIETE EN COMMANDITE SPECIALE (83,64 %) | indicio |
+| 37 | OLIMPO REAL ESTATE SOCIMI, S.A. (ORES) | BME Growth | 17.7 | de momento no | 4/6 | — | 18,4 M€ | Bankinter Investment, S.A. (7,44 %) | ninguno |
+| 38 | GRUPO ANTAGÓN INVERSIONES INMOBILIARIAS 2025 SOCIMI, S.A. | BME Scaleup | 17.0 | de momento no | 3/6 | — | 998.221 € | — | ninguno |
+| 39 | MATRITENSE REAL ESTATE SOCIMI, S.A. | BME Growth | 16.4 | de momento no | 2/6 | — | — | KH V PROPERTIES S.A.R.L. (50,76 %) | ninguno |
+| 40 | IRG10 SOCIMI, S.A. | BME Growth | 16.1 | de momento no | 5/6 | 54,7 % | — | Dº Blanca Martín Pérez (9,21 %) | ninguno |
+| 41 | ADRIANO CARE SOCIMI S.A. | BME Growth | 15.0 | de momento no | 3/6 | — | — | Imra Business, S.L. (B54778030) (8,33 %) | indicio |
+| 42 | INBEST PRIME III INMUEBLES SOCIMI, S.A. | BME Growth | 14.9 | de momento no | 2/6 | — | — | BESTESTATE VALENCIA S.L. (15,96 %) | ninguno |
+| 43 | SILICIUS REAL ESTATE SOCIMI, S.A. | BME Growth | 14.4 | de momento no | 2/6 | — | — | El Arverjal, S.L. (29,59 %) | ninguno |
+| 44 | TORIMBIA SOCIMI, S.A. | BME Growth | 14.1 | de momento no | 2/6 | — | — | María del Carmen Fernández-Ordás Abarca (27,9 %) | ninguno |
+| 45 | PREVISIÓN SANITARIA NACIONAL GESTIÓN SOCIMI, S.A. | BME Growth | 13.3 | de momento no | 3/6 | — | — | — | ninguno |
+| 46 | INBEST PRIME II INMUEBLES SOCIMI, S.A. | BME Growth | 13.2 | de momento no | 2/6 | — | — | SOCIEDAD DE GESTIÓN PATRIMONIAL BANIX, S.L. (6,28 %) | ninguno |
+| 47 | INBEST PRIME IV INMUEBLES SOCIMI, S.A. | BME Growth | 13.1 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L (*) (14,28 %) | ninguno |
+| 48 | MERIDIA REAL ESTATE III, SOCIMI, S.A. | BME Growth | 12.4 | de momento no | 2/6 | — | — | GRUPO DREOF (18,41 %) | ninguno |
+| 49 | HOME CAPITAL RENTALS SOCIMI, S.A. | BME Growth | 12.2 | de momento no | 3/6 | — | — | Timón, S.A. (26,61 %) | ninguno |
+| 50 | INBEST PRIME VII INMUEBLES SOCIMI, S.A. | BME Growth | 11.0 | de momento no | 2/6 | — | — | ENTEMAR INVERSIONES, S.L. (**) (8,33 %) | ninguno |
+| 51 | INBEST GPF MULTI-ASSET CLASS PRIME V SOCIMI, S.A. | BME Scaleup | 10.1 | de momento no | 2/6 | — | — | VALIER AGRÍCOLA, S.L. (*) (14,0 %) | ninguno |
+| 52 | INBEST GPF MULTI-ASSET CLASS PRIME III SOCIMI, S.A | BME Scaleup | 9.8 | de momento no | 2/6 | — | — | LONTON FINANCE, S.A.C. (20,0 %) | ninguno |
+| 53 | HISPANOTELS INVERSIONES SOCIMI, S.A. | BME Growth | 9.7 | de momento no | 3/6 | — | — | Almudena Fontcuberta Alonso-Martínez (11,91 %) | ninguno |
+| 54 | LAUTHON INVEST SOCIMI, S.A. | BME Scaleup | 9.4 | de momento no | 2/6 | — | — | prevention fund) - (23,75 %) | indicio |
+| 55 | MILEPRO LOGÍSTICA ÚLTIMA MILLA SOCIMI, S.A. | BME Growth | 8.8 | de momento no | 2/6 | — | — | Mutual Médica, M.P.S. A Prima Fija (8,34 %) | ninguno |
+| 56 | QUONIA SOCIMI, S.A. | BME Growth | 8.7 | de momento no | 2/6 | — | — | Alfonso de Angoitia Noriega (13,98 %) | ninguno |
+| 57 | EMPERADOR PROPERTIES SOCIMI S.A. | BME Growth | 8.5 | de momento no | 2/6 | — | — | Investments Spain (15,95 %) | ninguno |
+| 58 | OLIMPO RETAIL GERMANY, SOCIMI, S.A. | BME Scaleup | 7.5 | de momento no | 2/6 | — | — | Bankinter Investment Inversión Alternativa I, F.C.R. (15,0 %) | ninguno |
+| 59 | AZARIA RENTAL SOCIMI, S.A. | BME Growth | 6.4 | de momento no | 2/6 | — | — | Investments Holding Europe LTD ostenta una participación del (6,9659 %) | ninguno |
+| 60 | INBEST GPF MULTI-ASSET CLASS PRIME II SOCIMI, S.A. | BME Scaleup | 6.2 | de momento no | 2/6 | — | — | HZ20 CORPOARTE S.L.U (10,1 %) | ninguno |
+| 61 | GMP PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
+| 62 | IBI LION SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 63 | BARCINO PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | al 5% que ostentan los accionistas en el capital de Barcino a 30 de junio de 2026 (5,0 %) | ninguno |
+| 64 | INVERSIONES DOALCA, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
+| 65 | TESTA RESIDENCIAL, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% DEL (5,0 %) | indicio |
+| 66 | ENTRECAMPOS CUATRO, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | al 5% del capital social de ENTRECAMPOS son los siguientes (5,0 %) | ninguno |
+| 67 | FIDERE PATRIMONIO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 3/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% (5,0 %) | indicio |
+| 68 | TANDER INVERSIONES, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
+| 69 | ZAMBAL SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 70 | VITRUVIO REAL ESTATE SOCIMI S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | — | indicio |
+| 71 | JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 72 | SERRANO 61 DESARROLLO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 73 | ELAIA INVESTMENT SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
+| 74 | INBEST PRIME I INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 75 | GREENOAK SPAIN HOLDINGS SOCIMI II, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | indicio |
+| 76 | VIVENIO RESIDENCIAL SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | indicio |
+| 77 | ARRIENDA RENTAL PROPERTIES SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 78 | TRIVIUM REAL ESTATE SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
+| 79 | TECHO HOGAR SOCIMI SOCIEDAD DE BENEFICIO E INTERÉS COMÚN S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 80 | INBEST PRIME VI INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 81 | NORDESTE PROPERTIES SOCIMI S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 82 | INHOME PRIME PROPERTIES SOCIMI, S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 83 | INBEST GPF MULTI-ASSET CLASS PRIME I SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 84 | INBEST GPF MULTI-ASSET CLASS PRIME IV SOCIMI, S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 85 | INMOBILIARIA MARBELLA SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 86 | INICIATIVAS FARO 2024 SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 87 | AM LOCALES PROPERTY SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | indicio |
+| 88 | ALQUILER SEGURO ASSET MARKET SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 89 | HOTEI PROPERTIES GROUP SOCIMI, S.A. | BME Growth | 4.5 | de momento no | 1/6 | — | — | — | ninguno |
+| 90 | ROMANO SENIOR SOCIMI, S.A. | BME Scaleup | 3.2 | de momento no | 2/6 | — | — | Espai D'Inversions 2005 S.L. (B64049257) (10,0 %) | ninguno |
+| 91 | ECOINMO SPACES SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 92 | HQ AMÉRICA SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 93 | AHORRO FAMILIAR SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 94 | RENTAS NOBLEJAS 3 SOCIMI, S.A., | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 95 | ALDICER RE SOCIMI S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 96 | ASHINGTON SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
 
 ### MILEPRO LOGÍSTICA ÚLTIMA MILLA SOCIMI, S.A. · 8.8 puntos · de momento no · cobertura 2/6
 - **Apalancamiento** —/25 (sin datos)
@@ -125,6 +149,105 @@
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05558_OtraInfRelev_20260423.pdf
 - ⚠️ cobertura 2 de 6: la puntuación dice poco
 
+### NORDESTE PROPERTIES SOCIMI S.A · 5.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.nordeste-properties-socimi-s-a-es0105790002.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05790_OtraInfRelev_20260508_2.pdf
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A. · 28.1 puntos · de momento no · cobertura 5/6
+- **Apalancamiento** 9.2/25 (parcial)
+  - LTV: 9.2/17, parcial — LTV 43,8 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** 10.0/15 (parcial)
+  - Cotización frente al valor: 10.0/10, cumplida — capitalización 7,9 M€ frente a patrimonio neto 6,7 M€: 19 % de prima (por falta de NAV por acción) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** 3.9/15 (parcial)
+  - Mayor accionista: 1.7/8, parcial — Micosquic SA de Capital Variable con el 14,29 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf
+  - Suma de significativos: 2.2/4, parcial — 3 accionistas ≥ 5 % suman el 42,9 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf
+  - Persona física detrás: 0.0/3, no cumplida — ninguna persona física publicada entre los significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf
+- **Activos** 0.0/15 (no cumplida)
+  - Tamaño de la cartera: 0.0/6, no cumplida — inmuebles por 6,9 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: 0.0/4, no cumplida — 0,1 % (5.857 € de rentas sobre 6,9 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.mistral-iberia-real-estate-socimi-ii-s-a-es0105813002.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf
+
+### LAUTHON INVEST SOCIMI, S.A. · 9.4 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 4.4/15 (parcial)
+  - Mayor accionista: 3.3/8, parcial — prevention fund) - con el 23,75 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05816_OtraInfRelev_20260108.pdf
+  - Suma de significativos: 1.1/4, parcial — 1 accionistas ≥ 5 % suman el 23,8 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05816_OtraInfRelev_20260108.pdf
+  - Persona física detrás: 0.0/3, no cumplida — ninguna persona física publicada entre los significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05816_OtraInfRelev_20260108.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.lauthon-invest-socimi-s-a-es0105816005.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05816_OtraInfRelev_20260529.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### INHOME PRIME PROPERTIES SOCIMI, S.A · 5.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inhome-prime-properties-socimi-s-a-es0105657003.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05657_OtraInfRelev_20260330_2.pdf
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
 ### HISPANOTELS INVERSIONES SOCIMI, S.A. · 9.7 puntos · de momento no · cobertura 3/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
@@ -173,6 +296,131 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05653_OtraInfRelev_20260604.pdf
 
+### ROMANO SENIOR SOCIMI, S.A. · 3.2 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 1.2/15 (parcial)
+  - Mayor accionista: 0.9/8, parcial — Espai D'Inversions 2005 S.L. (B64049257) con el 10,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05798_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 0.3/4, parcial — 1 accionistas ≥ 5 % suman el 10,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05798_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 0.0/3, no cumplida — ninguna persona física publicada entre los significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05798_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 2.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.romano-senior-socimi-s-a-es0105798005.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05798_OtraInfRelev_20260707.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### INBEST GPF MULTI-ASSET CLASS PRIME I SOCIMI, S.A. · 5.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-i-socimi-s-a-es0105680005.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05680_OtraInfRelev_20260430.pdf
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### INBEST GPF MULTI-ASSET CLASS PRIME II SOCIMI, S.A. · 6.2 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 1.2/15 (parcial)
+  - Mayor accionista: 0.9/8, parcial — HZ20 CORPOARTE S.L.U con el 10,1 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05681_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 0.3/4, parcial — 1 accionistas ≥ 5 % suman el 10,1 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05681_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 0.0/3, no cumplida — ninguna persona física publicada entre los significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05681_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-ii-socimi-s-a-es0105681003.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05681_OtraInfRelev_20260430.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### INBEST GPF MULTI-ASSET CLASS PRIME III SOCIMI, S.A · 9.8 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 4.8/15 (parcial)
+  - Mayor accionista: 2.7/8, parcial — LONTON FINANCE, S.A.C. con el 20,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05682_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 2.1/4, parcial — 3 accionistas ≥ 5 % suman el 41,2 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05682_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 0.0/3, no cumplida — ninguna persona física publicada entre los significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05682_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-iii-socimi-s-a-es0105682001.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05682_OtraInfRelev_20260430_1.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### INBEST GPF MULTI-ASSET CLASS PRIME IV SOCIMI, S.A · 5.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-iv-socimi-s-a-es0105683009.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05683_OtraInfRelev_20260430.pdf
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
 ### VERACRUZ PROPERTIES SOCIMI, S.A. · 50.2 puntos · interesante · cobertura 5/6
 - **Apalancamiento** 17.0/25 (parcial)
   - LTV: 17.0/17, cumplida — LTV -5,3 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
@@ -196,6 +444,31 @@
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.veracruz-properties-socimi-s-a-es0105330007.html
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05330_OtraInfRelev_20260424.pdf
+
+### INBEST GPF MULTI-ASSET CLASS PRIME VII SOCIMI, S.A. · 20.0 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 15.0/15 (cumplida)
+  - Mayor accionista: 8.0/8, cumplida — TURIAZQUEZ 21 S.L. (*) con el 99,9 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 4.0/4, cumplida — 1 accionistas ≥ 5 % suman el 99,9 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 3/3, cumplida — 2 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05767_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-vii-socimi-s-a-es0105767000.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05767_OtraInfRelev_20260430.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
 
 ### CUPULAS PROPERTIES SOCIMI, S.A.U. · 32.0 puntos · de momento no · cobertura 5/6
 - **Apalancamiento** 17.0/25 (parcial)
@@ -221,6 +494,31 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05745_OtraInfRelev_20260529_2.pdf
 
+### INBEST GPF MULTI-ASSET CLASS PRIME VIII SOCIMI, S.A · 20.0 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 15.0/15 (cumplida)
+  - Mayor accionista: 8.0/8, cumplida — ALADINO H1 ESPAÑA, S.L.U. (*) con el 99,73 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05766_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 4.0/4, cumplida — 1 accionistas ≥ 5 % suman el 99,7 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05766_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 3/3, cumplida — 1 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05766_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-viii-socimi-s-a-es0105766002.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05766_OtraInfRelev_20260430.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
 ### ECOINMO SPACES SOCIMI, S.A. · 2.0 puntos · de momento no · cobertura 1/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
@@ -244,6 +542,31 @@
   - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.ecoinmo-spaces-socimi-s-a-es0106057005.html
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: —/3, sin datos — sin lista de documentos (no consta)
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### INMOBILIARIA MARBELLA SOCIMI, S.A. · 5.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inmobiliaria-marbella-socimi-s-a-es0105889002.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05889_OtraInfRelev_20260520_2.pdf
 - ⚠️ cobertura 1 de 6: la puntuación dice poco
 
 ### INICIATIVAS FARO 2024 SOCIMI, S.A. · 5.0 puntos · de momento no · cobertura 1/6
@@ -318,6 +641,31 @@
   - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.grupo-antagon-inversiones-inmobiliarias-2025-socimi-s-a-es0106036009.html
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 1.5/3, parcial — cuentas anuales recientes: no; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/06036_OtraInfRelev_20261016_1.pdf
+
+### HQ AMÉRICA SOCIMI, S.A. · 2.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 2.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.hq-america-socimi-s-a-es0106041009.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: —/3, sin datos — sin lista de documentos (no consta)
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
 
 ### TORIMBIA SOCIMI, S.A. · 14.1 puntos · de momento no · cobertura 2/6
 - **Apalancamiento** —/25 (sin datos)
@@ -418,6 +766,55 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 1.5/3, parcial — cuentas anuales recientes: no; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05757_OtraInfRelev_20251030.pdf
 
+### TARJAR XAIRO SOCIMI, S.A. · 49.4 puntos · de momento no · cobertura 5/6
+- **Apalancamiento** 17.0/25 (parcial)
+  - LTV: 17.0/17, cumplida — LTV 28,4 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** 19.6/20 (parcial)
+  - Reparte dividendo: 10/10, cumplida — 370.000 € pagados con cargo a 2025 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05226_OtraInfRelev_20260529.pdf
+  - Rendimiento sobre capitalización: 5.6/6, parcial — 3,8 % (370.000 € sobre 9,8 M€ de capitalización) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05226_OtraInfRelev_20260529.pdf
+  - Crece: 4/4, cumplida — 370.000 € frente a 270.000 € del ejercicio anterior · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05226_OtraInfRelev_20260529.pdf
+- **Valor liquidativo** 7.8/15 (parcial)
+  - Cotización frente al valor: 7.8/10, parcial — capitalización 9,8 M€ frente a patrimonio neto 10,7 M€: 9 % de descuento (por falta de NAV por acción) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05226_OtraInfRelev_20260529.pdf
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** 0.0/15 (no cumplida)
+  - Tamaño de la cartera: 0.0/6, no cumplida — inmuebles por 14,8 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05226_OtraInfRelev_20260529.pdf
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.tarjar-xairo-socimi-s-a-es0105226007.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05226_OtraInfRelev_20260529.pdf
+
+### RENTAS NOBLEJAS 3 SOCIMI, S.A., · 2.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 2.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.rentas-noblejas-3-socimi-s-a-es0106059001.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: —/3, sin datos — sin lista de documentos (no consta)
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
 ### IBI LION SOCIMI, S.A. · 6.0 puntos · de momento no · cobertura 1/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
@@ -442,6 +839,31 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05633_OtraInfRelev_20260429.pdf
 - ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### OLIMPO RETAIL GERMANY, SOCIMI, S.A. · 7.5 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 2.5/15 (parcial)
+  - Mayor accionista: 1.8/8, parcial — Bankinter Investment Inversión Alternativa I, F.C.R. con el 15,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05751_OtraInfRelev_20260108.pdf
+  - Suma de significativos: 0.7/4, parcial — 2 accionistas ≥ 5 % suman el 18,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05751_OtraInfRelev_20260108.pdf
+  - Persona física detrás: 0.0/3, no cumplida — ninguna persona física publicada entre los significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05751_OtraInfRelev_20260108.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.olimpo-retail-germany-socimi-s-a-es0105751004.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05751_OtraInfRelev_20260320.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
 
 ### ALDICER RE SOCIMI S.A. · 2.0 puntos · de momento no · cobertura 1/6
 - **Apalancamiento** —/25 (sin datos)
@@ -516,6 +938,30 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05150_OtraInfRelev_20260318.pdf
 - ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### INMOBILIARIA PARK ROSE IBEROAMERICANA SOCIMI, S.A · 20.0 puntos · de momento no · cobertura 3/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** 0.0/15 (no cumplida)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** 15.0/15 (cumplida)
+  - Mayor accionista: 8.0/8, cumplida — Artic Badeck, S.L. con el 74,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05391_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 4.0/4, cumplida — 8 accionistas ≥ 5 % suman el 291,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05391_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 3/3, cumplida — 4 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05391_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inmobiliaria-park-rose-iberoamericana-socimi-s-a-es0105391009.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05391_OtraInfRelev_20260422.pdf
 
 ### BARCINO PROPERTY SOCIMI, S.A · 6.0 puntos · de momento no · cobertura 3/6
 - **Apalancamiento** —/25 (sin datos)
@@ -639,6 +1085,55 @@
   - Publica lo que debe: —/3, sin datos — sin lista de documentos (no consta)
 - ⚠️ cobertura 1 de 6: la puntuación dice poco
 
+### SOLVENTO GROUP 2022 SOCIMI S.A. · 18.5 puntos · de momento no · cobertura 3/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** 13.5/20 (parcial)
+  - Reparte dividendo: 10/10, cumplida — 1,7 M€ acordados con cargo a 2026 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05761_OtraInfRelev_20260702_1.pdf
+  - Rendimiento sobre capitalización: 3.5/6, parcial — 2,8 % (1,7 M€ sobre 60,0 M€ de capitalización) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05761_OtraInfRelev_20260702_1.pdf
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** 0.0/15 (no cumplida)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.solvento-group-2022-socimi-s-a-es0105761003.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05761_OtraInfRelev_20260529.pdf
+
+### INBEST GPF MULTI-ASSET CLASS PRIME V SOCIMI, S.A. · 10.1 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 5.1/15 (parcial)
+  - Mayor accionista: 1.6/8, parcial — VALIER AGRÍCOLA, S.L. (*) con el 14,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05749_OtraInfRelev_20260707.pdf
+  - Suma de significativos: 0.5/4, parcial — 1 accionistas ≥ 5 % suman el 14,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05749_OtraInfRelev_20260707.pdf
+  - Persona física detrás: 3/3, cumplida — 1 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05749_OtraInfRelev_20260707.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-v-socimi-s-a-es0105749008.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05749_OtraInfRelev_20260430.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
 ### MICISO REAL ESTATE SOCIMI S.A. · 33.9 puntos · de momento no · cobertura 4/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
@@ -662,6 +1157,54 @@
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.miciso-real-estate-socimi-s-a-es0105707006.html
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
+
+### JHG DOMUS SOCIMI, S.A. · 30.0 puntos · de momento no · cobertura 4/6
+- **Apalancamiento** 12.2/25 (parcial)
+  - LTV: 12.2/17, parcial — LTV 38,5 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** 10.0/15 (parcial)
+  - Cotización frente al valor: 10.0/10, cumplida — capitalización 8,0 M€ frente a patrimonio neto 5,8 M€: 37 % de prima (por falta de NAV por acción) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05883_OtraInfRelev_20260528_1.pdf
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** 2.8/15 (parcial)
+  - Tamaño de la cartera: 0.0/6, no cumplida — inmuebles por 7,0 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05883_OtraInfRelev_20260528_1.pdf
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: 2.8/4, parcial — 4,8 % (333.848 € de rentas sobre 7,0 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05883_OtraInfRelev_20260528_1.pdf
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.jhg-domus-socimi-s-a-es0105883005.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05883_OtraInfRelev_20260528_1.pdf
+
+### MASA RENTAL SOCIMI S.A. · 31.1 puntos · de momento no · cobertura 4/6
+- **Apalancamiento** 17.0/25 (parcial)
+  - LTV: 17.0/17, cumplida — LTV -341,9 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** 0.0/15 (no cumplida)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** 10.6/15 (parcial)
+  - Mayor accionista: 3.6/8, parcial — Solway Capital S.L.U. con el 25,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05963_OtraInfRelev_20260105_1.pdf
+  - Suma de significativos: 4.0/4, cumplida — 4 accionistas ≥ 5 % suman el 100,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05963_OtraInfRelev_20260105_1.pdf
+  - Persona física detrás: 3/3, cumplida — 4 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05963_OtraInfRelev_20260105_1.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 3.5/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.masa-rental-socimi-s-a-es0105963005.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 1.5/3, parcial — cuentas anuales recientes: sí; semestral reciente: no · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05963_OtraInfRelev_20260430_1.pdf
 
 ### PREVISIÓN SANITARIA NACIONAL GESTIÓN SOCIMI, S.A. · 13.3 puntos · de momento no · cobertura 3/6
 - **Apalancamiento** —/25 (sin datos)
@@ -859,6 +1402,31 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05153_OtraInfRelev_20260417.pdf
 
+### IBERVALLES HOTELES SOCIMI, S.A. · 18.5 puntos · de momento no · cobertura 2/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** 15.0/15 (cumplida)
+  - Mayor accionista: 8.0/8, cumplida — IRG10 SOCIMI, S.A. con el 100,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf
+  - Suma de significativos: 4.0/4, cumplida — 1 accionistas ≥ 5 % suman el 100,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf
+  - Persona física detrás: 3/3, cumplida — 3 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/06005_OtraInfRelev_20260109.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 3.5/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.ibervalles-hoteles-socimi-s-a-es0106005004.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 1.5/3, parcial — cuentas anuales recientes: sí; semestral reciente: no · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/06005_OtraInfRelev_20260605.pdf
+- ⚠️ cobertura 2 de 6: la puntuación dice poco
+
 ### FIDERE PATRIMONIO SOCIMI, S.A. · 6.0 puntos · de momento no · cobertura 3/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
@@ -1029,6 +1597,30 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05175_OtraInfRelev_20260730.pdf
 - ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### SAINT CROIX HOLDING IMMOBILIER, SOCIMI, S.A · 50.3 puntos · interesante · cobertura 6/6
+- **Apalancamiento** 17.0/25 (parcial)
+  - LTV: 17.0/17, cumplida — LTV 26,94 % (declarado por la sociedad); 30 % o menos da el máximo, 60 % o más da 0 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** 10.0/20 (parcial)
+  - Reparte dividendo: 10/10, cumplida — 2,9 M€ pagados con cargo a 2025 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
+  - Rendimiento sobre capitalización: 0.0/6, no cumplida — 1,0 % (2,9 M€ sobre 305,0 M€ de capitalización) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
+  - Crece: 0.0/4, no cumplida — 2,9 M€ frente a 26,0 M€ del ejercicio anterior · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
+- **Valor liquidativo** 0.0/15 (no cumplida)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** 8.3/15 (parcial)
+  - Mayor accionista: 3.1/8, parcial — PER 32, S.L. con el 22,31 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/20694_OtraInfRelev_20260108.pdf
+  - Suma de significativos: 2.2/4, parcial — 2 accionistas ≥ 5 % suman el 43,1 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/20694_OtraInfRelev_20260108.pdf
+  - Persona física detrás: 3/3, cumplida — 2 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/20694_OtraInfRelev_20260108.pdf
+- **Activos** 10.0/15 (parcial)
+  - Tamaño de la cartera: 6.0/6, cumplida — inmuebles por 550,8 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: 4.0/4, cumplida — 7,8 % (42,8 M€ de rentas sobre 550,8 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.saint-croix-holding-immobilier-socimi-s-a-lu0720694636.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/20694_OtraInfRelev_20260226.pdf
 
 ### JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A · 6.0 puntos · de momento no · cobertura 1/6
 - **Apalancamiento** —/25 (sin datos)
@@ -1742,6 +2334,30 @@
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.ktesios-real-estate-socimi-s-a-es0105536009.html
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05536_OtraInfRelev_20260415_1.pdf
+
+### INMUEBLES EN ALQUILER RESYDENZA SOCIMI, S.A.U. · 32.5 puntos · de momento no · cobertura 4/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** 12.5/20 (parcial)
+  - Reparte dividendo: 10/10, cumplida — 93.754 € acordados con cargo a 2026 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05791_OtraInfRelev_20260316.pdf
+  - Rendimiento sobre capitalización: 2.5/6, parcial — 2,2 % (93.754 € sobre 4,2 M€ de capitalización) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05791_OtraInfRelev_20260316.pdf
+  - Crece: 0.0/4, no cumplida — 93.754 € frente a 112.705 € del ejercicio anterior · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05791_OtraInfRelev_20260316.pdf
+- **Valor liquidativo** 0.0/15 (no cumplida)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** 15.0/15 (cumplida)
+  - Mayor accionista: 8.0/8, cumplida — Promociones y Construcciones PYC Pryconsa, S.L. con el 100,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05791_OtraInfRelev_20260108.pdf
+  - Suma de significativos: 4.0/4, cumplida — 1 accionistas ≥ 5 % suman el 100,0 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05791_OtraInfRelev_20260108.pdf
+  - Persona física detrás: 3/3, cumplida — 2 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05791_OtraInfRelev_20260108.pdf
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.0/10 (parcial)
+  - Mercado: 2.0/4, parcial — BME Scaleup · fuente: https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inmuebles-en-alquiler-resydenza-socimi-s-a-u-es0105791000.html
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/05791_OtraInfRelev_20260226.pdf
 
 ### INBEST PRIME VI INMUEBLES SOCIMI, S.A. · 6.0 puntos · de momento no · cobertura 1/6
 - **Apalancamiento** —/25 (sin datos)

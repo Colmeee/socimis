@@ -1,0 +1,111 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 12967382,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-29",
+   "huella": "ddd28d84b8c9b0f5e4293ed14e48348a98f2a01bf630b01c196305a9fa5454c8",
+   "tipo": "cuentas_anuales",
+   "titulo": "La Sociedad publica: (i) las cuentas anuales del ejercicio 2025, junto con el informe de auditoría emitido por un auditor independiente; (ii) el informe de gestión correspondiente al ejercicio 2025; y",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05761_OtraInfRelev_20260529.pdf"
+  },
+  {
+   "bytes": 281724,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-02",
+   "huella": "4f24716560004209ed4b9e7dbeb119f6d0b2b34cdca497af84ecec1dc1436f84",
+   "tipo": "dividendo",
+   "titulo": "La Sociedad publica el reparto de dividendo con cargo al resultado del ejercicio 2025 (275 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05761_OtraInfRelev_20260702_1.pdf"
+  },
+  {
+   "bytes": 137006,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-08",
+   "huella": "9496946ff950c915c23a02b5908ad4be571a1dc90f04c2960a68885a0a291957",
+   "tipo": "participaciones",
+   "titulo": "La Sociedad pública las participaciones significativas a 31 de diciembre de 2025 (133 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05761_OtraInfRelev_20260108.pdf"
+  },
+  {
+   "bytes": 1123297,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-10-07",
+   "huella": "6af730373e542c12a9484816435a7c6c9323cded2040bcfa10ba728e9222b28d",
+   "tipo": "semestral",
+   "titulo": "SOLVENTO GROUP 2022 SOCIMI S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05761_OtraInfRelev_20261007_1.pdf"
+  },
+  {
+   "bytes": 131621,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-28",
+   "huella": "055509de18e0a1d70994656d07cdbe2a3b660c7c9d4141d198df1f827023f095",
+   "tipo": "valoracion",
+   "titulo": "La Sociedad publica la valoración de los activos inmobiliarios a 31 de diciembre de 2025 (128 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05761_OtraInfRelev_20260528_1.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2026-07-02",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05761_OtraInfRelev_20260702_1.pdf",
+    "huella": "4f24716560004209ed4b9e7dbeb119f6d0b2b34cdca497af84ecec1dc1436f84",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1660361.61
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 60000036,
+  "cotizacion": 12,
+  "domicilio": "AVENIDA RAMON Y CAJAL 3, 29601 MARBELLA (MALAGA)",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105761003",
+  "mercado": "BME MTF Equity",
+  "nif": "A72565294",
+  "nombre": "SOLVENTO GROUP 2022 SOCIMI S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Málaga",
+  "segmento": "BME Scaleup",
+  "ticker": "SCSOL",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.solvento-group-2022-socimi-s-a-es0105761003.html",
+  "web": "https://www.solventogroup.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A72565294-semestral-2026-10-07.txt",
+    "linea": "Local comercial en Oñate (Guipúzcoa) 01/12/2023",
+    "lugar": "Oñate",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

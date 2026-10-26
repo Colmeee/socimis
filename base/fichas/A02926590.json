@@ -1,0 +1,316 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Micosquic SA de Capital Variable",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf",
+   "huella": "443c9e1011da5338ea83302e9529c9019f8de0fe5fa2ac609e5aaf635ab21212",
+   "pct_directo": 14.29,
+   "pct_indirecto": null,
+   "pct_total": 14.29,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Viviendas de Vizcaya, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf",
+   "huella": "443c9e1011da5338ea83302e9529c9019f8de0fe5fa2ac609e5aaf635ab21212",
+   "pct_directo": 14.29,
+   "pct_indirecto": null,
+   "pct_total": 14.29,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Hipólito Valentín Gerard",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf",
+   "huella": "443c9e1011da5338ea83302e9529c9019f8de0fe5fa2ac609e5aaf635ab21212",
+   "pct_directo": 14.29,
+   "pct_indirecto": null,
+   "pct_total": 14.29,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2025: no encontrado: ingresos_rentas",
+  "cuentas 2025: no encontrado: variacion_valor_razonable",
+  "cuentas 2025: no encontrado: pagos_dividendos"
+ ],
+ "documentos": [
+  {
+   "bytes": 7738395,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-23",
+   "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas Anuales individuales y consolidadas del ejercicio finalizado a 31 de diciembre de 2025 junto con los informes de auditoría e Informe sobre la estructura organizativa y el sistema de control in",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf"
+  },
+  {
+   "bytes": 541452,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-07",
+   "huella": "443c9e1011da5338ea83302e9529c9019f8de0fe5fa2ac609e5aaf635ab21212",
+   "tipo": "participaciones",
+   "titulo": "La Sociedad informa de las participaciones significativas a 31 de diciembre de 2025 (528 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05813_OtraInfRelev_20260107.pdf"
+  },
+  {
+   "bytes": 11183408,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-23",
+   "huella": "44ae251b582d88e94e3ed4f2f94bc5d4a7b34af9b033e70bee055bc64fb3c511",
+   "tipo": "semestral",
+   "titulo": "La Sociedad publica los estados financieros intermedios consolidados junto con el informe de revisión limitada y Balance y Cuenta de Perdidas y Ganancias individuales de la Sociedad correspondientes a",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05813_OtraInfRelev_20251023.pdf"
+  },
+  {
+   "bytes": 513273,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-23",
+   "huella": "cf8f584e89b8f446bc87acfd452d62d8b4aa72251b70a7a7983fdae971c33733",
+   "tipo": "valoracion",
+   "titulo": "Valoración de los activos inmobiliarios de la Sociedad a 31 de diciembre de 2025 (501 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423_1.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2024": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7040287.0
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6796547.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": -139305.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4367.0
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 7192241.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 3022811.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 3017327.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5857.0
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": 43.8
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6655334.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 339193.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2683618.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": -130353.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5484.0
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05813_OtraInfRelev_20260423.pdf",
+    "huella": "cacf432d0d1edd68f3d13571cc31d580cbf78cce21afebf99074a29b1f8d26e2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 6889930.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 7900000,
+  "cotizacion": 1.58,
+  "domicilio": "SERRANO 84, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105813002",
+  "mercado": "BME MTF Equity",
+  "nif": "A02926590",
+  "nombre": "MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCMIB",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.mistral-iberia-real-estate-socimi-ii-s-a-es0105813002.html",
+  "web": "https://mistraliberiarealestate.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A02926590-cuentas_anuales-2026-04-23.txt",
+    "linea": "Viviendas de Vizcaya, S.A. 14,29%",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A02926590-cuentas_anuales-2026-04-23.txt",
+    "linea": "D. Victor López Díaz-Guerra Viviendas de Vizcaya, S.A.",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A02926590-cuentas_anuales-2026-04-23.txt",
+    "linea": "- Viviendas de Vizcaya, S.A., sociedad de nacionalidad española, representada por",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

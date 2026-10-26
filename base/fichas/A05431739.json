@@ -59,5 +59,12 @@
   "web": "https://inhomeprime.com"
  },
  "vencimientos": [],
- "vinculo_vasco": null
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
 }

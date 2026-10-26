@@ -1,0 +1,99 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Bankinter Investment Inversión Alternativa I, F.C.R.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05751_OtraInfRelev_20260108.pdf",
+   "huella": "0c649e21162fda78e6758e324324bb8acc33072d8f00fdd1c10961b1697dc154",
+   "pct_directo": 15.0,
+   "pct_indirecto": null,
+   "pct_total": 15.0,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": "del capital social) tienen suscrito",
+   "acciones": null,
+   "accionista": "Services, S.A.U. (cuya participación asciende a un",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05751_OtraInfRelev_20260108.pdf",
+   "huella": "0c649e21162fda78e6758e324324bb8acc33072d8f00fdd1c10961b1697dc154",
+   "pct_directo": null,
+   "pct_indirecto": 3.0,
+   "pct_total": 3.0,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 9381563,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-03-20",
+   "huella": "61752497e21060fe359bc1bb39b01fa44a27d33e1aec10dd4ab40d92be167c67",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas anuales e informe de auditoría 2025 (8 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05751_OtraInfRelev_20260320.pdf"
+  },
+  {
+   "bytes": 95498,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-08",
+   "huella": "0c649e21162fda78e6758e324324bb8acc33072d8f00fdd1c10961b1697dc154",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 31.12.2025 (93 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05751_OtraInfRelev_20260108.pdf"
+  },
+  {
+   "bytes": 10574604,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-09-18",
+   "huella": "f51c91555158fe8c71a2040e7fe3e3bbabf065ae4fab024972dcc7eb7725b4db",
+   "tipo": "semestral",
+   "titulo": "OLIMPO RETAIL GERMANY, SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05751_OtraInfRelev_20260918.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 94600000,
+  "cotizacion": 880,
+  "domicilio": "GOYA 24, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105751004",
+  "mercado": "BME MTF Equity",
+  "nif": "A56272545",
+  "nombre": "OLIMPO RETAIL GERMANY, SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCORE",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.olimpo-retail-germany-socimi-s-a-es0105751004.html",
+  "web": "https://www.ores-germany.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

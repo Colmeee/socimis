@@ -1,0 +1,62 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "participaciones: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 28049401,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-20",
+   "huella": "9ad7282bac601bc9a457bb0e64e493f3922ac91e8f4f959e7bde4fda3e1d2b91",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (26 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05889_OtraInfRelev_20260520_2.pdf"
+  },
+  {
+   "bytes": 4563716,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "ec00c7d8a72d344e0ba6f118d312384411e4092f18ae08b7fdc997c75bd17cff",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (4 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05889_OtraInfRelev_20251030.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 18800000,
+  "cotizacion": 3.76,
+  "domicilio": "AVENIDA ARIAS DE VELASCO 31, 29601 MARBELLA, MáLAGA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105889002",
+  "mercado": "BME MTF Equity",
+  "nif": "A19465525",
+  "nombre": "INMOBILIARIA MARBELLA SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Málaga",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIMS",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inmobiliaria-marbella-socimi-s-a-es0105889002.html",
+  "web": "https://www.inmobiliariamarbella.es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

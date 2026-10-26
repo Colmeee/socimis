@@ -1,0 +1,119 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "ALADINO H1 ESPAÑA, S.L.U. (*)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05766_OtraInfRelev_20260707.pdf",
+   "huella": "8b967e1c0aeb6ce92320e8530f4fe72a846d9bf6a49df0c3f978d1caf56a879d",
+   "pct_directo": 99.73,
+   "pct_indirecto": null,
+   "pct_total": 99.73,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Dña. Beatriz Sainz de Vicuña",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05766_OtraInfRelev_20260707.pdf",
+   "huella": "8b967e1c0aeb6ce92320e8530f4fe72a846d9bf6a49df0c3f978d1caf56a879d",
+   "pct_directo": null,
+   "pct_indirecto": 0.04,
+   "pct_total": 99.73,
+   "tipo": "fisica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3837138,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "fbb63b54d3b9befd916139359ca8b6d7a802d9d3763fa2812ce5b9e8e87f2855",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05766_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 136740,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-23",
+   "huella": "cf51344553a2944cfe292cdc492d5271c91e307428c063d00e46a26ba7428035",
+   "tipo": "dividendo",
+   "titulo": "Distribución dividendo prima de emisión (133 KB) Relacionado con: Otra Información Relevante ( 17:07)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05766_OtraInfRelev_20250623.pdf"
+  },
+  {
+   "bytes": 145085,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "8b967e1c0aeb6ce92320e8530f4fe72a846d9bf6a49df0c3f978d1caf56a879d",
+   "tipo": "participaciones",
+   "titulo": "INBEST GPF MULTI-ASSET CLASS PRIME VIII SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05766_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 658332,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "36d50cc89d6075aa53c20124b6e2ff6a97a1af7ab368ec1c7a59a30cac9a89fd",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (642 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05766_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 75818,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-03-28",
+   "huella": "01a1090024603f7ef3ff797d9ccbc64d2786d94c007b677a0cdb347d1241c77c",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos (74 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/03/05766_OtraInfRelev_20250328.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 21857920,
+  "cotizacion": 0.98,
+  "domicilio": "CALLE VELAZQUEZ 86, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105766002",
+  "mercado": "BME MTF Equity",
+  "nif": "A13986989",
+  "nombre": "INBEST GPF MULTI-ASSET CLASS PRIME VIII SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCIG8",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-viii-socimi-s-a-es0105766002.html",
+  "web": "https://inbestgpfviii.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

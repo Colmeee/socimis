@@ -1,0 +1,119 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "VALIER AGRÍCOLA, S.L. (*)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05749_OtraInfRelev_20260707.pdf",
+   "huella": "2003f7cd6a6e4edca5f51bef4fa45680873f26363a7d37b90c369070e70ace62",
+   "pct_directo": 14.0,
+   "pct_indirecto": null,
+   "pct_total": 14.0,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": "-",
+   "acciones": null,
+   "accionista": "D. José Vercher Company",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05749_OtraInfRelev_20260707.pdf",
+   "huella": "2003f7cd6a6e4edca5f51bef4fa45680873f26363a7d37b90c369070e70ace62",
+   "pct_directo": null,
+   "pct_indirecto": 14.0,
+   "pct_total": 14.0,
+   "tipo": "fisica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3588591,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "69e8ccffbd1c3917d326e48ec3b226ba15e1fc4af54c3ecfefad18a69f4bfa2a",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera 2025 (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05749_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 137463,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-20",
+   "huella": "3e44225c28af4c4ac0590bb8c1bfe523238726bdbbb640b20a6a51cc633718aa",
+   "tipo": "dividendo",
+   "titulo": "Distribución dividendo de prima de emisión 20.06.2025 (134 KB) Relacionado con: Otra Información Relevante ( 17:04)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05749_OtraInfRelev_20250620.pdf"
+  },
+  {
+   "bytes": 162125,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "2003f7cd6a6e4edca5f51bef4fa45680873f26363a7d37b90c369070e70ace62",
+   "tipo": "participaciones",
+   "titulo": "INBEST GPF MULTI-ASSET CLASS PRIME V SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05749_OtraInfRelev_20260707.pdf"
+  },
+  {
+   "bytes": 648206,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "c67340886175ef2df95e40f6d04ad7ae979e9781c8ae9398829c10cd94a77a22",
+   "tipo": "semestral",
+   "titulo": "Información Financiera 30 de junio de 2025 (633 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05749_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 75822,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-03-28",
+   "huella": "5f437453134690eebcb4af6074d67ab8d344d6bd8d23178d1af9d84ecb094c3f",
+   "tipo": "valoracion",
+   "titulo": "Valoración de Activos (74 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/03/05749_OtraInfRelev_20250328.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 17062500,
+  "cotizacion": 0.975,
+  "domicilio": "VELAZQUEZ 86, MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105749008",
+  "mercado": "BME MTF Equity",
+  "nif": "A72645088",
+  "nombre": "INBEST GPF MULTI-ASSET CLASS PRIME V SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "segmento": "BME Scaleup",
+  "ticker": "SCIG5",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.inbest-gpf-multi-asset-class-prime-v-socimi-s-a-es0105749008.html",
+  "web": "https://inbestgpfv.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

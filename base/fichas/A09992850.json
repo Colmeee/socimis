@@ -1,0 +1,65 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Espai D'Inversions 2005 S.L. (B64049257)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05798_OtraInfRelev_20260707.pdf",
+   "huella": "5be37d1b98e4b81a639b4ab2f6a0d2ae3aa2b3ba5f027945c8aec077348395f4",
+   "pct_directo": 10.0,
+   "pct_indirecto": null,
+   "pct_total": 10.0,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 128619,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-07",
+   "huella": "5be37d1b98e4b81a639b4ab2f6a0d2ae3aa2b3ba5f027945c8aec077348395f4",
+   "tipo": "participaciones",
+   "titulo": "ROMANO SENIOR SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05798_OtraInfRelev_20260707.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 102000000,
+  "cotizacion": 12,
+  "domicilio": "VILLANUEVA 2, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105798005",
+  "mercado": "BME MTF Equity",
+  "nif": "A09992850",
+  "nombre": "ROMANO SENIOR SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCROM",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.romano-senior-socimi-s-a-es0105798005.html",
+  "web": "http://www.romanosenior.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}
