@@ -1,0 +1,87 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 18135294,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-14",
+   "huella": "98ba7e9054174c071f2a0906729cbfc5bdf4b31e71b21189c0002ce02ce34306",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera Anual 2025 (17 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05384_OtraInfRelev_20260414.pdf"
+  },
+  {
+   "bytes": 8452,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-02",
+   "huella": "9b56bd2455b28c8384be100cca7f6572ccba39a777bc94c72f4ea521d0179db4",
+   "tipo": "participaciones",
+   "titulo": "VIVENIO RESIDENCIAL SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05384_OtraInfRelev_20260702.pdf"
+  },
+  {
+   "bytes": 25645129,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-21",
+   "huella": "46709cc26a32207970ff46711fccad9d9035d92f1c7160e20e776e70b35dde1e",
+   "tipo": "semestral",
+   "titulo": "VIVENIO RESIDENCIAL SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05384_OtraInfRelev_20261021.pdf"
+  },
+  {
+   "bytes": 84613,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2020-04-24",
+   "huella": "8fc2ef6c77cf1bb8f2bd54d87080182ae6c9506278e8677db53a56eb945356af",
+   "tipo": "valoracion",
+   "titulo": "Cambios en la valoración de activos y pasivosValoración de activos a 31 de diciembre de 2019 (82 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2020/04/05384_HRelev_20200424.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 973956501,
+  "cotizacion": 1.33,
+  "domicilio": "MARIA DE MOLINA 54, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105384004",
+  "mercado": "BME MTF Equity",
+  "nif": "A87805768",
+  "nombre": "VIVENIO RESIDENCIAL SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YVIV",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.vivenio-residencial-socimi-s-a-es0105384004.html",
+  "web": "http://vivenio.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A87805768-cuentas_anuales-2026-04-14.txt",
+    "linea": "b) Don Fernando Antonio Lacadena Azpeitia: consejero dominical",
+    "lugar": "Azpeitia",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

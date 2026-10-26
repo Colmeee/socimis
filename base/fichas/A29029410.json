@@ -1,0 +1,167 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Francisco de Asís Gómez Palma–",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05757_OtraInfRelev_20260108.pdf",
+   "huella": "69961937e6ad6e39c10ef4154121c47a7ca42693ae13f58c0382846962cf179c",
+   "pct_directo": 16.67,
+   "pct_indirecto": null,
+   "pct_total": 16.67,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "María Irene Gómez Palma–",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05757_OtraInfRelev_20260108.pdf",
+   "huella": "69961937e6ad6e39c10ef4154121c47a7ca42693ae13f58c0382846962cf179c",
+   "pct_directo": 16.67,
+   "pct_indirecto": null,
+   "pct_total": 16.67,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "María Nieves Gómez Palma–",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05757_OtraInfRelev_20260108.pdf",
+   "huella": "69961937e6ad6e39c10ef4154121c47a7ca42693ae13f58c0382846962cf179c",
+   "pct_directo": 16.67,
+   "pct_indirecto": null,
+   "pct_total": 16.67,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "María Gómez Palma–",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05757_OtraInfRelev_20260108.pdf",
+   "huella": "69961937e6ad6e39c10ef4154121c47a7ca42693ae13f58c0382846962cf179c",
+   "pct_directo": 16.67,
+   "pct_indirecto": null,
+   "pct_total": 16.67,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Manuel Francisco Gómez Palma–",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05757_OtraInfRelev_20260108.pdf",
+   "huella": "69961937e6ad6e39c10ef4154121c47a7ca42693ae13f58c0382846962cf179c",
+   "pct_directo": 16.67,
+   "pct_indirecto": null,
+   "pct_total": 16.67,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas_anuales: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 73595,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-06-10",
+   "huella": "4024f19a4c4b4f289fde378e87f5964ebca7516d41fc8f63ba20eb8848d34f2f",
+   "tipo": "dividendo",
+   "titulo": "DIVIDENDO A CUENTA RESULTADOS 2025 (71 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05757_OtraInfRelev_20260610_1.pdf"
+  },
+  {
+   "bytes": 74692,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-08",
+   "huella": "69961937e6ad6e39c10ef4154121c47a7ca42693ae13f58c0382846962cf179c",
+   "tipo": "participaciones",
+   "titulo": "COMUNICACION PARTICIPACIONES SIGNIFICATIVAS A (72 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05757_OtraInfRelev_20260108.pdf"
+  },
+  {
+   "bytes": 1342059,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-30",
+   "huella": "45dfef7b9652918f7cc51fec8d7df4fce74609d34f13ced1639c8c8ee4457b1f",
+   "tipo": "semestral",
+   "titulo": "Estados financieros intermedios de la Sociedad correspondientes al periodo de seis meses terminado el 30 de junio de 2025 (1 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05757_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 88385,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-05-19",
+   "huella": "a732c6dd0c56ea97b3722f2680e1a574f41515e7447c4b3045646a5960710939",
+   "tipo": "valoracion",
+   "titulo": "La Sociedad publica la valoración de los activos a 31 de diciembre de 2025 (86 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05757_OtraInfRelev_20260519.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2026": {
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2026-06-10",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05757_OtraInfRelev_20260610_1.pdf",
+    "huella": "4024f19a4c4b4f289fde378e87f5964ebca7516d41fc8f63ba20eb8848d34f2f",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 639223.51
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 73000000,
+  "cotizacion": 7.3,
+  "domicilio": "AVD. RICARDO SORIANO 19, 29601 MARBELLA (MALAGA)",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105757019",
+  "mercado": "BME MTF Equity",
+  "nif": "A29029410",
+  "nombre": "ALFIL PATRIMONIAL SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Málaga",
+  "segmento": "BME Scaleup",
+  "ticker": "SCALF",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.alfil-patrimonial-socimi-s-a-es0105757019.html",
+  "web": "https://www.alfilsocimi.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

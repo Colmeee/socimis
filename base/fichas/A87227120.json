@@ -1,0 +1,70 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 3548049,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-05-06",
+   "huella": "c6b973f6524151fc22c818d958def7a0c4be3af141505d0bafa841641a62b779",
+   "tipo": "cuentas_anuales",
+   "titulo": "Informe de auditoría, cuentas anuales e informe de gestión a 31 de diciembre de 2025. (3 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05765_OtraInfRelev_20260506.pdf"
+  },
+  {
+   "bytes": 156301,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-01-09",
+   "huella": "534172f4b6166deb59fc7ee2ecfdfc86bb72f36401ac15a2f8b7c8214a273a00",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas de la Sociedad a 31 de diciembre de 2025. (152 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/01/05765_OtraInfRelev_20260109.pdf"
+  },
+  {
+   "bytes": 21734138,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-28",
+   "huella": "e74979ec1de49301c979cc45c94ffa89b32a34ced8c0bd728d0c8c00341791e3",
+   "tipo": "semestral",
+   "titulo": "Estados Financieros Intermedios sin revisión limitada por parte del auditor a 30 de junio de 2025. (20 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05765_OtraInfRelev_20251028.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 13110607,
+  "cotizacion": 13.8,
+  "domicilio": "AVENIDA DE AMéRICA 18, 28028 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105765004",
+  "mercado": "BME MTF Equity",
+  "nif": "A87227120",
+  "nombre": "ALQUILER SEGURO ASSET MARKET SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCASM",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.alquiler-seguro-asset-market-socimi-s-a-es0105765004.html",
+  "web": "https://asamsocimi.es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

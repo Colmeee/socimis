@@ -1,0 +1,90 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 12116398,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "81ca0b9ff9498a4e7af0a636e83724f112029a868e6dc87fbde249839c980190",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera Anual Consolidada e Individual a 31 de diciembre de 2025 e Informe Sobre Estructura Organizativa y Sistema de Control Interno (11 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05080_OtraInfRelev_20260430.pdf"
+  },
+  {
+   "bytes": 93523,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-06-30",
+   "huella": "68a24229d17a9cec19dabd6ff7322f18798c3fc194092d22b0bfee9dab9c63de",
+   "tipo": "dividendo",
+   "titulo": "Dividendo Ejercicio 2024 (91 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/06/05080_OtraInfRelev_20250630.pdf"
+  },
+  {
+   "bytes": 211626,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-08",
+   "huella": "51a03b1b8efa2f9a786a25f57f1f635b0f2cffc9627560e6e760162ce387983c",
+   "tipo": "participaciones",
+   "titulo": "ZAMBAL SPAIN SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05080_OtraInfRelev_20260708.pdf"
+  },
+  {
+   "bytes": 2881786,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-30",
+   "huella": "b0ecba9154b7b1ebec66458b464f2834f53d7c84d6a2bd5350406144c8dd9dd5",
+   "tipo": "semestral",
+   "titulo": "Estados financieros intermedios consolidados correspondientes al periodo de seis meses finalizado el 30 de junio de 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05080_OtraInfRelev_20251030.pdf"
+  },
+  {
+   "bytes": 215672,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-30",
+   "huella": "2e72e0003f8e5940fd06dce53a0751458980d59e313853061610ecc727695d2d",
+   "tipo": "valoracion",
+   "titulo": "Valoración de los activos inmobiliarios de Zambal a 31.12.2025 (210 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05080_OtraInfRelev_20260430_1.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 591095904,
+  "cotizacion": 0.915,
+  "domicilio": "CL/ JOSE ORTEGA Y GASSET 11, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105080008",
+  "mercado": "BME MTF Equity",
+  "nif": "A86710142",
+  "nombre": "ZAMBAL SPAIN SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YZBL",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.zambal-spain-socimi-s-a-es0105080008.html",
+  "web": "http://www.zambalspain.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

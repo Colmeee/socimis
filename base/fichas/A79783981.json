@@ -1,0 +1,89 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "participaciones: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 15770751,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-28",
+   "huella": "385598886088f4dbb8abfe571a130461cc34052652acd4e2dc641e165a72edfd",
+   "tipo": "cuentas_anuales",
+   "titulo": "La Sociedad publica las Cuentas Anuales Auditadas a 31 de diciembre de 2025 junto con el informe de auditoría y el Informe de Estructura Organizativa y Control Interno (15 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05272_OtraInfRelev_20260428.pdf"
+  },
+  {
+   "bytes": 114541,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-07-01",
+   "huella": "e78ed7fcb3be2cdeb57fb43ad35ff0e643c703b4c364127b6e1a7b47146f352f",
+   "tipo": "dividendo",
+   "titulo": "La Sociedad publica el dividendo del ejercicio 2024 (111 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/07/05272_OtraInfRelev_20250701.pdf"
+  },
+  {
+   "bytes": 824208,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-10-16",
+   "huella": "924a5303f1057675830b065d69b92d83816c36a85b8160cccffdcc6fbb999a64",
+   "tipo": "semestral",
+   "titulo": "AM LOCALES PROPERTY SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05272_OtraInfRelev_20261016.pdf"
+  },
+  {
+   "bytes": 434758,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-24",
+   "huella": "286bf4bb0b00f49a35efdd22f7c4097221100a19c0e43e49a74cfde6e649c155",
+   "tipo": "valoracion",
+   "titulo": "La Sociedad pública la Valoración de activos a (424 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05272_OtraInfRelev_20260324.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 106593876,
+  "cotizacion": 21.2,
+  "domicilio": "PO/ DE LA CASTELLANA 137, 28046 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105272001",
+  "mercado": "BME MTF Equity",
+  "nif": "A79783981",
+  "nombre": "AM LOCALES PROPERTY SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Scaleup",
+  "ticker": "SCAML",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.am-locales-property-socimi-s-a-es0105272001.html",
+  "web": "http://www.amlocalesproperty.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A79783981-semestral-2026-10-16.txt",
+    "linea": "Locales comerciales C/ Príncipe de Vergara, 266 - Local 1 (Madrid) 01/10/1997",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

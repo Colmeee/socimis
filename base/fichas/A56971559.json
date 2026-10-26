@@ -1,0 +1,39 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 8451220,
+  "cotizacion": 172,
+  "domicilio": "AVENIDA DIAGONAL 594, BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105976007",
+  "mercado": "BME MTF Equity",
+  "nif": "A56971559",
+  "nombre": "ALDICER RE SOCIMI S.A.",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "segmento": "BME Scaleup",
+  "ticker": "SCALD",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-scaleup/cotizaciones-e-indices/empresas-cotizadas/ficha.aldicer-re-socimi-s-a-es0105976007.html",
+  "web": "https://www.aldicer.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}
