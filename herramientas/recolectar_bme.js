@@ -37,22 +37,22 @@ async function listado(page) {
   const seg = SEGMENTOS[segmento];
   await page.goto(seg.url, { waitUntil: 'networkidle', timeout: 90000 });
   await page.waitForTimeout(3000);
+  const leerFilas = () => page.evaluate(() => Array.from(document.querySelectorAll('table tbody tr')).map(tr => {
+    const tds = Array.from(tr.querySelectorAll('td')).map(td => td.innerText.trim());
+    const a = tr.querySelector('a[href*="ficha."]');
+    return { nombre: tds[0], capitalizacion: tds[1], sector: tds[tds.length - 2], web: tds[tds.length - 1], url: a ? a.href : null };
+  }).filter(f => f.url));
   const filas = [];
-  for (let pagina = 1; pagina <= 20; pagina++) {
-    const nuevas = await page.evaluate(() => Array.from(document.querySelectorAll('table tbody tr')).map(tr => {
-      const tds = Array.from(tr.querySelectorAll('td')).map(td => td.innerText.trim());
-      const a = tr.querySelector('a[href*="ficha."]');
-      return { nombre: tds[0], capitalizacion: tds[1], sector: tds[tds.length - 2], web: tds[tds.length - 1], url: a ? a.href : null };
-    }).filter(f => f.url));
-    for (const f of nuevas) if (!filas.find(x => x.url === f.url)) filas.push(f);
-    const siguiente = page.getByText('Siguiente', { exact: true }).first();
-    if (!(await siguiente.count()) || !(await siguiente.isEnabled().catch(() => false))) break;
-    const antes = filas.length;
-    await siguiente.click({ timeout: 5000 }).catch(() => {});
-    await page.waitForTimeout(PAUSA_MS);
-    const despues = await page.evaluate(() => document.querySelectorAll('table tbody tr').length);
-    if (!despues) break;
-    if (filas.length === antes && pagina > 1) break;
+  const sumar = (nuevas) => { for (const f of nuevas) if (!filas.find(x => x.url === f.url)) filas.push(f); };
+  sumar(await leerFilas());
+  // la lista va paginada de 20 en 20 (Scaleup: «1 2 3 Siguiente»); los enlaces de página no son visibles para Playwright,
+  // así que se pulsan desde dentro de la página por su número
+  for (let n = 2; n <= 30; n++) {
+    const hay = await page.evaluate((n) => { const a = Array.from(document.querySelectorAll('a.six-pagination__page-link')).find(e => e.innerText.trim() === String(n)); if (!a) return false; a.click(); return true; }, n);
+    if (!hay) break;
+    await page.waitForTimeout(3500);
+    const antes = filas.length; sumar(await leerFilas());
+    if (filas.length === antes) break;
   }
   return filas.map(f => ({ ...f, segmento: seg.nombre, isin: (f.url.match(/-(es\w{10})\.html/i) || [])[1]?.toUpperCase() || null }));
 }
