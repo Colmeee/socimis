@@ -1,0 +1,232 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Bankinter Investment, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 7.44,
+   "pct_indirecto": null,
+   "pct_total": 7.44,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Mapfre España Cía. de Seguros y Reaseguros, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 3.51,
+   "pct_indirecto": null,
+   "pct_total": 3.51,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Mapfre Re Cía. de Reaseguros, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 1.93,
+   "pct_indirecto": null,
+   "pct_total": 1.93,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Mapfre Vida, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 0.36,
+   "pct_indirecto": null,
+   "pct_total": 0.36,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Verti Aseguradora Cía. de Seguros y Reaseguros, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 0.15,
+   "pct_indirecto": null,
+   "pct_total": 0.15,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Bankinter Seguros Vida, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 0.15,
+   "pct_indirecto": null,
+   "pct_total": 0.15,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Corporación Juan Segarra S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 5.29,
+   "pct_indirecto": null,
+   "pct_total": 5.29,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Inmuebles Gil Comes S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 5.08,
+   "pct_indirecto": null,
+   "pct_total": 5.08,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Sierra Spain Real Estate Services, S.A. (2)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "pct_directo": 3.75,
+   "pct_indirecto": null,
+   "pct_total": 3.75,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 5971916,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-03-20",
+   "huella": "6b863d3b3d881306af0a81fe6a9868e88236ea0ab7afc1174032458446becada",
+   "tipo": "cuentas_anuales",
+   "titulo": "Cuentas anuales 2025 Individuales y Consolidadas e Informe de Estructura y Sistema de Control Interno (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05224_OtraInfRelev_20260320.pdf"
+  },
+  {
+   "bytes": 59011,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-11-28",
+   "huella": "02bbac1e840e596e4ec058c808dc4d0d0baaef9a24ba83f7ffa172043a092198",
+   "tipo": "dividendo",
+   "titulo": "Distribución de dividendo con cargo a beneficios y a reservas disponibles (57 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/11/05224_OtraInfRelev_20251128_1.pdf"
+  },
+  {
+   "bytes": 187988,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-06",
+   "huella": "1da5f5dd6d576f098b03163f785643753850f508c473542388e19402012fbd9d",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (183 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05224_OtraInfRelev_20260706.pdf"
+  },
+  {
+   "bytes": 3162822,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-09-22",
+   "huella": "dc77f28fad217759013f16d552aaba1d90df585132e539d3e36e1d8e2612163c",
+   "tipo": "semestral",
+   "titulo": "OLIMPO REAL ESTATE SOCIMI, S.A. (ORES)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/09/05224_OtraInfRelev_20260922.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2025": {
+   "dividendo_acordado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo; pago None",
+    "fecha": "2025-11-28",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/11/05224_OtraInfRelev_20251128_1.pdf",
+    "huella": "02bbac1e840e596e4ec058c808dc4d0d0baaef9a24ba83f7ffa172043a092198",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 18371023.0
+   },
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2025-11-28",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/11/05224_OtraInfRelev_20251128_1.pdf",
+    "huella": "02bbac1e840e596e4ec058c808dc4d0d0baaef9a24ba83f7ffa172043a092198",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.09346222
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 0.95,
+  "domicilio": "GOYA 24, 28001 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105224002",
+  "mercado": "BME MTF Equity",
+  "nif": "A87709655",
+  "nombre": "OLIMPO REAL ESTATE SOCIMI, S.A. (ORES)",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YORE",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.olimpo-real-estate-socimi-s-a-ores-es0105224002.html",
+  "web": "http://www.ores-socimi.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

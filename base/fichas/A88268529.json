@@ -1,0 +1,63 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "dividendo: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer",
+  "participaciones: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 5759122,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-29",
+   "huella": "ffcfc436c64a5747ccf975f72ff205f4b84c75052f54a012e782c8e89e0915c9",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05775_OtraInfRelev_20260429.pdf"
+  },
+  {
+   "bytes": 4870872,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-30",
+   "huella": "c30ba275b63f90a3a1abebb797c7619a7cb2258eccfe3e45a7784e575d9cadca",
+   "tipo": "semestral",
+   "titulo": "Información financiera del 1er semestre de 2025 (4 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05775_OtraInfRelev_20251030.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 1.15,
+  "domicilio": "PUENTEAREAS 18, 28002 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105775003",
+  "mercado": "BME MTF Equity",
+  "nif": "A88268529",
+  "nombre": "TECHO HOGAR SOCIMI SOCIEDAD DE BENEFICIO E INTERÉS COMÚN S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YTCH",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.techo-hogar-socimi-sociedad-de-beneficio-e-interes-comun-s-a-es0105775003.html",
+  "web": "https://www.tutecho.es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

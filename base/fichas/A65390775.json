@@ -1,0 +1,119 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Alfonso de Angoitia Noriega",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05150_OtraInfRelev_20260709.pdf",
+   "huella": "5e34dc18308369809761dfba48f2621a08772992c6acc86352e96bbcce5119fa",
+   "pct_directo": 13.98,
+   "pct_indirecto": null,
+   "pct_total": 13.98,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": "en el capital de la Sociedad VRX I",
+   "acciones": null,
+   "accionista": "políticos sobre una participación del",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05150_OtraInfRelev_20260709.pdf",
+   "huella": "5e34dc18308369809761dfba48f2621a08772992c6acc86352e96bbcce5119fa",
+   "pct_directo": null,
+   "pct_indirecto": 10.5,
+   "pct_total": 10.5,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 18968082,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-03-18",
+   "huella": "af3ba4b3601f1754d7ac7b5772a411979fa9e1a5a4eda43e49d43c6ddee6a867",
+   "tipo": "cuentas_anuales",
+   "titulo": "Presentación CCAA a 31 de diciembre de 2025 e informe de auditoría (18 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05150_OtraInfRelev_20260318.pdf"
+  },
+  {
+   "bytes": 92468,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-04-29",
+   "huella": "430ce683024664134fb77b6e4517b01c7e5748643fd68168416efd362a512892",
+   "tipo": "dividendo",
+   "titulo": "Pago de dividendo (90 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/04/05150_OtraInfRelev_20250429_1.pdf"
+  },
+  {
+   "bytes": 90881,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-09",
+   "huella": "5e34dc18308369809761dfba48f2621a08772992c6acc86352e96bbcce5119fa",
+   "tipo": "participaciones",
+   "titulo": "QUONIA SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05150_OtraInfRelev_20260709.pdf"
+  },
+  {
+   "bytes": 17976720,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-27",
+   "huella": "34adee834188d35a8eddd0a5d287484f101c64ab9330eae9ff566b45d7fcf4ce",
+   "tipo": "semestral",
+   "titulo": "Revision limitada y EEFF a 30 de junio de 2025 (17 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05150_OtraInfRelev_20251027.pdf"
+  },
+  {
+   "bytes": 51675,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-01-31",
+   "huella": "528eb6c7c5cc471097302dd9caba9ddb2b43b075636b24ef505bfd54eb403fe0",
+   "tipo": "valoracion",
+   "titulo": "Informe sobre la valoración de activos a 31 de diciembre de 2024 (50 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/01/05150_OtraInfRelev_20250131.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 1.16,
+  "domicilio": "CL/ VILLAROEL 216, 08036 BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105150009",
+  "mercado": "BME MTF Equity",
+  "nif": "A65390775",
+  "nombre": "QUONIA SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Barcelona",
+  "segmento": "BME Growth",
+  "ticker": "YQUO",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.quonia-socimi-s-a-es0105150009.html",
+  "web": "http://www.quonia.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

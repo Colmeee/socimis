@@ -1,0 +1,102 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% DEL",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05210_OtraInfRelev_20260710.pdf",
+   "huella": "4650bc04e161a7b7176200885ac0ffc993bd0a4a97e2e798c179e2987138a854",
+   "pct_directo": 5.0,
+   "pct_indirecto": null,
+   "pct_total": 5.0,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 8690004,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-04-30",
+   "huella": "485a0862a66344b89ddfb15ee1c0fadffee93db3bcd291cc4cb45541a4be8e14",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (8 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05210_OtraInfRelev_20260430_1.pdf"
+  },
+  {
+   "bytes": 102324,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-10",
+   "huella": "4650bc04e161a7b7176200885ac0ffc993bd0a4a97e2e798c179e2987138a854",
+   "tipo": "participaciones",
+   "titulo": "TESTA RESIDENCIAL, SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05210_OtraInfRelev_20260710.pdf"
+  },
+  {
+   "bytes": 5844837,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-31",
+   "huella": "6c56ba3533654c6cfaf851f827034a5e134eeae08f0a2248cbfac8efa96d4459",
+   "tipo": "semestral",
+   "titulo": "Información financiera 1er semestre 2025 (5 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05210_OtraInfRelev_20251031.pdf"
+  },
+  {
+   "bytes": 67963,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2020-04-30",
+   "huella": "0ac17792cb2834085e859660b1ec2a425d4d38bdd08763e1168008e7da2c303f",
+   "tipo": "valoracion",
+   "titulo": "Otros sobre información societariaValoración de los activos inmobiliarios a 31 de diciembre de 2019 (66 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2020/04/05210_HRelev_20200430.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 3.26,
+  "domicilio": "SANTIAGO DE COMPOSTELA 94, 28035 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105210019",
+  "mercado": "BME MTF Equity",
+  "nif": "A82865890",
+  "nombre": "TESTA RESIDENCIAL, SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YTST",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.testa-residencial-socimi-s-a-es0105210019.html",
+  "web": "https://www.testaresidencial.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A82865890-cuentas_anuales-2026-04-30.txt",
+    "linea": "b) D. Miguel Oñate Rino",
+    "lugar": "Oñate",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

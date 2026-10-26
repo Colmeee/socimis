@@ -1,0 +1,549 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2025: no encontrado: patrimonio_neto",
+  "cuentas 2025: no encontrado: ingresos_rentas",
+  "cuentas 2025: no encontrado: variacion_valor_razonable"
+ ],
+ "documentos": [
+  {
+   "bytes": 8713676,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-03-20",
+   "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe sobre la estructura organizativa y los sistemas de control interno (8 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf"
+  },
+  {
+   "bytes": 116517,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-14",
+   "huella": "cdba8280cc1435b5c40de876d1dcee3af0300720a713f2e4fa5532d18b9115cb",
+   "tipo": "dividendo",
+   "titulo": "Calendario de pago del dividendo aprobado por la junta (113 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05139_OtraInfRelev_20260714.pdf"
+  },
+  {
+   "bytes": 141831,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-01",
+   "huella": "2415e0aa354a7c469bc8422b00e94516e8e67b880bb377f579516c86fe18260a",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (138 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05139_OtraInfRelev_20260701.pdf"
+  },
+  {
+   "bytes": 2210410,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-13",
+   "huella": "3f3fd85fa3eb97da3ff21f47b9cac358eebc315b8df6259dd470c3678d8a35f8",
+   "tipo": "semestral",
+   "titulo": "Información financiera 1er semestre de 2025 (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05139_OtraInfRelev_20251013.pdf"
+  },
+  {
+   "bytes": 2247698,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-02-25",
+   "huella": "b217ab18eb6867d4a50e633a6f8fe4eed041553542857968bf423480e8bd177c",
+   "tipo": "valoracion",
+   "titulo": "Información trimestral correspondiente al 4º trimestre de 2025 y valoración de los activos (2 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/02/05139_OtraInfRelev_20260225.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2024": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 167928215.61
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 722340.11
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": -18633101.96
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4133768.79
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 9202791.24
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2024-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": -14.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 358443.11
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 363897.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 4329355.22
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 19355442.07
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 2",
+    "fecha": "2024-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 132968178.34
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 301173257.47
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 2865802.96
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": -2380809.67
+   },
+   "dividendos_pagados": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «pagos_dividendos», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5185851.88
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 13180952.6
+   },
+   "ltv_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera neta / inversiones inmobiliarias del balance",
+    "unidad": "%",
+    "valor": -1.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1372272.12
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1493530.84
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 10415252.75
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5246612.63
+   },
+   "valor_razonable_inmuebles": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «inversiones_inmobiliarias», columna 1",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+    "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 248037575.28
+   }
+  },
+  "2026": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2026-07-14",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05139_OtraInfRelev_20260714.pdf",
+    "huella": "cdba8280cc1435b5c40de876d1dcee3af0300720a713f2e4fa5532d18b9115cb",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.145
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 305051094,
+  "cotizacion": 18,
+  "domicilio": "PLAZA DE LA INDEPENDENCIA 6, MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105139002",
+  "mercado": "BME MTF Equity",
+  "nif": "A87028932",
+  "nombre": "VITRUVIO REAL ESTATE SOCIMI S.A",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "segmento": "BME Growth",
+  "ticker": "YVIT",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.vitruvio-real-estate-socimi-s-a-es0105139002.html",
+  "web": "http://www.vitruviosocimi.com"
+ },
+ "vencimientos": [
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Bankinter",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+   "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+   "importe": 16.0,
+   "importe_anterior": 7500000.0,
+   "tipo_interes": null,
+   "vencimiento": "2024-10-05"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Bankinter",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+   "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+   "importe": 7961.0,
+   "importe_anterior": 300000.0,
+   "tipo_interes": "2,20%",
+   "vencimiento": "2026-04-20"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Bankinter",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+   "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+   "importe": 264.0,
+   "importe_anterior": 1481471.54,
+   "tipo_interes": null,
+   "vencimiento": "2039-06-18"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Bankinter",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+   "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+   "importe": 16.0,
+   "importe_anterior": 5115135.65,
+   "tipo_interes": null,
+   "vencimiento": "2039-06-13"
+  },
+  {
+   "consultado": "2026-10-26",
+   "entidad": "Abanca",
+   "fecha": "2025-12-31",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf",
+   "huella": "ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2",
+   "importe": 1000000.0,
+   "importe_anterior": 1491.66,
+   "tipo_interes": null,
+   "vencimiento": "2026-05-16"
+  }
+ ],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Oficinas en: Alicante, Barcelona, Bilbao, Madrid, Málaga, Valencia, Vigo",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Madrid, Vizcaya, Badajoz, Orense y Palencia.",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Bankinter 0016 5.115.135,65 246,27 - 13/06/2039 - - Ppe vergara 211 y orense 11",
+    "lugar": "vergara",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Manuel Cereijo Trinidad Torre Bizkaia, S.A. 50% Alquiler de inmuebles Consejero",
+    "lugar": "Bizkaia",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Parque Comercial Artea de Leioa",
+    "lugar": "Leioa",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Mediana Comercial (Peruri Auzoa, 33 ) (Vizcaya) 20.04.2006",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "28 Local comercial C/ Gran Vía Diego López de Haro 61, (Bilbao) 23.12.2006",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "29 Local comercial C/ Estraunza, 6 (Bilbao) 23.12.2006",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "77 Comercial Ppe de Vergara, 211 (Madrid) 09.07.2025",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Madrid Barcelona Málaga Sevilla Vizcaya Valencia Zaragoza",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "España Madrid Barcelona Málaga Sevilla Bilbao Valencia Zaragoza",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "Top 7 Madrid Barcelona Málaga Sevilla Bilbao Zaragoza Valencia",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "total en este uso. Es decir, los mercados de Bilbao, Valencia o Málaga",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-cuentas_anuales-2026-03-20.txt",
+    "linea": "166 Comercial Ppe de Vergara, 211 (Madrid) 09.07.2025",
+    "lugar": "Vergara",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "situados en Madrid, Vizcaya, Badajoz, Orense y Palencia.",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "(Peruri Auzoa, 33 ) (Vizcaya)",
+    "lugar": "Vizcaya",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "Local comercial C/ Gran Vía Diego López de Haro 61, (Bilbao) 23.12.2006 52.391 N9505076B",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "Local comercial C/ Estraunza, 6 (Bilbao) 23.12.2006 25.434 U0160643M",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "Local comercial C/ Estraunza, 6 (Bilbao) 23.12.2006 52.391 U0160631S",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "Local comercial C/ Estraunza, 6 (Bilbao) 23.12.2006 N9505076B",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "14 Mediana Comercial Parque Comercial Artea de Leioa (Peruri Auzoa, 33 ) (Vizcaya) Alquiler de local comercial",
+    "lugar": "Leioa",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "15 Local comercial C/ Gran Vía Diego López de Haro 61, (Bilbao) Alquiler de local comercial",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A87028932-semestral-2025-10-13.txt",
+    "linea": "16 Local comercial C/ Estraunza, 6 (Bilbao) Alquiler de local comercial",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2029: no encontrado: tesoreria",
+  "cuentas 2029: no encontrado: inversiones_inmobiliarias",
+  "cuentas 2029: no encontrado: deuda_entidades_lp",
+  "cuentas 2029: no encontrado: deuda_entidades_cp",
+  "cuentas 2029: no encontrado: patrimonio_neto",
+  "cuentas 2029: no encontrado: activo_total",
+  "cuentas 2029: no encontrado: ingresos_rentas",
+  "cuentas 2029: no encontrado: cifra_negocios",
+  "cuentas 2029: no encontrado: variacion_valor_razonable",
+  "cuentas 2029: no encontrado: resultado",
+  "cuentas 2029: no encontrado: pagos_dividendos",
+  "cuentas 2029: estados no reconocidos (0 de 4 partidas básicas): el PDF puede estar escaneado en parte o usar otro formato; a revisar"
+ ],
+ "documentos": [
+  {
+   "bytes": 121703,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-05-04",
+   "huella": "668b58da7e4b8609bb742288783afacad6d49595e8eb673987eb82851e915661",
+   "revisar": true,
+   "tipo": "cuentas_anuales",
+   "titulo": "La Sociedad publica explicación sobre la salvedad del informe de auditoria (118 KB) Relacionado con: Otra Información Relevante ( 16:14)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05317_OtraInfRelev_20260504.pdf"
+  },
+  {
+   "bytes": 131587,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-02",
+   "huella": "f7b9982dbc34043501b9515e4c0638280761a33f658c509f4cad28cbcde1be12",
+   "tipo": "participaciones",
+   "titulo": "SERRANO 61 DESARROLLO SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05317_OtraInfRelev_20260702.pdf"
+  },
+  {
+   "bytes": 16053348,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-10-27",
+   "huella": "aa6be1717f98c46422132f3caad006e6d1d9be337bded180af5582a1beb99972",
+   "tipo": "semestral",
+   "titulo": "La Sociedad publica los estados financieros intermedios a 30 de junio de 2025 junto con el informe de revisión limitada. (15 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05317_OtraInfRelev_20251027.pdf"
+  },
+  {
+   "bytes": 78624,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-04-29",
+   "huella": "3ff3a12aaea3a76ebe382811d2f97586e203c2c82cc7a3b8cd0e6d726093e653",
+   "tipo": "valoracion",
+   "titulo": "LA SOCIEDAD INFORMA SOBRE LA VALORACION DE ACTIVOS A 31.12.2024 (76 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/04/05317_OtraInfRelev_20250429_1.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 19.8,
+  "domicilio": "CL/ SERRANO 61, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105317004",
+  "mercado": "BME MTF Equity",
+  "nif": "A87311361",
+  "nombre": "SERRANO 61 DESARROLLO SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YSRR",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.serrano-61-desarrollo-socimi-s-a-es0105317004.html",
+  "web": "http://www.serrano61socimi.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

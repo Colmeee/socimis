@@ -1,0 +1,143 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "El Arverjal, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05569_OtraInfRelev_20260708.pdf",
+   "huella": "1c0202af5a7a8638d62e394b9edc8606226050ef02a152df2136e4e079a3876b",
+   "pct_directo": 29.59,
+   "pct_indirecto": null,
+   "pct_total": 29.59,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Atalaya Inversiones Financieras, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05569_OtraInfRelev_20260708.pdf",
+   "huella": "1c0202af5a7a8638d62e394b9edc8606226050ef02a152df2136e4e079a3876b",
+   "pct_directo": 24.61,
+   "pct_indirecto": null,
+   "pct_total": 24.61,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Unicaja Banco, S.A.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05569_OtraInfRelev_20260708.pdf",
+   "huella": "1c0202af5a7a8638d62e394b9edc8606226050ef02a152df2136e4e079a3876b",
+   "pct_directo": 11.91,
+   "pct_indirecto": null,
+   "pct_total": 11.91,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Eurozasa, S.L.",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05569_OtraInfRelev_20260708.pdf",
+   "huella": "1c0202af5a7a8638d62e394b9edc8606226050ef02a152df2136e4e079a3876b",
+   "pct_directo": 6.66,
+   "pct_indirecto": null,
+   "pct_total": 6.66,
+   "tipo": "juridica"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Carrinsa S.L. (a través de Atalaya Inversiones Financieras, S.L.)",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": "2026-06-30",
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05569_OtraInfRelev_20260708.pdf",
+   "huella": "1c0202af5a7a8638d62e394b9edc8606226050ef02a152df2136e4e079a3876b",
+   "pct_directo": null,
+   "pct_indirecto": 12.48,
+   "pct_total": 12.48,
+   "tipo": "juridica"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "dividendo: No se pudo leer https://apiweb.bolsasymercados.es/...: [Errno 104] Connection reset by peer"
+ ],
+ "documentos": [
+  {
+   "bytes": 9530963,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2025-04-30",
+   "huella": "37b031c08272a807d66405e79f45f69a445544f04170877a2b1a4b907b76ddf8",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2024 e informe de estructura organizativa y sistemas de control interno (9 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/04/05569_OtraInfRelev_20250430_1.pdf"
+  },
+  {
+   "bytes": 109684,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-08",
+   "huella": "1c0202af5a7a8638d62e394b9edc8606226050ef02a152df2136e4e079a3876b",
+   "tipo": "participaciones",
+   "titulo": "Participaciones significativas a 30 de junio de 2026 (107 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05569_OtraInfRelev_20260708.pdf"
+  },
+  {
+   "bytes": 2490561,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-08-03",
+   "huella": "354e4ede19f46110de9b634c4fc0d41ae166dd90c6b35aca7ef1dd73ebb9b7cc",
+   "tipo": "semestral",
+   "titulo": "SILICIUS REAL ESTATE SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/08/05569_OtraInfRelev_20260803.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 10.5,
+  "domicilio": "CALLE VELAZQUEZ 123, 28006 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105569000",
+  "mercado": "BME MTF Equity",
+  "nif": "A87382453",
+  "nombre": "SILICIUS REAL ESTATE SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YSIL",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.silicius-real-estate-socimi-s-a-es0105569000.html",
+  "web": "https://www.socimisilicius.com/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

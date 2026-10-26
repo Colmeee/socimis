@@ -1,0 +1,363 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "cuentas 2026: no encontrado: inversiones_inmobiliarias",
+  "cuentas 2026: no encontrado: ingresos_rentas",
+  "cuentas 2026: no encontrado: variacion_valor_razonable",
+  "cuentas 2026: no encontrado: pagos_dividendos"
+ ],
+ "documentos": [
+  {
+   "bytes": 9622802,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-04-14",
+   "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (9 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf"
+  },
+  {
+   "bytes": 210778,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2019-11-15",
+   "huella": "97c43e3325b89acac86a70a638c2800d5655636454784589ba84700e5ec5e8b4",
+   "tipo": "dividendo",
+   "titulo": "Información sobre dividendosAcuerdo del Consejo de Administración sobre la distribución de dividendo a cuenta del resultado de ejercicio (205 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2019/11/05314_HRelev_20191115_1.pdf"
+  },
+  {
+   "bytes": 211884,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-09",
+   "huella": "4689ae2576d2ef33ada7e497bab6027ae33d25818b26b93ad62aa3c1992b2858",
+   "tipo": "participaciones",
+   "titulo": "TANDER INVERSIONES, SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05314_OtraInfRelev_20260709.pdf"
+  },
+  {
+   "bytes": 4224142,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-10-23",
+   "huella": "039ceda89f7901d73b909029b60231bb49ef050f3da31e5c42b62b9da2c61824",
+   "tipo": "semestral",
+   "titulo": "TANDER INVERSIONES, SOCIMI, S.A",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05314_OtraInfRelev_20261023.pdf"
+  }
+ ],
+ "ejercicios": {
+  "2019": {
+   "dividendo_por_accion": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "aviso de dividendo",
+    "fecha": "2019-11-15",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2019/11/05314_HRelev_20191115_1.pdf",
+    "huella": "97c43e3325b89acac86a70a638c2800d5655636454784589ba84700e5ec5e8b4",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 0.1640176
+   }
+  },
+  "2025": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 158395534.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 52687653.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2025-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 51239722.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5010594.0
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 67685190.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 52664932.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 22721.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 2",
+    "fecha": "2025-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1447931.0
+   }
+  },
+  "2026": {
+   "activo_total": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «activo_total», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 160029308.0
+   },
+   "deuda_financiera": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "bonos LP + bonos CP + préstamos LP + préstamos CP (2 sumandos)",
+    "unidad": "EUR",
+    "valor": 77312011.0
+   },
+   "deuda_financiera_neta": {
+    "consultado": "2026-10-26",
+    "contraste": "derivado",
+    "donde": null,
+    "fecha": "2026-12-31",
+    "fuente": null,
+    "huella": null,
+    "nota": "deuda financiera - tesorería",
+    "unidad": "EUR",
+    "valor": 74937915.0
+   },
+   "ingresos": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «cifra_negocios», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 5874183.0
+   },
+   "patrimonio_neto": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «patrimonio_neto», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 79762885.0
+   },
+   "prestamos_cp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_cp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 1372064.0
+   },
+   "prestamos_lp": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «deuda_entidades_lp», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 75939947.0
+   },
+   "resultado": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «resultado», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2691378.0
+   },
+   "tesoreria": {
+    "consultado": "2026-10-26",
+    "contraste": "oficial",
+    "donde": "rótulo «tesoreria», columna 1",
+    "fecha": "2026-12-31",
+    "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05314_OtraInfRelev_20260414.pdf",
+    "huella": "4ae25a3930af1f06304063dc8e0b802ec1ece4635bfc078c7f7a4ca467a239b8",
+    "nota": null,
+    "unidad": "EUR",
+    "valor": 2374096.0
+   }
+  }
+ },
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 11.9,
+  "domicilio": "AV/ DIAGONAL 467, 08036 BARCELONA",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105314001",
+  "mercado": "BME MTF Equity",
+  "nif": "A86619236",
+  "nombre": "TANDER INVERSIONES, SOCIMI, S.A",
+  "proveedor_liquidez": null,
+  "provincia": "Barcelona",
+  "segmento": "BME Growth",
+  "ticker": "YTAN",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.tander-inversiones-socimi-s-a-es0105314001.html",
+  "web": "http://www.tanderinversiones.com"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "indicio",
+  "menciones": [
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "de Gracia 15, Paseo de Gracia 27) y en San Sebastián, Bilbao, Santander, Palma de 2%",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "18 de junio de 2018 Gran Vía de López de Haro 6, Bilbao",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "21 de septiembre de 2018 Calle Arrasa te 27, San Sebastián",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "situada en San Sebastián se encuentran hipotecadas en garantía de los préstamos indicados en",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "Todas las fincas detalladas en la nota explicativa 8 a excepción de las situadas en San Sebastián",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "18 de junio de 2018 Gran Vía de López de Haro 6, Bilbao Arrendado",
+    "lugar": "Bilbao",
+    "provincia": "Bizkaia"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "21 de septiembre de 2018 Calle Arrasate 27, San Sebastián Arrendado",
+    "lugar": "Arrasate",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-cuentas_anuales-2026-04-14.txt",
+    "linea": "Todas las fincas detalladas en la nota explicativa 8 a excepción de la situada en San Sebastián se",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-semestral-2026-10-23.txt",
+    "linea": "Gracia 15, Paseo de Gracia 27) y en San Sebastián , Bilbao, Santander, Palma de Mallorca, 2%",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-semestral-2026-10-23.txt",
+    "linea": "21 de septiembre de 2018 Calle Arrasate 27, San Sebastián",
+    "lugar": "Arrasate",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-semestral-2026-10-23.txt",
+    "linea": "de las fincas situadas en San Sebastián y Palma de Mallorca se encuentran hipotecadas como",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   },
+   {
+    "documento": "A86619236-semestral-2026-10-23.txt",
+    "linea": "Todas las fincas detalladas en la nota explicativa 8 a excepción de la situada en San Sebastián",
+    "lugar": "San Sebastián",
+    "provincia": "Gipuzkoa"
+   }
+  ],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}

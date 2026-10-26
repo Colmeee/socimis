@@ -1,0 +1,147 @@
+{
+ "accionistas": [
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "María del Carmen Fernández-Ordás Abarca",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05429_OtraInfRelev_20260703.pdf",
+   "huella": "c4a5d22eaea403215d9d42e7c340fc10eb723a8158b5cd3501c07d2c31072916",
+   "pct_directo": 27.9,
+   "pct_indirecto": null,
+   "pct_total": 27.9,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Javier Fernández-Ordás Abarca",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05429_OtraInfRelev_20260703.pdf",
+   "huella": "c4a5d22eaea403215d9d42e7c340fc10eb723a8158b5cd3501c07d2c31072916",
+   "pct_directo": 27.23,
+   "pct_indirecto": null,
+   "pct_total": 27.23,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "Luis Julián Fernández-Ordás Abarca",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05429_OtraInfRelev_20260703.pdf",
+   "huella": "c4a5d22eaea403215d9d42e7c340fc10eb723a8158b5cd3501c07d2c31072916",
+   "pct_directo": 22.54,
+   "pct_indirecto": null,
+   "pct_total": 22.54,
+   "tipo": "no consta"
+  },
+  {
+   "a_traves_de": null,
+   "acciones": null,
+   "accionista": "María Cristina Fernández-Ordás Abarca",
+   "consultado": "2026-10-26",
+   "contraste": "oficial",
+   "fecha": null,
+   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05429_OtraInfRelev_20260703.pdf",
+   "huella": "c4a5d22eaea403215d9d42e7c340fc10eb723a8158b5cd3501c07d2c31072916",
+   "pct_directo": 16.14,
+   "pct_indirecto": null,
+   "pct_total": 16.14,
+   "tipo": "no consta"
+  }
+ ],
+ "activos": [],
+ "administradores": [],
+ "avisos": [],
+ "documentos": [
+  {
+   "bytes": 10063778,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-03-24",
+   "huella": "a8414ecb72ee1df5c3c0ee6a9bcf16462efb6012b8fbb39b6b11cc920cb6945e",
+   "tipo": "cuentas_anuales",
+   "titulo": "Información Financiera del ejercicio 2025 e informe de estructura organizativa y sistemas de control interno (9 MB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05429_OtraInfRelev_20260324.pdf"
+  },
+  {
+   "bytes": 445025,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2025-10-23",
+   "huella": "68de9c0732889594026fb887ed187d2c8707f5c3691f0388302d73b3caba7873",
+   "tipo": "dividendo",
+   "titulo": "Aprobación de dividendo a cuenta por el Consejo de Administración (434 KB) Relacionado con: Otra Información Relevante ( 17:20)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05429_OtraInfRelev_20251023.pdf"
+  },
+  {
+   "bytes": 475448,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2026-07-03",
+   "huella": "c4a5d22eaea403215d9d42e7c340fc10eb723a8158b5cd3501c07d2c31072916",
+   "tipo": "participaciones",
+   "titulo": "TORIMBIA SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05429_OtraInfRelev_20260703.pdf"
+  },
+  {
+   "bytes": 3908297,
+   "consultado": "2026-10-26",
+   "escaneado": true,
+   "fecha": "2026-10-22",
+   "huella": "7440c7d180cabba34f69e6630470131349e2021a6a657aeea0ad554d0a4321e0",
+   "tipo": "semestral",
+   "titulo": "TORIMBIA SOCIMI, S.A.",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/10/05429_OtraInfRelev_20261022.pdf"
+  },
+  {
+   "bytes": 441658,
+   "consultado": "2026-10-26",
+   "escaneado": false,
+   "fecha": "2020-04-02",
+   "huella": "8c2f1694b3059387e234dd50fe1b542626b539b325925f3199ed7690a1e27ba4",
+   "tipo": "valoracion",
+   "titulo": "Cambios en la valoración de activos y pasivosValoración de la cartera inmobiliaria a 31 de diciembre de 2019 (431 KB)",
+   "url": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/HechosRelev/2020/04/05429_HRelev_20200402.pdf"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 136167368,
+  "cotizacion": 26.6,
+  "domicilio": "PO/ PINTOR ROSALES 18, 28008 MADRID",
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-23",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105429007",
+  "mercado": "BME MTF Equity",
+  "nif": "A28183713",
+  "nombre": "TORIMBIA SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": "Madrid",
+  "segmento": "BME Growth",
+  "ticker": "YTRM",
+  "url_ficha": "https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.torimbia-socimi-s-a-es0105429007.html",
+  "web": "https://torimbia.es/"
+ },
+ "vencimientos": [],
+ "vinculo_vasco": {
+  "activos": [],
+  "financiacion": [],
+  "grado": "ninguno",
+  "menciones": [],
+  "pct_valor_en_pais_vasco": null,
+  "provincias": {}
+ }
+}
