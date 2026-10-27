@@ -1,107 +1,185 @@
-# SOCIMIs puntuadas · 2026-10-26
+# SOCIMIs puntuadas · 2026-10-27
 
 | # | Sociedad | Segmento | Puntos | Tramo | Cobertura | LTV | Dividendo | Mayor accionista | Vínculo vasco |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | ALL IRON RE I SOCIMI, S.A | BME Growth | 71.2 | prioritaria | 6/6 | 31,8 % | 3,2 M€ | Ion Ion, S.L. (5,73 %) | fuerte |
 | 2 | GESRENTA BCN SOCIMI, S.A. | BME Scaleup | 58.2 | interesante | 6/6 | 22,6 % | 120.000 € | Don.Narciso López Grau (99,91 %) | ninguno |
-| 3 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | 57.9 | interesante | 5/6 | -7,7 % | 331.106 € | — | ninguno |
+| 3 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | 53.5 | interesante | 5/6 | -7,7 % | 331.106 € | — | ninguno |
 | 4 | AP67 SOCIMI, S.A. | BME Scaleup | 53.3 | interesante | 6/6 | 54,8 % | 1,2 M€ | directo del (95,194 %) | ninguno |
 | 5 | MERLIN PROPERTIES, SOCIMI, S.A. | Continuo | 51.5 | interesante | 6/6 | 31,4 % | 236,4 M€ | BANCO SANTANDER, S.A. (22,268 %) | ninguno |
 | 6 | SAINT CROIX HOLDING IMMOBILIER, SOCIMI, S.A | BME Scaleup | 50.3 | interesante | 6/6 | 26,94 % | 2,9 M€ | PER 32, S.L. (22,31 %) | ninguno |
 | 7 | VERACRUZ PROPERTIES SOCIMI, S.A. | BME Growth | 50.2 | interesante | 5/6 | -5,3 % | 1,1 M€ | — | ninguno |
 | 8 | TARJAR XAIRO SOCIMI, S.A. | BME Scaleup | 49.4 | de momento no | 5/6 | 28,4 % | 370.000 € | — | ninguno |
-| 9 | HELIOS RE SOCIMI, S.A. | BME Scaleup | 44.3 | de momento no | 6/6 | 56,1 % | 31,8 M€ | Hines PropCo 37, S.à r.l. (66,94 %) | indicio |
-| 10 | LAFINCA GLOBAL ASSETS SOCIMI, S.A. | BME Growth | 40.5 | de momento no | 6/6 | 152,8 % | 7,1 M€ | Grupo LaFinca Promociones y (88,77 %) | ninguno |
-| 11 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | 33.9 | de momento no | 4/6 | — | — | LUNA CONFORT S.L. (27,27 %) | ninguno |
+| 9 | COLONIAL SFL, SOCIMI, S.A. | Continuo | 45.1 | de momento no | 6/6 | 41,7 % | 240,3 M€ | CRITERIA CAIXA, S.A.U. (17,321 %) | — |
+| 10 | HELIOS RE SOCIMI, S.A. | BME Scaleup | 44.3 | de momento no | 6/6 | 56,1 % | 31,8 M€ | Hines PropCo 37, S.à r.l. (66,94 %) | indicio |
+| 11 | LAFINCA GLOBAL ASSETS SOCIMI, S.A. | BME Growth | 40.5 | de momento no | 6/6 | 152,8 % | 7,1 M€ | Grupo LaFinca Promociones y (88,77 %) | ninguno |
 | 12 | INMUEBLES EN ALQUILER RESYDENZA SOCIMI, S.A.U. | BME Scaleup | 32.5 | de momento no | 4/6 | — | 93.754 € | Promociones y Construcciones PYC Pryconsa, S.L. (100,0 %) | ninguno |
 | 13 | CASTELLANA PROPERTIES SOCIMI, S.A. | BME Growth | 32.2 | de momento no | 5/6 | 38,42 % | — | or over than 5%. (5,0 %) | ninguno |
 | 14 | CUPULAS PROPERTIES SOCIMI, S.A.U. | BME Scaleup | 32.0 | de momento no | 5/6 | 4,9 % | — | — | indicio |
 | 15 | LAR RETAIL | BME Scaleup | 31.2 | de momento no | 4/6 | — | 9,0 M€ | GRUPO LAR INVERSIONES INMOBILIARIAS, S.A. – (69,8176 %) | ninguno |
 | 16 | MASA RENTAL SOCIMI S.A. | BME Scaleup | 31.1 | de momento no | 4/6 | -341,9 % | — | Solway Capital S.L.U. (25,0 %) | ninguno |
 | 17 | JHG DOMUS SOCIMI, S.A. | BME Scaleup | 30.0 | de momento no | 4/6 | 38,5 % | — | — | ninguno |
-| 18 | GAVARI PROPERTIES SOCIMI, S.A. | BME Scaleup | 28.2 | de momento no | 4/6 | 45,0 % | — | — | indicio |
-| 19 | MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A. | BME Scaleup | 28.1 | de momento no | 5/6 | 43,8 % | — | Micosquic SA de Capital Variable (14,29 %) | indicio |
-| 20 | MISTRAL IBERIA REAL ESTATE SOCIMI, S.A. | BME Growth | 27.4 | de momento no | 6/6 | 2870,7 % | 2,9 M€ | HFMX Designated Activity Company (25,01 %) | ninguno |
-| 21 | VBARE IBERIAN PROPERTIES SOCIMI, S.A. | BME Scaleup | 27.0 | de momento no | 4/6 | — | 34.886 € | SINGULAR PRIME INVESTMENT SICC II SA (98,05 %) | ninguno |
-| 22 | INVERSA PRIME SOCIMI, S.A. | BME Growth | 26.9 | de momento no | 5/6 | -1,3 % | — | Preventiva Compañía De Seguros Y Reaseguros, S.A. (2) (5,51 %) | ninguno |
-| 23 | GALIL CAPITAL RE SPAIN SOCIMI, S.A. | BME Scaleup | 25.0 | de momento no | 3/6 | — | 3,0 M€ | — | indicio |
-| 24 | NEXTPOINT CAPITAL SOCIMI, S.A. | BME Growth | 24.0 | de momento no | 5/6 | 36,5 % | — | — | ninguno |
-| 25 | ATOM HOTELES SOCIMI, S.A. | BME Growth | 23.3 | de momento no | 4/6 | — | 40,2 M€ | Bankinter Investment S.A.(1) (5,35 %) | ninguno |
-| 26 | GREYMILE SOCIMI, S.A. | BME Scaleup | 23.0 | de momento no | 5/6 | -85,9 % | — | INMUEBLES GIL COMES, S.L. – (10,05 %) | ninguno |
-| 27 | INBEST GPF MULTI-ASSET CLASS PRIME VII SOCIMI, S.A. | BME Scaleup | 20.0 | de momento no | 2/6 | — | — | TURIAZQUEZ 21 S.L. (*) (99,9 %) | ninguno |
-| 28 | INBEST GPF MULTI-ASSET CLASS PRIME VIII SOCIMI, S.A | BME Scaleup | 20.0 | de momento no | 2/6 | — | — | ALADINO H1 ESPAÑA, S.L.U. (*) (99,73 %) | ninguno |
-| 29 | INMOBILIARIA PARK ROSE IBEROAMERICANA SOCIMI, S.A | BME Scaleup | 20.0 | de momento no | 3/6 | — | — | Artic Badeck, S.L. (74,0 %) | indicio |
-| 30 | ALFIL PATRIMONIAL SOCIMI, S.A. | BME Scaleup | 19.6 | de momento no | 4/6 | — | 639.224 € | Francisco de Asís Gómez Palma– (16,67 %) | ninguno |
-| 31 | GOP PROPERTIES SOCIMI, S.A. | BME Growth | 19.3 | de momento no | 2/6 | — | — | Ortiz Construcciones y Proyectos, S.A. (47,78 %) | ninguno |
-| 32 | INBEST PRIME VIII INMUEBLES SOCIMI, S.A. | BME Growth | 18.8 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L. (46,37 %) | ninguno |
-| 33 | SOLVENTO GROUP 2022 SOCIMI S.A. | BME Scaleup | 18.5 | de momento no | 3/6 | — | 1,7 M€ | — | indicio |
-| 34 | IBERVALLES HOTELES SOCIMI, S.A. | BME Scaleup | 18.5 | de momento no | 2/6 | — | — | IRG10 SOCIMI, S.A. (100,0 %) | ninguno |
-| 35 | ISC FRESH WATER INVESTMENT SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | Branch Management S.A.P.I de C.V. (98,79 %) | ninguno |
-| 36 | EURO CERVANTES SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 2/6 | — | — | indirectamente una participación del (98,97 %) | ninguno |
-| 37 | KTESIOS REAL ESTATE SOCIMI S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | RKS REAL ESTATE SOCIETE EN COMMANDITE SPECIALE (83,64 %) | indicio |
-| 38 | OLIMPO REAL ESTATE SOCIMI, S.A. (ORES) | BME Growth | 17.7 | de momento no | 4/6 | — | 18,4 M€ | Bankinter Investment, S.A. (7,44 %) | ninguno |
-| 39 | GRUPO ANTAGÓN INVERSIONES INMOBILIARIAS 2025 SOCIMI, S.A. | BME Scaleup | 17.0 | de momento no | 3/6 | — | 998.221 € | — | ninguno |
-| 40 | TÉMPORE PROPERTIES SOCIMI, S.A. | BME Scaleup | 17.0 | de momento no | 3/6 | — | — | SCSp, del (99,58 %) | ninguno |
-| 41 | MATRITENSE REAL ESTATE SOCIMI, S.A. | BME Growth | 16.4 | de momento no | 2/6 | — | — | KH V PROPERTIES S.A.R.L. (50,76 %) | ninguno |
-| 42 | IRG10 SOCIMI, S.A. | BME Growth | 16.1 | de momento no | 5/6 | 54,7 % | — | Dº Blanca Martín Pérez (9,21 %) | ninguno |
-| 43 | ADRIANO CARE SOCIMI S.A. | BME Growth | 15.0 | de momento no | 3/6 | — | — | Imra Business, S.L. (B54778030) (8,33 %) | indicio |
-| 44 | INBEST PRIME III INMUEBLES SOCIMI, S.A. | BME Growth | 14.9 | de momento no | 2/6 | — | — | BESTESTATE VALENCIA S.L. (15,96 %) | ninguno |
-| 45 | SILICIUS REAL ESTATE SOCIMI, S.A. | BME Growth | 14.4 | de momento no | 2/6 | — | — | El Arverjal, S.L. (29,59 %) | ninguno |
-| 46 | TORIMBIA SOCIMI, S.A. | BME Growth | 14.1 | de momento no | 2/6 | — | — | María del Carmen Fernández-Ordás Abarca (27,9 %) | ninguno |
-| 47 | PREVISIÓN SANITARIA NACIONAL GESTIÓN SOCIMI, S.A. | BME Growth | 13.3 | de momento no | 3/6 | — | — | — | ninguno |
-| 48 | INBEST PRIME II INMUEBLES SOCIMI, S.A. | BME Growth | 13.2 | de momento no | 2/6 | — | — | SOCIEDAD DE GESTIÓN PATRIMONIAL BANIX, S.L. (6,28 %) | ninguno |
-| 49 | INBEST PRIME IV INMUEBLES SOCIMI, S.A. | BME Growth | 13.1 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L (*) (14,28 %) | ninguno |
-| 50 | MERIDIA REAL ESTATE III, SOCIMI, S.A. | BME Growth | 12.4 | de momento no | 2/6 | — | — | GRUPO DREOF (18,41 %) | ninguno |
-| 51 | HOME CAPITAL RENTALS SOCIMI, S.A. | BME Growth | 12.2 | de momento no | 3/6 | — | — | Timón, S.A. (26,61 %) | ninguno |
-| 52 | INBEST PRIME VII INMUEBLES SOCIMI, S.A. | BME Growth | 11.0 | de momento no | 2/6 | — | — | ENTEMAR INVERSIONES, S.L. (**) (8,33 %) | ninguno |
-| 53 | INBEST GPF MULTI-ASSET CLASS PRIME V SOCIMI, S.A. | BME Scaleup | 10.1 | de momento no | 2/6 | — | — | VALIER AGRÍCOLA, S.L. (*) (14,0 %) | ninguno |
-| 54 | INBEST GPF MULTI-ASSET CLASS PRIME III SOCIMI, S.A | BME Scaleup | 9.8 | de momento no | 2/6 | — | — | LONTON FINANCE, S.A.C. (20,0 %) | ninguno |
-| 55 | HISPANOTELS INVERSIONES SOCIMI, S.A. | BME Growth | 9.7 | de momento no | 3/6 | — | — | Almudena Fontcuberta Alonso-Martínez (11,91 %) | ninguno |
-| 56 | LAUTHON INVEST SOCIMI, S.A. | BME Scaleup | 9.4 | de momento no | 2/6 | — | — | prevention fund) - (23,75 %) | ninguno |
-| 57 | WELLDER SENIOR ASSETS SOCIMI, S.A. | BME Scaleup | 9.0 | de momento no | 4/6 | 596,9 % | — | — | indicio |
-| 58 | MILEPRO LOGÍSTICA ÚLTIMA MILLA SOCIMI, S.A. | BME Growth | 8.8 | de momento no | 2/6 | — | — | Mutual Médica, M.P.S. A Prima Fija (8,34 %) | ninguno |
-| 59 | QUONIA SOCIMI, S.A. | BME Growth | 8.7 | de momento no | 2/6 | — | — | Alfonso de Angoitia Noriega (13,98 %) | ninguno |
-| 60 | EMPERADOR PROPERTIES SOCIMI S.A. | BME Growth | 8.5 | de momento no | 2/6 | — | — | Investments Spain (15,95 %) | ninguno |
-| 61 | OLIMPO RETAIL GERMANY, SOCIMI, S.A. | BME Scaleup | 7.5 | de momento no | 2/6 | — | — | Bankinter Investment Inversión Alternativa I, F.C.R. (15,0 %) | ninguno |
-| 62 | AZARIA RENTAL SOCIMI, S.A. | BME Growth | 6.4 | de momento no | 2/6 | — | — | Investments Holding Europe LTD ostenta una participación del (6,9659 %) | ninguno |
-| 63 | INBEST GPF MULTI-ASSET CLASS PRIME II SOCIMI, S.A. | BME Scaleup | 6.2 | de momento no | 2/6 | — | — | HZ20 CORPOARTE S.L.U (10,1 %) | ninguno |
-| 64 | GMP PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
-| 65 | IBI LION SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 66 | BARCINO PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | al 5% que ostentan los accionistas en el capital de Barcino a 30 de junio de 2026 (5,0 %) | ninguno |
-| 67 | INVERSIONES DOALCA, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
-| 68 | TESTA RESIDENCIAL, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% DEL (5,0 %) | ninguno |
-| 69 | ENTRECAMPOS CUATRO, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | al 5% del capital social de ENTRECAMPOS son los siguientes (5,0 %) | ninguno |
-| 70 | FIDERE PATRIMONIO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 3/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% (5,0 %) | indicio |
-| 71 | TANDER INVERSIONES, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
-| 72 | ZAMBAL SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 73 | VITRUVIO REAL ESTATE SOCIMI S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | — | indicio |
-| 74 | JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 75 | SERRANO 61 DESARROLLO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 76 | ELAIA INVESTMENT SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
-| 77 | INBEST PRIME I INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 78 | GREENOAK SPAIN HOLDINGS SOCIMI II, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | indicio |
-| 79 | VIVENIO RESIDENCIAL SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 80 | ARRIENDA RENTAL PROPERTIES SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 81 | TRIVIUM REAL ESTATE SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
-| 82 | TECHO HOGAR SOCIMI SOCIEDAD DE BENEFICIO E INTERÉS COMÚN S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 83 | INBEST PRIME VI INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 84 | NORDESTE PROPERTIES SOCIMI S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 85 | INHOME PRIME PROPERTIES SOCIMI, S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 86 | INBEST GPF MULTI-ASSET CLASS PRIME I SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 87 | INBEST GPF MULTI-ASSET CLASS PRIME IV SOCIMI, S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 88 | INMOBILIARIA MARBELLA SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 89 | INICIATIVAS FARO 2024 SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 90 | URBAN VIEW DEVELOPMENT SPAIN SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 91 | AM LOCALES PROPERTY SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 92 | ALQUILER SEGURO ASSET MARKET SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 93 | HOTEI PROPERTIES GROUP SOCIMI, S.A. | BME Growth | 4.5 | de momento no | 1/6 | — | — | — | ninguno |
-| 94 | ROMANO SENIOR SOCIMI, S.A. | BME Scaleup | 3.2 | de momento no | 2/6 | — | — | Espai D'Inversions 2005 S.L. (B64049257) (10,0 %) | ninguno |
-| 95 | ECOINMO SPACES SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 96 | HQ AMÉRICA SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 97 | AHORRO FAMILIAR SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 98 | RENTAS NOBLEJAS 3 SOCIMI, S.A., | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 99 | ALDICER RE SOCIMI S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
-| 100 | ASHINGTON SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 18 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | 29.5 | de momento no | 4/6 | — | — | LUNA CONFORT S.L. (27,27 %) | ninguno |
+| 19 | GAVARI PROPERTIES SOCIMI, S.A. | BME Scaleup | 28.2 | de momento no | 4/6 | 45,0 % | — | — | indicio |
+| 20 | MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A. | BME Scaleup | 28.1 | de momento no | 5/6 | 43,8 % | — | Micosquic SA de Capital Variable (14,29 %) | indicio |
+| 21 | MISTRAL IBERIA REAL ESTATE SOCIMI, S.A. | BME Growth | 27.4 | de momento no | 6/6 | 2870,7 % | 2,9 M€ | HFMX Designated Activity Company (25,01 %) | ninguno |
+| 22 | VBARE IBERIAN PROPERTIES SOCIMI, S.A. | BME Scaleup | 27.0 | de momento no | 4/6 | — | 34.886 € | SINGULAR PRIME INVESTMENT SICC II SA (98,05 %) | ninguno |
+| 23 | INVERSA PRIME SOCIMI, S.A. | BME Growth | 26.9 | de momento no | 5/6 | -1,3 % | — | Preventiva Compañía De Seguros Y Reaseguros, S.A. (2) (5,51 %) | ninguno |
+| 24 | GALIL CAPITAL RE SPAIN SOCIMI, S.A. | BME Scaleup | 25.0 | de momento no | 3/6 | — | 3,0 M€ | — | indicio |
+| 25 | NEXTPOINT CAPITAL SOCIMI, S.A. | BME Growth | 24.0 | de momento no | 5/6 | 36,5 % | — | — | ninguno |
+| 26 | ATOM HOTELES SOCIMI, S.A. | BME Growth | 23.3 | de momento no | 4/6 | — | 40,2 M€ | Bankinter Investment S.A.(1) (5,35 %) | ninguno |
+| 27 | GREYMILE SOCIMI, S.A. | BME Scaleup | 23.0 | de momento no | 5/6 | -85,9 % | — | INMUEBLES GIL COMES, S.L. – (10,05 %) | ninguno |
+| 28 | INBEST GPF MULTI-ASSET CLASS PRIME VII SOCIMI, S.A. | BME Scaleup | 20.0 | de momento no | 2/6 | — | — | TURIAZQUEZ 21 S.L. (*) (99,9 %) | ninguno |
+| 29 | INBEST GPF MULTI-ASSET CLASS PRIME VIII SOCIMI, S.A | BME Scaleup | 20.0 | de momento no | 2/6 | — | — | ALADINO H1 ESPAÑA, S.L.U. (*) (99,73 %) | ninguno |
+| 30 | INMOBILIARIA PARK ROSE IBEROAMERICANA SOCIMI, S.A | BME Scaleup | 20.0 | de momento no | 3/6 | — | — | Artic Badeck, S.L. (74,0 %) | indicio |
+| 31 | ALFIL PATRIMONIAL SOCIMI, S.A. | BME Scaleup | 19.6 | de momento no | 4/6 | — | 639.224 € | Francisco de Asís Gómez Palma– (16,67 %) | ninguno |
+| 32 | GOP PROPERTIES SOCIMI, S.A. | BME Growth | 19.3 | de momento no | 2/6 | — | — | Ortiz Construcciones y Proyectos, S.A. (47,78 %) | ninguno |
+| 33 | INBEST PRIME VIII INMUEBLES SOCIMI, S.A. | BME Growth | 18.8 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L. (46,37 %) | ninguno |
+| 34 | SOLVENTO GROUP 2022 SOCIMI S.A. | BME Scaleup | 18.5 | de momento no | 3/6 | — | 1,7 M€ | — | indicio |
+| 35 | IBERVALLES HOTELES SOCIMI, S.A. | BME Scaleup | 18.5 | de momento no | 2/6 | — | — | IRG10 SOCIMI, S.A. (100,0 %) | ninguno |
+| 36 | ISC FRESH WATER INVESTMENT SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | Branch Management S.A.P.I de C.V. (98,79 %) | ninguno |
+| 37 | EURO CERVANTES SOCIMI, S.A. | BME Growth | 18.0 | de momento no | 2/6 | — | — | indirectamente una participación del (98,97 %) | ninguno |
+| 38 | KTESIOS REAL ESTATE SOCIMI S.A. | BME Growth | 18.0 | de momento no | 3/6 | — | — | RKS REAL ESTATE SOCIETE EN COMMANDITE SPECIALE (83,64 %) | indicio |
+| 39 | OLIMPO REAL ESTATE SOCIMI, S.A. (ORES) | BME Growth | 17.7 | de momento no | 4/6 | — | 18,4 M€ | Bankinter Investment, S.A. (7,44 %) | ninguno |
+| 40 | GRUPO ANTAGÓN INVERSIONES INMOBILIARIAS 2025 SOCIMI, S.A. | BME Scaleup | 17.0 | de momento no | 3/6 | — | 998.221 € | — | ninguno |
+| 41 | TÉMPORE PROPERTIES SOCIMI, S.A. | BME Scaleup | 17.0 | de momento no | 3/6 | — | — | SCSp, del (99,58 %) | ninguno |
+| 42 | MATRITENSE REAL ESTATE SOCIMI, S.A. | BME Growth | 16.4 | de momento no | 2/6 | — | — | KH V PROPERTIES S.A.R.L. (50,76 %) | ninguno |
+| 43 | IRG10 SOCIMI, S.A. | BME Growth | 16.1 | de momento no | 5/6 | 54,7 % | — | Dº Blanca Martín Pérez (9,21 %) | ninguno |
+| 44 | ADRIANO CARE SOCIMI S.A. | BME Growth | 15.0 | de momento no | 3/6 | — | — | Imra Business, S.L. (B54778030) (8,33 %) | indicio |
+| 45 | INBEST PRIME III INMUEBLES SOCIMI, S.A. | BME Growth | 14.9 | de momento no | 2/6 | — | — | BESTESTATE VALENCIA S.L. (15,96 %) | ninguno |
+| 46 | SILICIUS REAL ESTATE SOCIMI, S.A. | BME Growth | 14.4 | de momento no | 2/6 | — | — | El Arverjal, S.L. (29,59 %) | ninguno |
+| 47 | TORIMBIA SOCIMI, S.A. | BME Growth | 14.1 | de momento no | 2/6 | — | — | María del Carmen Fernández-Ordás Abarca (27,9 %) | ninguno |
+| 48 | PREVISIÓN SANITARIA NACIONAL GESTIÓN SOCIMI, S.A. | BME Growth | 13.3 | de momento no | 3/6 | — | — | — | ninguno |
+| 49 | INBEST PRIME II INMUEBLES SOCIMI, S.A. | BME Growth | 13.2 | de momento no | 2/6 | — | — | SOCIEDAD DE GESTIÓN PATRIMONIAL BANIX, S.L. (6,28 %) | ninguno |
+| 50 | INBEST PRIME IV INMUEBLES SOCIMI, S.A. | BME Growth | 13.1 | de momento no | 2/6 | — | — | PROMOCIONES AZARBE, S.L (*) (14,28 %) | ninguno |
+| 51 | MERIDIA REAL ESTATE III, SOCIMI, S.A. | BME Growth | 12.4 | de momento no | 2/6 | — | — | GRUPO DREOF (18,41 %) | ninguno |
+| 52 | HOME CAPITAL RENTALS SOCIMI, S.A. | BME Growth | 12.2 | de momento no | 3/6 | — | — | Timón, S.A. (26,61 %) | ninguno |
+| 53 | INBEST PRIME VII INMUEBLES SOCIMI, S.A. | BME Growth | 11.0 | de momento no | 2/6 | — | — | ENTEMAR INVERSIONES, S.L. (**) (8,33 %) | ninguno |
+| 54 | INBEST GPF MULTI-ASSET CLASS PRIME V SOCIMI, S.A. | BME Scaleup | 10.1 | de momento no | 2/6 | — | — | VALIER AGRÍCOLA, S.L. (*) (14,0 %) | ninguno |
+| 55 | INBEST GPF MULTI-ASSET CLASS PRIME III SOCIMI, S.A | BME Scaleup | 9.8 | de momento no | 2/6 | — | — | LONTON FINANCE, S.A.C. (20,0 %) | ninguno |
+| 56 | HISPANOTELS INVERSIONES SOCIMI, S.A. | BME Growth | 9.7 | de momento no | 3/6 | — | — | Almudena Fontcuberta Alonso-Martínez (11,91 %) | ninguno |
+| 57 | LAUTHON INVEST SOCIMI, S.A. | BME Scaleup | 9.4 | de momento no | 2/6 | — | — | prevention fund) - (23,75 %) | ninguno |
+| 58 | WELLDER SENIOR ASSETS SOCIMI, S.A. | BME Scaleup | 9.0 | de momento no | 4/6 | 596,9 % | — | — | indicio |
+| 59 | MILEPRO LOGÍSTICA ÚLTIMA MILLA SOCIMI, S.A. | BME Growth | 8.8 | de momento no | 2/6 | — | — | Mutual Médica, M.P.S. A Prima Fija (8,34 %) | ninguno |
+| 60 | QUONIA SOCIMI, S.A. | BME Growth | 8.7 | de momento no | 2/6 | — | — | Alfonso de Angoitia Noriega (13,98 %) | ninguno |
+| 61 | EMPERADOR PROPERTIES SOCIMI S.A. | BME Growth | 8.5 | de momento no | 2/6 | — | — | Investments Spain (15,95 %) | ninguno |
+| 62 | OLIMPO RETAIL GERMANY, SOCIMI, S.A. | BME Scaleup | 7.5 | de momento no | 2/6 | — | — | Bankinter Investment Inversión Alternativa I, F.C.R. (15,0 %) | ninguno |
+| 63 | AZARIA RENTAL SOCIMI, S.A. | BME Growth | 6.4 | de momento no | 2/6 | — | — | Investments Holding Europe LTD ostenta una participación del (6,9659 %) | ninguno |
+| 64 | INBEST GPF MULTI-ASSET CLASS PRIME II SOCIMI, S.A. | BME Scaleup | 6.2 | de momento no | 2/6 | — | — | HZ20 CORPOARTE S.L.U (10,1 %) | ninguno |
+| 65 | GMP PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
+| 66 | IBI LION SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 67 | BARCINO PROPERTY SOCIMI, S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | al 5% que ostentan los accionistas en el capital de Barcino a 30 de junio de 2026 (5,0 %) | ninguno |
+| 68 | INVERSIONES DOALCA, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
+| 69 | TESTA RESIDENCIAL, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% DEL (5,0 %) | ninguno |
+| 70 | ENTRECAMPOS CUATRO, SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | al 5% del capital social de ENTRECAMPOS son los siguientes (5,0 %) | ninguno |
+| 71 | FIDERE PATRIMONIO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 3/6 | — | — | COMUNICACIÓN DE PARTICIPACIONES IGUALES O SUPERIORES AL 5% (5,0 %) | indicio |
+| 72 | TANDER INVERSIONES, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
+| 73 | ZAMBAL SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 74 | VITRUVIO REAL ESTATE SOCIMI S.A | BME Growth | 6.0 | de momento no | 3/6 | — | — | — | indicio |
+| 75 | JABA I INVERSIONES INMOBILIARIAS, SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 76 | SERRANO 61 DESARROLLO SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 77 | ELAIA INVESTMENT SPAIN SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | ninguno |
+| 78 | INBEST PRIME I INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 79 | GREENOAK SPAIN HOLDINGS SOCIMI II, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | indicio |
+| 80 | VIVENIO RESIDENCIAL SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 81 | ARRIENDA RENTAL PROPERTIES SOCIMI, S.A | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 82 | TRIVIUM REAL ESTATE SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 2/6 | — | — | — | indicio |
+| 83 | TECHO HOGAR SOCIMI SOCIEDAD DE BENEFICIO E INTERÉS COMÚN S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 84 | INBEST PRIME VI INMUEBLES SOCIMI, S.A. | BME Growth | 6.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 85 | NORDESTE PROPERTIES SOCIMI S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 86 | INHOME PRIME PROPERTIES SOCIMI, S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 87 | INBEST GPF MULTI-ASSET CLASS PRIME I SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 88 | INBEST GPF MULTI-ASSET CLASS PRIME IV SOCIMI, S.A | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 89 | INMOBILIARIA MARBELLA SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 90 | INICIATIVAS FARO 2024 SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 91 | URBAN VIEW DEVELOPMENT SPAIN SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 92 | AM LOCALES PROPERTY SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 93 | ALQUILER SEGURO ASSET MARKET SOCIMI, S.A. | BME Scaleup | 5.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 94 | HOTEI PROPERTIES GROUP SOCIMI, S.A. | BME Growth | 4.5 | de momento no | 1/6 | — | — | — | ninguno |
+| 95 | ROMANO SENIOR SOCIMI, S.A. | BME Scaleup | 3.2 | de momento no | 2/6 | — | — | Espai D'Inversions 2005 S.L. (B64049257) (10,0 %) | ninguno |
+| 96 | ECOINMO SPACES SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 97 | HQ AMÉRICA SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 98 | AHORRO FAMILIAR SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 99 | RENTAS NOBLEJAS 3 SOCIMI, S.A., | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 100 | ALDICER RE SOCIMI S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 101 | ASHINGTON SOCIMI, S.A. | BME Scaleup | 2.0 | de momento no | 1/6 | — | — | — | ninguno |
+| 102 | BARINGS CORE SPAIN | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 103 | IPOSA PROPERTIES | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 104 | MAQ ADMON. URBANAS | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 105 | INMOSUPA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 106 | AGP MALAGA SOCIMI | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 107 | IANTE INVESTMENTS | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 108 | AROCA DEL PINAR | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 109 | ORBIS PROPERTIES | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 110 | VREF SEVILLE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 111 | HEALTHCARE ACTIVOS | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 112 | INMARK | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 113 | ORINOQUIA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 114 | GLOBAL PIELAGO | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 115 | MONTEPINO LOGISTIC | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 116 | RES GESTAE SOCIMI | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 117 | IGIS NEPTUNE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 118 | FAIFEY INVEST | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 119 | MERIDIA RE IV | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 120 | EUROLOG CANOLA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 121 | IMPULSE FITNESS | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 122 | SCIENTIA SCHOOL | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 123 | ARIMELIA ITG | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 124 | PERSEIDA RENTA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 125 | VANDOR REAL ESTATE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 126 | SAGAX REAL ESTATE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 127 | APODACA INVERSIONE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 128 | CORE SPAIN HOLDCO | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 129 | AREF THALASSA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 130 | HOTELES BESTPRICE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 131 | MUTTER VENTURES | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 132 | K PRIME CAPITAL | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 133 | NORTEM BIOGROUP | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 134 | ELIX | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 135 | WELLNESS | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 136 | URCOLESA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 137 | GENESIS | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 138 | STUDENT PROPERTY | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 139 | INMOLECULE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 140 | SAJA REAL ESTATE | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 141 | VICSO | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 142 | ES VEDRA | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 143 | MEDITERRANEAN REIT | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 144 | BIMMART INVESTMENT | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 145 | HAY 2 SOCIMI | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 146 | EXXITA BE CIRCULAR | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 147 | EXXITA BE CIRCULAR | Euronext Access | 1.0 | de momento no | 1/6 | — | — | — | — |
+| 148 | P3 Spain Logistics Parks SOCIMI S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 149 | LIVING RESIDENTIAL SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 150 | TORRE RIOJA-MADRID SOCIMI S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 151 | Round Robin Inversiones Socimi, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 152 | RAV EN7 RESIDENTIAL PROPERTY SOCIMI | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 153 | PRIMERO H INV SOCIAL SOCIMI SA | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 154 | AC Residencial SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 155 | Smart Kitchens Properties SOCIMI S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 156 | ONALAND 2018 SOCIMI S.A.U | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 157 | ATOLON CAPITAL PARTNERS SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 158 | AOFI SHENI SOCIMI, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 159 | ORONIS INVERSIONES SOCIMI S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 160 | ORION RENTAL SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 161 | NW1 Spanish Logistics Holdco SOCIMI, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 162 | Global Cortiguera SOCIMI, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 163 | Almond Core Centre Socimi, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 164 | Edificio Rostower SOCIMI, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 165 | TELCO BUILDING SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 166 | DARIA 323 CORPORATE SERVICES SOCIMI S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 167 | SMART LIVING PROPERTIES SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 168 | Global Tavascan, SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 169 | Rivoli Ballonti Retail SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 170 | NEXTLOG S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 171 | LIBEEN PROPERTIES, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 172 | MGN RENTALS CAPITAL SOCIMI SA | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 173 | Redevco European Retail Parks ES Holdco, Socimi, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 174 | Trajano II Affordable Housing, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 175 | EWER IN LONG SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 176 | Viriato Residencial I SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 177 | Grupo Vega Capital SOCIMI, S.A.U. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
+| 178 | Redevco Iberian Ventures IV SOCIMI, S.A. | Portfolio SE | 0.0 | de momento no | 1/6 | — | — | — | — |
 
 ### MILEPRO LOGÍSTICA ÚLTIMA MILLA SOCIMI, S.A. · 8.8 puntos · de momento no · cobertura 2/6
 - **Apalancamiento** —/25 (sin datos)
@@ -671,6 +749,30 @@
   - Publica lo que debe: —/3, sin datos — sin lista de documentos (no consta)
 - ⚠️ cobertura 1 de 6: la puntuación dice poco
 
+### COLONIAL SFL, SOCIMI, S.A. · 45.1 puntos · de momento no · cobertura 6/6
+- **Apalancamiento** 10.4/25 (parcial)
+  - LTV: 10.4/17, parcial — LTV 41,7 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** 14/20 (parcial)
+  - Reparte dividendo: 10/10, cumplida — 240,3 M€ pagados con cargo a 2025 · fuente: https://www.cnmv.es/webservices/verdocumento/ver?e=sFrhRI8zJFRTOqAPLQPx3kvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: 4/4, cumplida — 240,3 M€ frente a 180,0 M€ del ejercicio anterior · fuente: https://www.cnmv.es/webservices/verdocumento/ver?e=sFrhRI8zJFRTOqAPLQPx3kvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f
+- **Valor liquidativo** 0.0/15 (no cumplida)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: 0.0/5, no cumplida — no se ha encontrado una valoración externa comunicada al mercado
+- **Concentración accionarial** 9.2/15 (parcial)
+  - Mayor accionista: 2.2/8, parcial — CRITERIA CAIXA, S.A.U. con el 17,321 % · fuente: https://www.cnmv.es/portal/Consultas/derechosvoto/Notificaciones-Participaciones.aspx?qS={0d97bd94-71e2-4ce4-a179-e890cd3f3115}
+  - Suma de significativos: 4.0/4, cumplida — 9 accionistas ≥ 5 % suman el 79,1 % · fuente: https://www.cnmv.es/portal/Consultas/derechosvoto/Notificaciones-Participaciones.aspx?qS={0d97bd94-71e2-4ce4-a179-e890cd3f3115}
+  - Persona física detrás: 3/3, cumplida — 1 persona(s) física(s) publicadas como titulares significativos · fuente: https://www.cnmv.es/portal/Consultas/derechosvoto/Notificaciones-Participaciones.aspx?qS={0d97bd94-71e2-4ce4-a179-e890cd3f3115}
+- **Activos** 6.0/15 (parcial)
+  - Tamaño de la cartera: 6.0/6, cumplida — inmuebles por 11203,0 M€ · fuente: https://www.cnmv.es/webservices/verdocumento/ver?e=sFrhRI8zJFRTOqAPLQPx3kvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 5.5/10 (parcial)
+  - Mercado: 4.0/4, cumplida — Continuo · fuente: https://www.cnmv.es/portal/Consultas/DatosEntidad.aspx?nif=A28027399
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 1.5/3, parcial — cuentas anuales recientes: sí; semestral reciente: no · fuente: https://www.cnmv.es/webservices/verdocumento/ver?e=sFrhRI8zJFRTOqAPLQPx3kvGON43wHHcXbrRTjRnO%2bCze5HLI2BThe6mgBjw3Gx%2f
+
 ### TORIMBIA SOCIMI, S.A. · 14.1 puntos · de momento no · cobertura 2/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
@@ -1041,7 +1143,7 @@
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05392_OtraInfRelev_20260429.pdf
 - ⚠️ cobertura 1 de 6: la puntuación dice poco
 
-### ADVERO PROPERTIES SOCIMI, S.A · 57.9 puntos · interesante · cobertura 5/6
+### ADVERO PROPERTIES SOCIMI, S.A · 53.5 puntos · interesante · cobertura 5/6
 - **Apalancamiento** 17.0/25 (parcial)
   - LTV: 17.0/17, cumplida — LTV -7,7 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
   - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
@@ -1056,9 +1158,9 @@
   - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
   - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
   - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
-- **Activos** 10.9/15 (parcial)
+- **Activos** 6.5/15 (parcial)
   - Tamaño de la cartera: 1.9/6, parcial — inmuebles por 56,6 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
-  - Diversificación: 5.0/5, cumplida — 80 activos con valor publicado · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
+  - Diversificación: 0.6/5, parcial — 2 activos con valor publicado · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
   - Rentas sobre valor: 4.0/4, cumplida — 6,9 % (3,9 M€ de rentas sobre 56,6 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
 - **Madurez en el mercado** 6.0/10 (parcial)
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.advero-properties-socimi-s-a-es0105448007.html
@@ -1187,7 +1289,7 @@
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05749_OtraInfRelev_20260430.pdf
 - ⚠️ cobertura 2 de 6: la puntuación dice poco
 
-### MICISO REAL ESTATE SOCIMI S.A. · 33.9 puntos · de momento no · cobertura 4/6
+### MICISO REAL ESTATE SOCIMI S.A. · 29.5 puntos · de momento no · cobertura 4/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
   - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
@@ -1202,9 +1304,9 @@
   - Mayor accionista: 4.0/8, parcial — LUNA CONFORT S.L. con el 27,27 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05707_OtraInfRelev_20260708.pdf
   - Suma de significativos: 4.0/4, cumplida — 5 accionistas ≥ 5 % suman el 95,6 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05707_OtraInfRelev_20260708.pdf
   - Persona física detrás: 3/3, cumplida — 5 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05707_OtraInfRelev_20260708.pdf
-- **Activos** 6.9/15 (parcial)
+- **Activos** 2.5/15 (parcial)
   - Tamaño de la cartera: 0.0/6, no cumplida — inmuebles por 10,7 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
-  - Diversificación: 5.0/5, cumplida — 69 activos con valor publicado · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
+  - Diversificación: 0.6/5, parcial — 2 activos con valor publicado · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
   - Rentas sobre valor: 1.9/4, parcial — 3,9 % (415.279 € de rentas sobre 10,7 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
 - **Madurez en el mercado** 6.0/10 (parcial)
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.miciso-real-estate-socimi-s-a-es0105707006.html
@@ -1605,7 +1707,7 @@
 ### VITRUVIO REAL ESTATE SOCIMI S.A · 6.0 puntos · de momento no · cobertura 3/6
 - **Apalancamiento** 0.0/25 (no cumplida)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
-  - Vencimientos a 2 años: 0.0/8, no cumplida — 1,0 M€ de 1,0 M€ (100 %) vence antes de 2028-10-26 en 5 préstamos; ≤ 15 % da el máximo, ≥ 50 % da 0 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf
+  - Vencimientos a 2 años: 0.0/8, no cumplida — 1,0 M€ de 1,0 M€ (100 %) vence antes de 2028-10-27 en 5 préstamos; ≤ 15 % da el máximo, ≥ 50 % da 0 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf
 - **Dividendos** —/20 (sin datos)
   - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
   - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
@@ -2221,7 +2323,7 @@
 ### ALL IRON RE I SOCIMI, S.A · 71.2 puntos · prioritaria · cobertura 6/6
 - **Apalancamiento** 24.0/25 (parcial)
   - LTV: 16.0/17, parcial — LTV 31,8 % (declarado por la sociedad); 30 % o menos da el máximo, 60 % o más da 0 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf
-  - Vencimientos a 2 años: 8.0/8, cumplida — 193.330 € de 125,6 M€ (0 %) vence antes de 2028-10-26 en 23 préstamos; ≤ 15 % da el máximo, ≥ 50 % da 0 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf
+  - Vencimientos a 2 años: 8.0/8, cumplida — 193.330 € de 125,6 M€ (0 %) vence antes de 2028-10-27 en 23 préstamos; ≤ 15 % da el máximo, ≥ 50 % da 0 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/05/05495_OtraInfRelev_20260521.pdf
 - **Dividendos** 15.0/20 (parcial)
   - Reparte dividendo: 10/10, cumplida — 3,2 M€ acordados con cargo a 2025 · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05495_OtraInfRelev_20260624.pdf
   - Rendimiento sobre capitalización: 1.0/6, parcial — 1,5 % (3,2 M€ sobre 216,2 M€ de capitalización) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/06/05495_OtraInfRelev_20260624.pdf
@@ -2559,3 +2661,1928 @@
   - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
   - Publica lo que debe: 1.5/3, parcial — cuentas anuales recientes: no; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2025/10/05656_OtraInfRelev_20251031.pdf
 - ⚠️ cobertura 2 de 6: la puntuación dice poco
+
+### P3 Spain Logistics Parks SOCIMI S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/p3-spain-logistic-parks-socimi-PSLP-ES0105282000-5
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### LIVING RESIDENTIAL SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/living-residential-socimi-LIVE-ES0105356002-3
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### BARINGS CORE SPAIN · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105362000-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### IPOSA PROPERTIES · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105417002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MAQ ADMON. URBANAS · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105447009-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### INMOSUPA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105473005-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### AGP MALAGA SOCIMI · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105478004-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### IANTE INVESTMENTS · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105479002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### AROCA DEL PINAR · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105486007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ORBIS PROPERTIES · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105490009-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### VREF SEVILLE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105492005-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### HEALTHCARE ACTIVOS · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105498002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### INMARK · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105511002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### TORRE RIOJA-MADRID SOCIMI S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/torre-rioja-madrid-socimi-TORA-ES0105525002-30
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ORINOQUIA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105534004-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### GLOBAL PIELAGO · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105537007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MONTEPINO LOGISTIC · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105549002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### RES GESTAE SOCIMI · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105550000-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### IGIS NEPTUNE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105551008-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### FAIFEY INVEST · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105553004-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MERIDIA RE IV · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105559001-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### EUROLOG CANOLA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105586004-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### IMPULSE FITNESS · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105590006-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### SCIENTIA SCHOOL · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105592002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ARIMELIA ITG · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105601001-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### PERSEIDA RENTA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105612008-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### VANDOR REAL ESTATE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105623005-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### SAGAX REAL ESTATE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105651006-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### APODACA INVERSIONE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105658001-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### CORE SPAIN HOLDCO · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105660007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### AREF THALASSA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105661005-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### HOTELES BESTPRICE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105664009-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Round Robin Inversiones Socimi, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/round-robin-inversiones-socimi-RRIS-ES0105675005-1
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### RAV EN7 RESIDENTIAL PROPERTY SOCIMI · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/rav-en7-residential-property-s-RAVN-ES0105688008-2
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MUTTER VENTURES · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105697009-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### K PRIME CAPITAL · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105698007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### NORTEM BIOGROUP · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105719001-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ELIX · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105726006-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### PRIMERO H INV SOCIAL SOCIMI SA · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/primero-h-inv-social-socimi-PRIH-ES0105727004-4
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### WELLNESS · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105740007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### AC Residencial SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/ac-residencial-socimi-ACRS-ES0105746004-10
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Smart Kitchens Properties SOCIMI S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/smart-kitchens-socimi-SMRT-ES0105747002-11
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### URCOLESA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105748000-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ONALAND 2018 SOCIMI S.A.U · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/onaland-2018-socimi-ONLS-ES0105756003-6
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ATOLON CAPITAL PARTNERS SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/atolon-capital-partners-socimi-ATLN-ES0105792008-7
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### AOFI SHENI SOCIMI, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/aofi-sheni-socimi-AOFI-ES0105801007-9
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### GENESIS · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105807004-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ORONIS INVERSIONES SOCIMI S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/oronis-inversiones-socimi-ORNS-ES0105828000-16
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ORION RENTAL SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/orion-rental-socimi-ORIO-ES0105829008-19
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### NW1 Spanish Logistics Holdco SOCIMI, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/nw1-spanish-logistics-socimi-NWTA-ES0105840005-14
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Global Cortiguera SOCIMI, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/global-cortiguera-socimi-CORT-ES0105841003-15
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Almond Core Centre Socimi, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/almond-core-centre-socimi-ACCS-ES0105850004-23
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### STUDENT PROPERTY · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105851002-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Edificio Rostower SOCIMI, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/edificio-rostower-socimi-ERTW-ES0105871000-26
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### TELCO BUILDING SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/telco-building-socimi-TELC-ES0105885000-28
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### DARIA 323 CORPORATE SERVICES SOCIMI S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/daria-323-socimi-DARI-ES0105902003-31
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### SMART LIVING PROPERTIES SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/smart-living-properties-socimi-SLPS-ES0105907002-34
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### INMOLECULE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105908000-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### SAJA REAL ESTATE · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105910006-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Global Tavascan, SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/global-tavascan-socimi-GLTA-ES0105911004-35
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Rivoli Ballonti Retail SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/rivoli-ballonti-retail-socimi-RIBA-ES0105945002-48
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### VICSO · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105962007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### ES VEDRA · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105964003-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### NEXTLOG S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/nextlog-socimi-NXTL-ES0105969002-54
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### LIBEEN PROPERTIES, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/libeen-properties-LBEN-ES0105972006-45
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MEDITERRANEAN REIT · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0105977005-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### BIMMART INVESTMENT · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0106008008-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### MGN RENTALS CAPITAL SOCIMI SA · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/mgn-rentals-capital-socimi-MGNS-ES0106009006-51
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Redevco European Retail Parks ES Holdco, Socimi, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/redevco-european-rp-socimi-RERP-ES0106014006-47
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### HAY 2 SOCIMI · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0106042007-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### EXXITA BE CIRCULAR · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0106046008-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### EXXITA BE CIRCULAR · 1.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 1.0/10 (parcial)
+  - Mercado: 1.0/4, parcial — Euronext Access · fuente: https://live.euronext.com/en/product/equities/ES0106046016-XMLI
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://live.euronext.com/en/products/equities/list
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Trajano II Affordable Housing, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/trajano-ii-affordable-housing-TRJN-ES0106050000-57
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### EWER IN LONG SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/ewer-in-long-socimi-EWER-ES0106052006-60
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Viriato Residencial I SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/viriato-residencial-i-socimi-VIRI-ES0106055009-66
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Grupo Vega Capital SOCIMI, S.A.U. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/grupo-vega-capital-socimi-VEGA-ES0106064001-65
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco
+
+### Redevco Iberian Ventures IV SOCIMI, S.A. · 0.0 puntos · de momento no · cobertura 1/6
+- **Apalancamiento** —/25 (sin datos)
+  - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
+  - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
+- **Dividendos** —/20 (sin datos)
+  - Reparte dividendo: —/10, sin datos — ni dividendo acordado ni pagado en el último ejercicio (no consta)
+  - Rendimiento sobre capitalización: —/6, sin datos — falta el dividendo o la capitalización
+  - Crece: —/4, sin datos — sin dividendo del ejercicio anterior con que comparar
+- **Valor liquidativo** —/15 (sin datos)
+  - Cotización frente al valor: —/10, sin datos — sin NAV por acción ni patrimonio neto con capitalización (no consta)
+  - Valoración externa: —/5, sin datos — sin ejercicio
+- **Concentración accionarial** —/15 (sin datos)
+  - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
+  - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
+  - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
+- **Activos** —/15 (sin datos)
+  - Tamaño de la cartera: —/6, sin datos — sin valor de los inmuebles (no consta)
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
+  - Rentas sobre valor: —/4, sin datos — faltan las rentas o el valor de los inmuebles
+- **Madurez en el mercado** 0.0/10 (no cumplida)
+  - Mercado: —/4, sin datos — Portfolio SE · fuente: https://www.portfolio.exchange/portfolio-market/redevco-iberian-ven-iv-socimi-RIVE-ES0106104005-72
+  - Antigüedad en el mercado: —/3, sin datos — sin fecha de incorporación (no consta)
+  - Publica lo que debe: 0.0/3, no cumplida — cuentas anuales recientes: no; semestral reciente: no · fuente: https://www.portfolio.exchange/portfolio-market
+- ⚠️ cobertura 1 de 6: la puntuación dice poco

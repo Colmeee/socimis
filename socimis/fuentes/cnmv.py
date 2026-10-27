@@ -132,15 +132,29 @@ def pedir(url, ua=red.UA):
     return r["cuerpo"].decode("utf-8", errors="replace")
 
 
+def con_guion(nif):
+    """«A28027399» → «A-28027399». La CNMV guarda algunas entidades con el NIF con guion (Colonial, 2026-10-27) y con el NIF
+    sin guion devuelve la página vacía; Merlin y Lar contestan con las dos formas. Se prueba primero sin guion y, si no hay
+    nada, con él."""
+    nif = nif.replace("-", "").upper()
+    return "%s-%s" % (nif[0], nif[1:]) if len(nif) == 9 else nif
+
+
 def pedir_informes_anuales(nif, ua=red.UA):
     """(informes, nombre de la entidad)."""
     pagina = pedir(URL_IFA.format(nif=nif), ua)
-    return informes_anuales(pagina), nombre_entidad(pagina)
+    informes, nombre = informes_anuales(pagina), nombre_entidad(pagina)
+    if not informes and not nombre and con_guion(nif) != nif:
+        pagina = pedir(URL_IFA.format(nif=con_guion(nif)), ua)
+        informes, nombre = informes_anuales(pagina), nombre_entidad(pagina)
+    return informes, nombre
 
 
 def pedir_participaciones(nif, ua=red.UA):
     """Dos peticiones: la página de entrada y la de notificaciones a la que enlaza."""
     inicio = pedir(URL_PS.format(nif=nif), ua)
+    if nombre_entidad(inicio) is None and con_guion(nif) != nif:
+        inicio = pedir(URL_PS.format(nif=con_guion(nif)), ua)
     destino = enlace_notificaciones(inicio)
     if not destino:
         return participaciones(inicio), None

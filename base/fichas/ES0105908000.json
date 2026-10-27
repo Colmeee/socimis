@@ -1,0 +1,47 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "censo: Euronext Access París: solo el listado público (nombre recortado, ISIN, símbolo, último precio); fichas y documentos sin recorrer por sus condiciones de uso (2026-10-27)"
+ ],
+ "documentos": [
+  {
+   "bytes": null,
+   "consultado": "2026-10-27",
+   "escaneado": false,
+   "fecha": "2026-10-27",
+   "huella": null,
+   "tipo": "censo",
+   "titulo": "Página del mercado de la que sale el censo",
+   "url": "https://live.euronext.com/en/products/equities/list"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": null,
+  "cotizacion": 3.98,
+  "domicilio": null,
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": null,
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105908000",
+  "mercado": "Euronext Access París",
+  "nif": null,
+  "nombre": "INMOLECULE",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "regimen_socimi": "sin confirmar",
+  "segmento": "Euronext Access",
+  "socimi_en_nombre": false,
+  "ticker": "MLINA",
+  "url_ficha": "https://live.euronext.com/en/product/equities/ES0105908000-XMLI",
+  "web": null
+ },
+ "vencimientos": [],
+ "vinculo_vasco": null
+}

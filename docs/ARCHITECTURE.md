@@ -17,7 +17,10 @@ Qué construimos: `PRD.md`. Cómo se ve: `DESIGN_SYSTEM.md`. Cómo se trabaja: `
                               parsers/estados.py · parsers/avisos.py · parsers/ixbrl.py
                                          │ cada cifra -> modelo.dato(valor, fuente, fecha, huella, contraste, donde)
                                          ▼
-                                  base/fichas/<NIF>.json  (la verdad; se versiona)
+                                  base/fichas/<clave>.json  (la verdad; se versiona; clave = NIF, o ISIN si no hay NIF)
+                                         ▲
+   Portfolio SE (HTML estático) ── python3 -m socimis portfolio ──┤  solo censo (nombre, ISIN, capitalización, precio)
+   Euronext Access (listado leído 1 vez con navegador) ── python3 -m socimis euronext <listado.json> ──┘  solo censo
                                          │
                  ┌───────────────────────┼─────────────────────────┐
                  ▼                       ▼                         ▼
@@ -47,12 +50,18 @@ socimis/                 el paquete
   parsers/estados.py     balance, resultados, flujos, LTV, vencimientos, activos (texto de PDF en castellano)
   parsers/avisos.py      participaciones, dividendo, valoración (avisos de BME)
   fuentes/cnmv.py        URLs por NIF y lectura de las tablas de IFA y participaciones
-  fuentes/bme.py         qué PDF se baja de cada ficha recolectada; nombre de fichero; provincia por CP
+  fuentes/bme.py         qué PDF se baja de cada ficha recolectada; nombre de fichero; provincia por CP o por ciudad
+  fuentes/portfolio.py   Portfolio Stock Exchange: emisores de la página pública del mercado (censo; documentos tras login)
+  fuentes/euronext.py    Euronext Access París: emisores del listado guardado (censo; fichas sin recorrer por sus condiciones)
+  geo.py                 gazetteer nacional: provincia (y comunidad) de la ubicación de un inmueble; reutiliza vasco.json
   vinculo_vasco.py       + vasco.json (lugares y entidades)
   puntuacion.py          + criterios.json (pesos y umbrales con porqué)
   base.py                SQLite + CSV desde las fichas
   __main__.py            la línea de mandos
 herramientas/recolectar_bme.js   el navegador que recoge fichas (listado, Datos Empresa, O. I. Relevante, Datos Financieros)
+herramientas/censo_vasco.py      docs/CENSO-VINCULO-VASCO.md desde las fichas
+herramientas/censo_espana.py     docs/CENSO-ESPANA.md: por mercado, provincia del domicilio y provincia de los inmuebles
+herramientas/lista.py            docs/LISTA-SOCIMIS.md: todas las sociedades en una tabla
 pruebas/                 unittest + fixtures reales recortados (LEEME.md con huellas) · correr.py
 probar.sh                batería sin red + comprobaciones de la casa
 base/                    fichas/*.json (verdad), socimis.sqlite, csv/, informe.md, puntuaciones.json  — se versiona
@@ -84,7 +93,9 @@ docs/                    PRD, ARCHITECTURE, DESIGN_SYSTEM, veredicto y fuentes d
 ## Servicios externos
 
 bolsasymercados.es (páginas y PDF en `apiweb.bolsasymercados.es/Market/MTFDocuments/…`), cnmv.es (HTML y
-`webservices/verdocumento`). Ninguna API con clave. Condiciones y robots en `fuentes-fase-1.md`.
+`webservices/verdocumento`), portfolio.exchange (una página pública, censo) y live.euronext.com (un listado, leído una vez
+con navegador; sin recorrer fichas: sus condiciones de uso lo prohíben sin permiso, ver PRD decisión 7). Ninguna API con
+clave. Condiciones y robots en `fuentes-fase-1.md`.
 
 ## Dónde corre qué
 

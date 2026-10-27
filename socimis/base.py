@@ -14,22 +14,22 @@ import json
 import os
 import sqlite3
 
-from . import modelo
+from . import modelo, geo
 
 ESQUEMA = """
-CREATE TABLE sociedad (nif TEXT PRIMARY KEY, nombre TEXT, isin TEXT, ticker TEXT, mercado TEXT, segmento TEXT, domicilio TEXT, provincia TEXT,
+CREATE TABLE sociedad (clave TEXT PRIMARY KEY, nif TEXT, nombre TEXT, isin TEXT, ticker TEXT, mercado TEXT, segmento TEXT, domicilio TEXT, provincia TEXT,
   web TEXT, auditor TEXT, asesor_registrado TEXT, proveedor_liquidez TEXT, fecha_incorporacion TEXT, fecha_regimen_socimi TEXT,
-  estado_cotizacion TEXT, capitalizacion REAL, cotizacion REAL, fecha_cotizacion TEXT, url_ficha TEXT);
-CREATE TABLE dato (nif TEXT, ejercicio TEXT, campo TEXT, valor REAL, unidad TEXT, fecha TEXT, fuente TEXT, huella TEXT, consultado TEXT,
-  contraste TEXT, nota TEXT, donde TEXT, PRIMARY KEY (nif, ejercicio, campo));
-CREATE TABLE accionista (nif TEXT, accionista TEXT, tipo TEXT, pct_total REAL, pct_directo REAL, pct_indirecto REAL, a_traves_de TEXT, fecha TEXT,
+  estado_cotizacion TEXT, capitalizacion REAL, cotizacion REAL, fecha_cotizacion TEXT, url_ficha TEXT, regimen_socimi TEXT);
+CREATE TABLE dato (clave TEXT, ejercicio TEXT, campo TEXT, valor REAL, unidad TEXT, fecha TEXT, fuente TEXT, huella TEXT, consultado TEXT,
+  contraste TEXT, nota TEXT, donde TEXT, PRIMARY KEY (clave, ejercicio, campo));
+CREATE TABLE accionista (clave TEXT, accionista TEXT, tipo TEXT, pct_total REAL, pct_directo REAL, pct_indirecto REAL, a_traves_de TEXT, fecha TEXT,
   fuente TEXT, huella TEXT, contraste TEXT);
-CREATE TABLE administrador (nif TEXT, nombre TEXT, cargo TEXT, desde TEXT, hasta TEXT, fuente TEXT);
-CREATE TABLE vencimiento (nif TEXT, entidad TEXT, importe REAL, importe_anterior REAL, vencimiento TEXT, tipo_interes TEXT, fecha TEXT, fuente TEXT, huella TEXT);
-CREATE TABLE activo (nif TEXT, nombre TEXT, ubicacion TEXT, valor REAL, valor_anterior REAL, fecha TEXT, fuente TEXT, huella TEXT);
-CREATE TABLE documento (nif TEXT, tipo TEXT, fecha TEXT, url TEXT, huella TEXT, titulo TEXT, bytes INTEGER, escaneado INTEGER, revisar INTEGER, consultado TEXT);
-CREATE TABLE puntuacion (nif TEXT, hoy TEXT, puntos REAL, tramo TEXT, cobertura INTEGER, dimension TEXT, puntos_dim REAL, max_dim INTEGER, estado TEXT, detalle TEXT);
-CREATE TABLE vinculo_vasco (nif TEXT PRIMARY KEY, grado TEXT, n_activos INTEGER, valor_activos REAL, pct_valor REAL, n_prestamos INTEGER, n_menciones INTEGER, detalle TEXT);
+CREATE TABLE administrador (clave TEXT, nombre TEXT, cargo TEXT, desde TEXT, hasta TEXT, fuente TEXT);
+CREATE TABLE vencimiento (clave TEXT, entidad TEXT, importe REAL, importe_anterior REAL, vencimiento TEXT, tipo_interes TEXT, fecha TEXT, fuente TEXT, huella TEXT);
+CREATE TABLE activo (clave TEXT, nombre TEXT, ubicacion TEXT, provincia TEXT, valor REAL, valor_anterior REAL, fecha TEXT, fuente TEXT, huella TEXT);
+CREATE TABLE documento (clave TEXT, tipo TEXT, fecha TEXT, url TEXT, huella TEXT, titulo TEXT, bytes INTEGER, escaneado INTEGER, revisar INTEGER, consultado TEXT);
+CREATE TABLE puntuacion (clave TEXT, hoy TEXT, puntos REAL, tramo TEXT, cobertura INTEGER, dimension TEXT, puntos_dim REAL, max_dim INTEGER, estado TEXT, detalle TEXT);
+CREATE TABLE vinculo_vasco (clave TEXT PRIMARY KEY, grado TEXT, n_activos INTEGER, valor_activos REAL, pct_valor REAL, n_prestamos INTEGER, n_menciones INTEGER, detalle TEXT);
 """
 
 TABLAS = ["sociedad", "dato", "accionista", "administrador", "vencimiento", "activo", "documento", "puntuacion", "vinculo_vasco"]
@@ -41,7 +41,7 @@ def fichas_de(carpeta):
 
 
 def construir(carpeta_fichas, ruta_sqlite, carpeta_csv=None, puntuaciones=None):
-    """Regenera el SQLite (y los CSV) desde las fichas. `puntuaciones`: {nif: (hoy, evaluacion)} opcional."""
+    """Regenera el SQLite (y los CSV) desde las fichas. `puntuaciones`: {clave: (hoy, evaluacion)} opcional (clave = NIF o ISIN)."""
     if os.path.exists(ruta_sqlite):
         os.remove(ruta_sqlite)
     con = sqlite3.connect(ruta_sqlite)
@@ -49,11 +49,11 @@ def construir(carpeta_fichas, ruta_sqlite, carpeta_csv=None, puntuaciones=None):
     n = 0
     for f in fichas_de(carpeta_fichas):
         s = f["sociedad"]
-        nif = s.get("nif") or ("SIN-NIF-%d" % n)
-        con.execute("INSERT OR REPLACE INTO sociedad VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
-                    (nif, s.get("nombre"), s.get("isin"), s.get("ticker"), s.get("mercado"), s.get("segmento"), s.get("domicilio"), s.get("provincia"),
+        nif = modelo.clave(f) or ("SIN-CLAVE-%d" % n)  # la clave: NIF, o ISIN si la fuente no publica el NIF
+        con.execute("INSERT OR REPLACE INTO sociedad VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+                    (nif, s.get("nif"), s.get("nombre"), s.get("isin"), s.get("ticker"), s.get("mercado"), s.get("segmento"), s.get("domicilio"), s.get("provincia"),
                      s.get("web"), s.get("auditor"), s.get("asesor_registrado"), s.get("proveedor_liquidez"), s.get("fecha_incorporacion"),
-                     s.get("fecha_regimen_socimi"), s.get("estado_cotizacion"), s.get("capitalizacion"), s.get("cotizacion"), s.get("fecha_cotizacion"), s.get("url_ficha")))
+                     s.get("fecha_regimen_socimi"), s.get("estado_cotizacion"), s.get("capitalizacion"), s.get("cotizacion"), s.get("fecha_cotizacion"), s.get("url_ficha"), s.get("regimen_socimi")))
         for anio, ej in f.get("ejercicios", {}).items():
             for campo, d in ej.items():
                 con.execute("INSERT OR REPLACE INTO dato VALUES (?,?,?,?,?,?,?,?,?,?,?,?)",
@@ -69,8 +69,8 @@ def construir(carpeta_fichas, ruta_sqlite, carpeta_csv=None, puntuaciones=None):
             con.execute("INSERT INTO vencimiento VALUES (?,?,?,?,?,?,?,?,?)",
                         (nif, v.get("entidad"), v.get("importe"), v.get("importe_anterior"), v.get("vencimiento"), v.get("tipo_interes"), v.get("fecha"), v.get("fuente"), v.get("huella")))
         for a in f.get("activos", []):
-            con.execute("INSERT INTO activo VALUES (?,?,?,?,?,?,?,?)",
-                        (nif, a.get("nombre"), a.get("ubicacion"), a.get("valor"), a.get("valor_anterior"), a.get("fecha"), a.get("fuente"), a.get("huella")))
+            con.execute("INSERT INTO activo VALUES (?,?,?,?,?,?,?,?,?)",
+                        (nif, a.get("nombre"), a.get("ubicacion"), geo.provincia_de_activo(a), a.get("valor"), a.get("valor_anterior"), a.get("fecha"), a.get("fuente"), a.get("huella")))
         for d in f.get("documentos", []):
             con.execute("INSERT INTO documento VALUES (?,?,?,?,?,?,?,?,?,?)",
                         (nif, d.get("tipo"), d.get("fecha"), d.get("url"), d.get("huella"), d.get("titulo"), d.get("bytes"), 1 if d.get("escaneado") else 0, 1 if d.get("revisar") else 0, d.get("consultado")))

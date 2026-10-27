@@ -1,0 +1,47 @@
+{
+ "accionistas": [],
+ "activos": [],
+ "administradores": [],
+ "avisos": [
+  "censo: Portfolio Stock Exchange solo enseña sin login nombre, ISIN, capitalización y precio; los documentos están tras login (2026-10-27)"
+ ],
+ "documentos": [
+  {
+   "bytes": null,
+   "consultado": "2026-10-27",
+   "escaneado": false,
+   "fecha": "2026-10-27",
+   "huella": "57926212fd8486784ca964b1a79a1e654c1a88668278f60ac7ec28ca61c24066",
+   "tipo": "censo",
+   "titulo": "Página del mercado de la que sale el censo",
+   "url": "https://www.portfolio.exchange/portfolio-market"
+  }
+ ],
+ "ejercicios": {},
+ "esquema": 1,
+ "sociedad": {
+  "asesor_registrado": null,
+  "auditor": null,
+  "capitalizacion": 61000000.0,
+  "cotizacion": 12.2,
+  "domicilio": null,
+  "estado_cotizacion": "cotiza",
+  "fecha_cotizacion": "2026-10-27",
+  "fecha_incorporacion": null,
+  "fecha_regimen_socimi": null,
+  "isin": "ES0105911004",
+  "mercado": "Portfolio Stock Exchange",
+  "nif": null,
+  "nombre": "Global Tavascan, SOCIMI, S.A.",
+  "proveedor_liquidez": null,
+  "provincia": null,
+  "regimen_socimi": "SOCIMI en el nombre",
+  "segmento": "Portfolio SE",
+  "socimi_en_nombre": true,
+  "ticker": "GLTA",
+  "url_ficha": "https://www.portfolio.exchange/portfolio-market/global-tavascan-socimi-GLTA-ES0105911004-35",
+  "web": null
+ },
+ "vencimientos": [],
+ "vinculo_vasco": null
+}

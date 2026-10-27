@@ -1,10 +1,10 @@
 # Censo del piloto: SOCIMIs cotizadas con vínculo vasco
 
-Generado el 2026-10-26 por `herramientas/censo_vasco.py` desde `base/fichas/` (100 sociedades). Las fuentes de cada dato están en las fichas y en `base/socimis.sqlite`.
+Generado el 2026-10-27 por `herramientas/censo_vasco.py` desde `base/fichas/` (178 sociedades). Las fuentes de cada dato están en las fichas y en `base/socimis.sqlite`.
 
 ## Lo primero: por domicilio no hay ninguna
 
-Sociedades con domicilio social en Álava, Bizkaia o Gipuzkoa: **0 de 100**. Es lo esperado: las tres Normas Forales del Impuesto sobre Sociedades eliminaron el régimen SOCIMI (ver `VEREDICTO-FASE-1.md`, pero 1). Por eso el piloto mide el **vínculo**: activos, financiación y menciones en los documentos que la propia sociedad publica.
+Sociedades con domicilio social en Álava, Bizkaia o Gipuzkoa: **0 de 178**. Es lo esperado: las tres Normas Forales del Impuesto sobre Sociedades eliminaron el régimen SOCIMI (ver `VEREDICTO-FASE-1.md`, pero 1). Por eso el piloto mide el **vínculo**: activos, financiación y menciones en los documentos que la propia sociedad publica.
 
 ## Estado de la base
 
@@ -12,11 +12,13 @@ Sociedades con domicilio social en Álava, Bizkaia o Gipuzkoa: **0 de 100**. Es 
 |---|---|
 | BME Growth | 54 |
 | BME Scaleup | 45 |
-| Continuo | 1 |
+| Continuo | 2 |
+| Euronext Access | 46 |
+| Portfolio SE | 31 |
 
-- Con cuentas anuales leídas (tesorería en la base): **25**.
+- Con cuentas anuales leídas (tesorería en la base): **26**.
 - Con las cuentas anuales **escaneadas** (sin capa de texto; a la cola de OCR del Mac, `python3 -m socimis ocr-pendientes`): **57**. En estas el vínculo solo puede verse en los avisos cortos (participaciones, dividendos, valoración), no en la memoria.
-- Vínculo vasco **fuerte** (activos o financiación): **1**. **Indicio** (solo menciones): **15**. **Ninguno**: **84**.
+- Vínculo vasco **fuerte** (activos o financiación): **1**. **Indicio** (solo menciones): **15**. **Ninguno**: **162**.
 
 ## Vínculo fuerte
 
@@ -76,7 +78,7 @@ Menciones (41; las primeras):
 
 ## Sin vínculo encontrado
 
-Las 84 restantes no nombran ningún lugar vasco ni tienen préstamos de entidades vascas en lo leído. Para las escaneadas (57) esto no significa «no»: significa «no leído». La lista completa, con segmento y domicilio, está en `base/csv/sociedad.csv` y `base/csv/vinculo_vasco.csv`.
+Las 162 restantes no nombran ningún lugar vasco ni tienen préstamos de entidades vascas en lo leído. Para las escaneadas (57) esto no significa «no»: significa «no leído». La lista completa, con segmento y domicilio, está en `base/csv/sociedad.csv` y `base/csv/vinculo_vasco.csv`.
 
 ## Cómo se ha medido
 

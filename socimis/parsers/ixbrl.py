@@ -29,6 +29,24 @@ CONCEPTOS = {
 
 RE_CONTEXTO = re.compile(r'<xbrli:context\s+id="([^"]+)"\s*>(.*?)</xbrli:context>', re.S)
 RE_HECHO = re.compile(r"<ix:nonFraction([^>]*)>(.*?)</ix:nonFraction>", re.S)
+RE_TEXTO = re.compile(r"<ix:nonNumeric([^>]*)>(.*?)</ix:nonNumeric>", re.S)
+CONCEPTOS_TEXTO = {"ifrs-full:AddressOfRegisteredOfficeOfEntity": "domicilio", "ifrs-full:NameOfReportingEntityOrOtherMeansOfIdentification": "nombre"}
+
+
+def textos(texto, conceptos=CONCEPTOS_TEXTO):
+    """{campo: texto} de los hechos de texto etiquetados (ix:nonNumeric) que interesan de la portada: el domicilio social y el
+    nombre. Se queda con el primero de cada concepto y lo recorta a la primera frase (Colonial etiqueta medio párrafo)."""
+    salida = {}
+    for m in RE_TEXTO.finditer(texto):
+        a = dict(RE_ATRIBUTOS.findall(m.group(1)))
+        campo = conceptos.get(a.get("name"))
+        if not campo or campo in salida:
+            continue
+        limpio = re.sub(r"\s+", " ", RE_ETIQUETA.sub(" ", m.group(2))).strip()
+        limpio = re.split(r"(?<=[a-záéíóú)])\.\s+(?=[A-ZÁÉÍÓÚ])", limpio, maxsplit=1)[0].rstrip(" .")
+        if limpio:
+            salida[campo] = limpio[:200]
+    return salida
 RE_ATRIBUTOS = re.compile(r'([\w:.-]+)="([^"]*)"')
 RE_ETIQUETA = re.compile(r"<[^>]+>")
 

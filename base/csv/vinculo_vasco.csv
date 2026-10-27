@@ -1,4 +1,4 @@
-nif;grado;n_activos;valor_activos;pct_valor;n_prestamos;n_menciones;detalle
+clave;grado;n_activos;valor_activos;pct_valor;n_prestamos;n_menciones;detalle
 A02766392;ninguno;0;0.0;;0;0;"{""activos"": [], ""financiacion"": [], ""grado"": ""ninguno"", ""menciones"": [], ""pct_valor_en_pais_vasco"": null, ""provincias"": {}}"
 A02812501;ninguno;0;0.0;;0;0;"{""activos"": [], ""financiacion"": [], ""grado"": ""ninguno"", ""menciones"": [], ""pct_valor_en_pais_vasco"": null, ""provincias"": {}}"
 A02826410;ninguno;0;0.0;;0;0;"{""activos"": [], ""financiacion"": [], ""grado"": ""ninguno"", ""menciones"": [], ""pct_valor_en_pais_vasco"": null, ""provincias"": {}}"

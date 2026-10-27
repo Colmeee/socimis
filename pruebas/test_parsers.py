@@ -193,3 +193,25 @@ class TestAvisos(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestIxbrlTextos(unittest.TestCase):
+    def test_domicilio_y_nombre(self):
+        from socimis.parsers import ixbrl
+        t = ('<p><ix:nonNumeric contextRef="c" name="ifrs-full:NameOfReportingEntityOrOtherMeansOfIdentification" id="f-1"> Ejemplo SOCIMI, S.A. </ix:nonNumeric>'
+             '<ix:nonNumeric contextRef="c" name="ifrs-full:AddressOfRegisteredOfficeOfEntity" id="f-2">Paseo de la Castellana, 52 de Madrid (España). Con fecha 3 de mayo la Junta acordó.</ix:nonNumeric>'
+             '<ix:nonNumeric contextRef="c" name="ifrs-full:AddressOfRegisteredOfficeOfEntity" id="f-3">otro</ix:nonNumeric></p>')
+        r = ixbrl.textos(t)
+        self.assertEqual(r["nombre"], "Ejemplo SOCIMI, S.A")
+        self.assertEqual(r["domicilio"], "Paseo de la Castellana, 52 de Madrid (España)")
+
+
+class TestActivosSinNotas(unittest.TestCase):
+    def test_la_columna_notas_no_es_ubicacion(self):
+        t = ("Inversión inmobiliaria            Ubicación                 31/12/2025     31/12/2024\n"
+             "Edificio Gran Vía                 Calle Gran Vía 1, Bilbao   12.000.000     11.500.000\n"
+             "III. Inversiones inmobiliarias    7                          56.605.411     50.000.000\n"
+             "I. Deudores comerciales           9                              72.346         60.000\n")
+        a = estados.inversiones_inmobiliarias(t)
+        self.assertEqual([x["nombre"] for x in a], ["Edificio Gran Vía"])
+        self.assertEqual(a[0]["ubicacion"], "Calle Gran Vía 1, Bilbao")

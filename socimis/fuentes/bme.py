@@ -129,7 +129,28 @@ PROVINCIAS_CP = {"01": "Álava", "20": "Gipuzkoa", "48": "Bizkaia", "28": "Madri
                  "42": "Soria", "49": "Zamora", "05": "Ávila", "27": "Lugo", "32": "Ourense", "51": "Ceuta", "52": "Melilla"}
 
 
+# Capitales (y alguna ciudad grande) para los domicilios que vienen sin código postal («PRÍNCIPE DE VERGARA 112, MADRID»):
+# se mira la última palabra del domicilio. Solo nombres que no son también calles corrientes.
+CIUDADES = {"MADRID": "Madrid", "BARCELONA": "Barcelona", "VALENCIA": "Valencia", "SEVILLA": "Sevilla", "MALAGA": "Málaga", "MÁLAGA": "Málaga",
+            "BILBAO": "Bizkaia", "VITORIA": "Álava", "VITORIA-GASTEIZ": "Álava", "DONOSTIA": "Gipuzkoa", "SAN SEBASTIAN": "Gipuzkoa",
+            "SAN SEBASTIÁN": "Gipuzkoa", "ZARAGOZA": "Zaragoza", "ALICANTE": "Alicante", "PALMA": "Illes Balears", "PALMA DE MALLORCA": "Illes Balears",
+            "MURCIA": "Murcia", "VALLADOLID": "Valladolid", "A CORUÑA": "A Coruña", "LA CORUÑA": "A Coruña", "GRANADA": "Granada", "OVIEDO": "Asturias",
+            "GIJON": "Asturias", "GIJÓN": "Asturias", "SANTANDER": "Cantabria", "PAMPLONA": "Navarra", "LOGROÑO": "La Rioja", "MARBELLA": "Málaga",
+            "LAS PALMAS DE GRAN CANARIA": "Las Palmas", "SANTA CRUZ DE TENERIFE": "Santa Cruz de Tenerife", "CORDOBA": "Córdoba", "CÓRDOBA": "Córdoba",
+            "TARRAGONA": "Tarragona", "GIRONA": "Girona", "LLEIDA": "Lleida", "CASTELLON": "Castellón", "CASTELLÓN": "Castellón", "CADIZ": "Cádiz",
+            "CÁDIZ": "Cádiz", "ALMERIA": "Almería", "ALMERÍA": "Almería", "TOLEDO": "Toledo", "BURGOS": "Burgos", "SALAMANCA": "Salamanca",
+            "BADAJOZ": "Badajoz", "HUELVA": "Huelva", "JAEN": "Jaén", "JAÉN": "Jaén", "ALBACETE": "Albacete", "LEON": "León", "LEÓN": "León",
+            "VIGO": "Pontevedra", "PONTEVEDRA": "Pontevedra", "LUGO": "Lugo", "OURENSE": "Ourense", "GUADALAJARA": "Guadalajara"}
+
+
 def provincia_de_domicilio(domicilio):
-    """La provincia por el código postal del domicilio («PASEO DE LA HABANA 74, 28036 MADRID» -> Madrid)."""
+    """La provincia por el código postal del domicilio («PASEO DE LA HABANA 74, 28036 MADRID» -> Madrid). Sin código postal, por el
+    nombre de la ciudad al final del domicilio («PRÍNCIPE DE VERGARA 112, MADRID» -> Madrid; «…, Madrid (España)» -> Madrid)."""
     m = re.search(r"\b(\d{5})\b", domicilio or "")
-    return PROVINCIAS_CP.get(m.group(1)[:2]) if m else None
+    if m:
+        return PROVINCIAS_CP.get(m.group(1)[:2])
+    cola = re.sub(r"\s*(?:\((?:España|Spain)\)|,\s*(?:España|Spain))\s*\.?$", "", (domicilio or "").strip(), flags=re.I).rstrip(" .").upper()
+    for ciudad, prov in sorted(CIUDADES.items(), key=lambda kv: -len(kv[0])):
+        if re.search(r"(?:^|[\s,])" + re.escape(ciudad) + r"$", cola):
+            return prov
+    return None

@@ -19,3 +19,4 @@ persona (firmantes, accionistas personas físicas) se ha quitado o sustituido po
 
 Regla: aquí **no entra ningún nombre de persona real**, ninguna cifra inventada que pase por real, ningún PDF.
 Si un lector nuevo necesita otro documento, se recorta igual y se apunta en esta tabla con su huella.
+| `portfolio-mercado-recortado.html` | Recorte de la página pública del mercado de Portfolio Stock Exchange (cabecera y tres filas: AC Residencial SOCIMI, La Verdosa Private Equity SCR, Libeen Properties), leída el 2026-10-27 | https://www.portfolio.exchange/portfolio-market | 3ba65adad5fa58fa55314ac3a2a14a708dfe73cc08a268d05fb9e539ae21a74e |

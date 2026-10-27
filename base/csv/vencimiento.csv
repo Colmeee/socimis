@@ -1,4 +1,4 @@
-nif;entidad;importe;importe_anterior;vencimiento;tipo_interes;fecha;fuente;huella
+clave;entidad;importe;importe_anterior;vencimiento;tipo_interes;fecha;fuente;huella
 A87028932;Abanca;1000000.0;1491.66;2026-05-16;;2025-12-31;https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf;ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2
 A87028932;Bankinter;16.0;7500000.0;2024-10-05;;2025-12-31;https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf;ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2
 A87028932;Bankinter;16.0;5115135.65;2039-06-13;;2025-12-31;https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/03/05139_OtraInfRelev_20260320.pdf;ee1824cc9d9eec16408481b85b30e6b2e1cf41abc84ee22278e6b95c4344a3b2

@@ -222,6 +222,8 @@ def inversiones_inmobiliarias(texto):
             nombre, ubicacion = partes[0], ""
         if re.search(r"\d", nombre) and not re.search(r"[A-Za-z]", nombre):
             continue
+        if ubicacion and not re.search(r"[A-Za-zÁÉÍÓÚáéíóúñÑ]{2}", ubicacion):
+            continue          # «ubicación» que es solo un número: es la columna «Notas» del balance, no un inmueble (Advero y Miciso, 2026-10-27)
         if not re.search(r",", ubicacion) and not ubicacion:
             # sin ubicación: puede ser una fila de totales u otra tabla; la dejamos solo si el nombre parece un activo
             if not re.search(r"edificio|aparta|hotel|hostel|local|nave|oficina|parking|residencia|centro", nombre, re.I):

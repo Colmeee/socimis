@@ -107,3 +107,65 @@ class TestBME(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestCNMVGuion(unittest.TestCase):
+    def test_con_guion(self):
+        self.assertEqual(cnmv.con_guion("A28027399"), "A-28027399")
+        self.assertEqual(cnmv.con_guion("a-28027399"), "A-28027399")
+        self.assertEqual(cnmv.con_guion("raro"), "RARO")
+
+
+class TestProvinciaPorCiudad(unittest.TestCase):
+    def test_sin_codigo_postal(self):
+        self.assertEqual(bme.provincia_de_domicilio("PRíNCIPE DE VERGARA 112, MADRID"), "Madrid")
+        self.assertEqual(bme.provincia_de_domicilio("AVENIDA DIAGONAL 594, BARCELONA"), "Barcelona")
+        self.assertEqual(bme.provincia_de_domicilio("Paseo de la Castellana, 52 de Madrid (España)."), "Madrid")
+        self.assertEqual(bme.provincia_de_domicilio("Paseo de la Castellana 257, Madrid, España"), "Madrid")
+
+    def test_el_codigo_postal_manda_y_la_calle_no_engana(self):
+        self.assertEqual(bme.provincia_de_domicilio("CALLE BILBAO 3, 28004 MADRID"), "Madrid")
+        self.assertIsNone(bme.provincia_de_domicilio("Calle Madrid 4, Getafe"))
+        self.assertIsNone(bme.provincia_de_domicilio(None))
+
+
+class TestPortfolio(unittest.TestCase):
+    def test_emisores(self):
+        from socimis.fuentes import portfolio
+        em = portfolio.emisores(fixture("portfolio-mercado-recortado.html"))
+        self.assertEqual([e["isin"] for e in em], ["ES0105746004", "ES0181831001", "ES0105972006"])
+        ac = em[0]
+        self.assertEqual((ac["ticker"], ac["nombre"], ac["pais"]), ("ACRS", "AC Residencial SOCIMI, S.A.", "ES"))
+        self.assertEqual((ac["capitalizacion"], ac["cotizacion"]), (29872824.0, 1.0))
+        self.assertIsNone(ac["nav_por_accion"])
+        self.assertTrue(ac["socimi_en_nombre"])
+        self.assertTrue(ac["url"].startswith("https://www.portfolio.exchange/portfolio-market/"))
+        scr = em[1]
+        self.assertEqual((scr["nav_por_accion"], scr["nav_total"], scr["capitalizacion"]), (25.09, 301080000.0, None))
+        self.assertFalse(scr["socimi_en_nombre"])
+        self.assertFalse(em[2]["socimi_en_nombre"])
+
+    def test_sociedad(self):
+        from socimis.fuentes import portfolio
+        s = portfolio.sociedad_desde_emisor(portfolio.emisores(fixture("portfolio-mercado-recortado.html"))[0])
+        self.assertEqual((s["nif"], s["isin"], s["segmento"]), (None, "ES0105746004", "Portfolio SE"))
+
+
+class TestEuronext(unittest.TestCase):
+    LISTADO = {"fuente": "https://live.euronext.com/en/products/equities/list", "consultado": "2026-10-27", "filas": [
+        {"nombre": "AGP MALAGA SOCIMI", "isin": "ES0105478004", "simbolo": "MLAGP", "mic": "XMLI", "ultimo": "EUR 2.96", "variacion": "3.50%", "fecha": "16 May 2024", "url": "https://live.euronext.com/en/product/equities/ES0105478004-XMLI"},
+        {"nombre": "EUROLOG CANOLA", "isin": "ES0105586004", "simbolo": "MLCAN", "mic": "XMLI", "ultimo": "EUR 1,320.00", "variacion": "-", "fecha": "11 Aug 2021", "url": "x"},
+        {"nombre": "HAY 2 SOCIMI", "isin": "ES0106042007", "simbolo": "MLHA2", "mic": "XMLI", "ultimo": "-", "variacion": "-", "fecha": "-", "url": "x"},
+        {"nombre": "EMBENTION", "isin": "ES0105639001", "simbolo": "ALUAV", "mic": "ALXP", "ultimo": "EUR 26.00", "variacion": "-", "fecha": "-", "url": "x"},
+        {"nombre": "RARA", "isin": "FR0000000001", "simbolo": "X", "mic": "XMLI", "ultimo": "-", "variacion": "-", "fecha": "-", "url": "x"},
+    ]}
+
+    def test_emisores_solo_xmli_y_espanolas(self):
+        from socimis.fuentes import euronext
+        em = euronext.emisores(self.LISTADO)
+        self.assertEqual([e["isin"] for e in em], ["ES0105478004", "ES0105586004", "ES0106042007"])
+        self.assertEqual((em[0]["cotizacion"], em[0]["fecha_cotizacion"], em[0]["socimi_en_nombre"]), (2.96, "2024-05-16", True))
+        self.assertEqual((em[1]["cotizacion"], em[1]["socimi_en_nombre"]), (1320.0, False))
+        self.assertIsNone(em[2]["cotizacion"])
+        s = euronext.sociedad_desde_emisor(em[0])
+        self.assertEqual((s["nif"], s["segmento"], s["ticker"]), (None, "Euronext Access", "MLAGP"))

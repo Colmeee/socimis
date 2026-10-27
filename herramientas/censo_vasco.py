@@ -61,7 +61,7 @@ def main():
         L.append("Ninguna todavía.")
     for f in sorted(fuertes, key=lambda x: -((x.get("vinculo_vasco") or {}).get("pct_valor_en_pais_vasco") or 0)):
         s, vv = f["sociedad"], f["vinculo_vasco"]
-        ev = punt.get(s.get("nif"), {})
+        ev = punt.get(modelo.clave(f), {})
         L += ["### %s · %s · %s" % (s.get("nombre"), s.get("segmento"), "%s puntos (%s)" % (ev.get("puntos"), ev.get("tramo")) if ev else "sin puntuar"),
               "Domicilio: %s. NIF %s. Web: %s." % (_f(s.get("domicilio")), _f(s.get("nif")), _f(s.get("web"))),
               "Valor en el País Vasco: **%s %% del valor de los inmuebles con ubicación publicada**." % _f(vv.get("pct_valor_en_pais_vasco")), ""]

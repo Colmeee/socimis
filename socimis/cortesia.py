@@ -25,7 +25,8 @@ MAX_PDF = 60 * 1024 * 1024
 
 # Solo se baja de estos servidores (lista blanca; auditoría de Cancerbero, 2026-10-26): una URL que venga de una página y
 # apunte a otro sitio (una IP interna, otro dominio) no se baja. Una fuente nueva se añade aquí a propósito.
-SERVIDORES = ("apiweb.bolsasymercados.es", "www.bolsasymercados.es", "www.cnmv.es", "cnmv.es")
+SERVIDORES = ("apiweb.bolsasymercados.es", "www.bolsasymercados.es", "www.cnmv.es", "cnmv.es",
+              "www.portfolio.exchange", "portfolio.exchange")  # Portfolio: solo la página pública del mercado (censo), 2026-10-27
 
 # Servidores cuyo robots.txt se pasa por alto A PROPÓSITO, con el porqué. Decisión de Juan por pantalla el 2026-10-26:
 # apiweb.bolsasymercados.es sirve TODOS los PDF que BME Growth y Scaleup enseñan a cualquier visitante («Ver PDF») y su

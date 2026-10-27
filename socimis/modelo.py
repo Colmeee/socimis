@@ -16,6 +16,7 @@ Niveles de contraste (de más a menos fiable):
 Python 3.9, sin dependencias.
 """
 import json
+import re
 from datetime import date
 
 CONTRASTES = ("oficial", "mercado", "empresa", "derivado", "prensa", "no_consta")
@@ -64,7 +65,7 @@ def ficha_vacia():
                      "domicilio": None, "provincia": None, "web": None, "auditor": None, "asesor_registrado": None,
                      "proveedor_liquidez": None, "fecha_incorporacion": None, "fecha_regimen_socimi": None,
                      "estado_cotizacion": "cotiza", "capitalizacion": None, "cotizacion": None, "fecha_cotizacion": None,
-                     "url_ficha": None},
+                     "url_ficha": None, "regimen_socimi": None},  # regimen_socimi: «SOCIMI en el nombre» o «sin confirmar» (Portfolio y Euronext no publican el régimen)
         "ejercicios": {},          # "2025": {campo: dato}
         "accionistas": [],         # {accionista, tipo, pct_total, pct_directo, pct_indirecto, fecha, fuente, huella, contraste}
         "administradores": [],     # {nombre, cargo, desde, hasta, fuente}: se rellena cuando haya fuente (IAGC / ficha); hoy no se extrae
@@ -112,6 +113,23 @@ def completar_derivados(ficha):
                                   contraste="derivado", unidad="%",
                                   nota="deuda financiera neta / %s" % ("valoración externa (GAV)" if "gav_valoracion" in ej else "inversiones inmobiliarias del balance"))
     return ficha
+
+
+RE_NIF = re.compile(r"^[A-Z][0-9]{7}[0-9A-Z]$")
+RE_ISIN = re.compile(r"^ES[0-9A-Z]{10}$")
+
+
+def clave_valida(texto):
+    """La clave de una ficha: el NIF («A87934741») o, cuando la fuente no lo publica (Portfolio, Euronext), el ISIN («ES0105746004»).
+    Devuelve la forma limpia o None: nunca se nombra un fichero con una clave sin validar."""
+    limpio = re.sub(r"[\s.\-]", "", texto or "").upper()
+    return limpio if RE_NIF.match(limpio) or RE_ISIN.match(limpio) else None
+
+
+def clave(ficha):
+    """NIF si lo hay; si no, ISIN. Es la clave de la base (tabla sociedad y las demás) y el nombre del fichero de la ficha."""
+    s = ficha.get("sociedad", {})
+    return clave_valida(s.get("nif")) or clave_valida(s.get("isin"))
 
 
 def _fecha(ej):

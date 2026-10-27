@@ -264,3 +264,32 @@ class TestRobots(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestClave(unittest.TestCase):
+    def test_nif_o_isin(self):
+        from socimis import modelo
+        self.assertEqual(modelo.clave_valida("a-87.934.741"), "A87934741")
+        self.assertEqual(modelo.clave_valida("ES0105746004"), "ES0105746004")
+        self.assertIsNone(modelo.clave_valida("../x"))
+        self.assertEqual(modelo.clave({"sociedad": {"nif": "A87934741", "isin": "ES0105746004"}}), "A87934741")
+        self.assertEqual(modelo.clave({"sociedad": {"nif": None, "isin": "ES0105746004"}}), "ES0105746004")
+        self.assertIsNone(modelo.clave({"sociedad": {}}))
+
+
+class TestGeo(unittest.TestCase):
+    def test_provincias(self):
+        from socimis import geo
+        casos = {"Avenida de Gasteiz 45, Vitoria": "Álava", "Avenida del Oeste 48, Valencia": "Valencia", "Paseo Heriz 38, San Sebastián": "Gipuzkoa",
+                 "Calle Valencia 23, 28012 Madrid": "Madrid", "Calle Bilbao 3, Madrid": "Madrid", "San Sebastián de los Reyes": "Madrid",
+                 "Nave logística en Illescas (Toledo)": "Toledo", "Hotel en Playa de Palma": "Illes Balears", "Plaza Yamaguchi 12, Pamplona": "Navarra",
+                 "-": None, "28.949.620": None, "": None, None: None, "Oficinas en Lisboa": None,
+                 "Calle Sancho de Ávila nº 32-34": None, "Calle Granada 76, Málaga": "Málaga", "Carrer de València 200, Barcelona": "Barcelona",
+                 "Calle Vitoria Gasteiz 6. Bilbao": "Bizkaia", "Oficinas Castellana 200": "Madrid"}
+        for texto, esperado in casos.items():
+            self.assertEqual(geo.provincia_de_lugar(texto), esperado, texto)
+        self.assertEqual(geo.provincia_de_activo({"nombre": "Edificio Barcelona Sancho de Ávila", "ubicacion": "Calle Sancho de Ávila nº 32-34"}), "Barcelona")
+        self.assertEqual(geo.provincia_de_activo({"nombre": "Apartamentos Málaga Granada 76", "ubicacion": None}), "Málaga")
+        self.assertEqual(geo.comunidad("Álava"), "País Vasco")
+        self.assertEqual(geo.comunidad("Toledo"), "Castilla-La Mancha")
+        self.assertIsNone(geo.comunidad("Lisboa"))

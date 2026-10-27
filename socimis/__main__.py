@@ -8,17 +8,20 @@
   puntuar [NIF|todas]        puntúa las fichas y escribe base/puntuaciones.json y base/informe.md
   vasco [NIF|todas]          calcula el vínculo vasco con los textos de descargas/
   base                       regenera base/socimis.sqlite y base/csv/*.csv desde las fichas
+  portfolio                  censo de Portfolio Stock Exchange (página pública del mercado; sin documentos, están tras login)
+  euronext <listado.json>    censo de Euronext Access París desde el listado leído con navegador (sin fichas ni documentos)
   ocr-pendientes             lista los documentos escaneados que esperan OCR en el Mac
 Variables: SOCIMIS_DIR (raíz de datos; por defecto la carpeta del repositorio), SOCIMIS_SIN_RED=1 (sin internet, pruebas).
 """
 import argparse
 import json
 import os
+import re
 import sys
 from datetime import date
 
 from . import base, cortesia, modelo, puntuacion, red, texto_pdf, vinculo_vasco
-from .fuentes import bme, cnmv
+from .fuentes import bme, cnmv, euronext, portfolio
 from .parsers import avisos, estados, ixbrl
 
 RAIZ = os.environ.get("SOCIMIS_DIR") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -27,11 +30,12 @@ DESCARGAS = os.path.join(RAIZ, "descargas")
 TEXTOS = os.path.join(DESCARGAS, "texto")
 
 
-def _ruta_ficha(nif):
-    if not bme.nif_valido(nif):
-        raise SystemExit("NIF no válido: %r (hace falta la forma A12345678)" % nif)
+def _ruta_ficha(clave):
+    """clave: NIF (A12345678) o, si la fuente no publica el NIF, ISIN (ES0105746004)."""
+    if not modelo.clave_valida(clave):
+        raise SystemExit("Clave no válida: %r (hace falta un NIF A12345678 o un ISIN ES0105746004)" % clave)
     os.makedirs(FICHAS, exist_ok=True)
-    return os.path.join(FICHAS, "%s.json" % bme.nif_valido(nif))
+    return os.path.join(FICHAS, "%s.json" % modelo.clave_valida(clave))
 
 
 def _guardar_texto(nombre, texto):
@@ -72,6 +76,11 @@ def orden_cnmv(args):
     reg = cola.bajar(ultimo["url_consolidada"] or ultimo["url_individual"], nombre, max_bytes=120 * 1024 * 1024)
     print("ESEF: %s (%d bytes, sha256 %s…)" % (reg["fichero"], reg["bytes"], reg["huella"][:12]))
     ej, av = ixbrl.leer_fichero(os.path.join(DESCARGAS, reg["fichero"]))
+    with open(os.path.join(DESCARGAS, reg["fichero"]), encoding="utf-8", errors="replace") as fh:
+        portada = ixbrl.textos(fh.read())
+    if portada.get("domicilio"):
+        ficha["sociedad"]["domicilio"] = portada["domicilio"]
+        ficha["sociedad"]["provincia"] = bme.provincia_de_domicilio(portada["domicilio"])
     for anio, campos in ej.items():
         for campo, h in campos.items():
             modelo.poner(ficha, anio, campo, modelo.dato(h["valor"], reg["url"], fecha=h["fecha"], huella=reg["huella"], consultado=hoy,
@@ -89,6 +98,57 @@ def orden_cnmv(args):
     modelo.completar_derivados(ficha)
     modelo.guardar(ficha, _ruta_ficha(nif))
     print("Ficha: %s" % _ruta_ficha(nif))
+    return 0
+
+
+def _ficha_censo(soc, hoy, fuente, huella, nota):
+    """Ficha de censo (Portfolio, Euronext): la sociedad y un aviso de por qué no hay más; lo demás «no consta»."""
+    clave = modelo.clave({"sociedad": soc})
+    if not clave:
+        return None
+    ficha = modelo.cargar(_ruta_ficha(clave)) if os.path.exists(_ruta_ficha(clave)) else modelo.ficha_vacia()
+    ficha["sociedad"].update({k: v for k, v in soc.items() if v is not None})
+    ficha["sociedad"]["regimen_socimi"] = "SOCIMI en el nombre" if soc.get("socimi_en_nombre") else "sin confirmar"
+    ficha["avisos"] = [a for a in ficha.get("avisos", []) if not a.startswith("censo:")] + ["censo: " + nota]
+    ficha["documentos"] = [d for d in ficha["documentos"] if d.get("tipo") != "censo"] + [
+        {"tipo": "censo", "fecha": hoy, "url": fuente, "huella": huella, "titulo": "Página del mercado de la que sale el censo", "bytes": None, "escaneado": False, "consultado": hoy}]
+    modelo.guardar(ficha, _ruta_ficha(clave))
+    return clave
+
+
+def orden_portfolio(args):
+    """Censo de Portfolio Stock Exchange: una lectura de la página pública del mercado (con pausa y diario); sin documentos
+    (están tras login). Las fichas se guardan por ISIN porque Portfolio no publica el NIF."""
+    hoy = date.today().isoformat()
+    cola = cortesia.Cola(DESCARGAS, hoy=hoy)
+    reg = cola.bajar(portfolio.URL_MERCADO, "portfolio/mercado-%s.html" % hoy, max_bytes=5 * 1024 * 1024)
+    with open(os.path.join(DESCARGAS, reg["fichero"]), encoding="utf-8", errors="replace") as fh:
+        emisores = portfolio.emisores(fh.read())
+    n = 0
+    for e in emisores:
+        if e.get("pais") not in (None, "ES") or re.search(r"\bSCR\b", e.get("nombre") or ""):
+            print("fuera del censo (no es sociedad española de inmuebles): %s" % e.get("nombre"))
+            continue
+        soc = dict(portfolio.sociedad_desde_emisor(e), socimi_en_nombre=e.get("socimi_en_nombre"), fecha_cotizacion=hoy)
+        if _ficha_censo(soc, hoy, reg["url"], reg["huella"], "Portfolio Stock Exchange solo enseña sin login nombre, ISIN, capitalización y precio; los documentos están tras login (2026-10-27)"):
+            n += 1
+    print("Portfolio: %d emisores en la página, %d fichas de censo" % (len(emisores), n))
+    return 0
+
+
+def orden_euronext(args):
+    """Censo de Euronext Access París desde el listado guardado (descargas/euronext/listado-AAAA-MM-DD.json, una lectura con
+    navegador). No recorre fichas ni baja documentos: las condiciones de uso de Euronext lo prohíben sin permiso escrito y
+    la decisión es de Juan (PRD)."""
+    hoy = date.today().isoformat()
+    listado = euronext.cargar_listado(args.listado)
+    n = 0
+    for e in euronext.emisores(listado):
+        soc = dict(euronext.sociedad_desde_emisor(e), socimi_en_nombre=e.get("socimi_en_nombre"))
+        if _ficha_censo(soc, listado.get("consultado") or hoy, listado.get("fuente") or euronext.URL_LISTADO, None,
+                        "Euronext Access París: solo el listado público (nombre recortado, ISIN, símbolo, último precio); fichas y documentos sin recorrer por sus condiciones de uso (2026-10-27)"):
+            n += 1
+    print("Euronext Access París: %d fichas de censo" % n)
     return 0
 
 
@@ -182,7 +242,7 @@ def _volcar(ficha, tipo, texto, reg, doc, hoy):
 def _fichas(cual):
     if cual and cual != "todas":
         return [(cual.upper(), modelo.cargar(_ruta_ficha(cual.upper())))]
-    return [(f["sociedad"].get("nif"), f) for f in base.fichas_de(FICHAS)]
+    return [(modelo.clave(f), f) for f in base.fichas_de(FICHAS)]
 
 
 def orden_puntuar(args):
@@ -255,6 +315,8 @@ def main(argv=None):
     a = sub.add_parser("puntuar"); a.add_argument("cual", nargs="?", default="todas"); a.add_argument("--fecha"); a.set_defaults(fn=orden_puntuar)
     a = sub.add_parser("vasco"); a.add_argument("cual", nargs="?", default="todas"); a.set_defaults(fn=orden_vasco)
     a = sub.add_parser("base"); a.set_defaults(fn=orden_base)
+    a = sub.add_parser("portfolio"); a.set_defaults(fn=orden_portfolio)
+    a = sub.add_parser("euronext"); a.add_argument("listado"); a.set_defaults(fn=orden_euronext)
     a = sub.add_parser("ocr-pendientes"); a.set_defaults(fn=orden_ocr)
     args = p.parse_args(argv)
     if not args.orden:

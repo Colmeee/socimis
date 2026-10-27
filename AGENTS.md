@@ -25,6 +25,9 @@ python3 -m socimis vasco [NIF|todas]             # vínculo vasco de cada ficha 
 python3 -m socimis puntuar [NIF|todas] [--fecha AAAA-MM-DD]   # puntúa -> base/puntuaciones.json, base/informe.md
 python3 -m socimis base                          # regenera base/socimis.sqlite y base/csv/ desde las fichas
 python3 -m socimis ocr-pendientes                # los PDF escaneados que esperan OCR en el Mac
+python3 -m socimis portfolio                     # censo de Portfolio Stock Exchange (página pública; sin documentos)
+python3 -m socimis euronext descargas/euronext/listado-AAAA-MM-DD.json   # censo de Euronext Access desde el listado leído
+python3 herramientas/censo_vasco.py · herramientas/censo_espana.py · herramientas/lista.py   # los tres documentos de docs/
 ```
 
 ## Reglas que no se negocian
@@ -41,7 +44,10 @@ python3 -m socimis ocr-pendientes                # los PDF escaneados que espera
   `cortesia.EXCEPCIONES_ROBOTS` con su porqué y se apunta en cada línea del diario. Ninguna otra excepción sin que él lo decida.
   Nunca `urllib.request.urlopen` suelto: una llamada nueva a la red va por `red.pedir_bytes` con su `limite`. Solo se baja
   de los servidores de `cortesia.SERVIDORES` (lista blanca, https) y a rutas dentro de `descargas/`; el NIF se valida
-  (`fuentes.bme.nif_valido`) antes de nombrar un fichero (auditoría de Cancerbero del 2026-10-26).
+  (`fuentes.bme.nif_valido`) antes de nombrar un fichero (auditoría de Cancerbero del 2026-10-26); desde el 2026-10-27 la clave
+  de una ficha puede ser el ISIN cuando la fuente no publica el NIF (`modelo.clave_valida`).
+  **Euronext (live.euronext.com) no se recorre con herramientas**: sus condiciones de uso lo prohíben sin permiso escrito.
+  Solo está el listado leído una vez (PRD, decisión 7). Si Juan decide otra cosa, se escribe ahí primero.
 - **Nada de red en las pruebas.** `SOCIMIS_SIN_RED=1` cierra `red.py`; `probar.sh` lo comprueba.
 - **Los PDF no suben al repositorio.** Ni los xhtml ESEF ni los textos extraídos: `descargas/` está en `.gitignore`. En la
   base solo va la URL, la huella SHA-256 y la fecha de consulta de cada documento. El único xhtml versionado es el

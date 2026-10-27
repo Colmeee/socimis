@@ -34,6 +34,10 @@ licencia de BME Market Data (decisión futura, no de este PRD).
 - **La nube baja y lee; el Mac hace OCR** de los PDF escaneados (con la OCR de Apple) y guarda la base.
 - **Exportar = llevar código y base al Mac**, por `git pull`, con una orden atada al hash del commit (ver
   `ARCHITECTURE.md`, «La orden de exportación»). Gasto: 0 €; cualquier gasto se pide.
+- **Resto de España (encargo de Juan, 2026-10-27: «ponte a trabajar en el resto de España»)**: el mismo esquema y el mismo
+  motor para todas las cotizadas españolas. Continuo por la CNMV (Merlin, Colonial); Portfolio Stock Exchange y Euronext
+  Access París **solo como censo** (nombre, ISIN, precio) hasta que Juan decida sobre sus condiciones (decisión 7).
+  Censo nacional por provincia del domicilio y de los inmuebles en `docs/CENSO-ESPANA.md`.
 
 ## Funciones de la primera versión
 
@@ -82,7 +86,8 @@ licencia de BME Market Data (decisión futura, no de este PRD).
 ## Fuera de alcance (todavía)
 
 - Registro Mercantil, no cotizadas, BORME.
-- Euronext Access y Portfolio Stock Exchange (68 SOCIMIs): fuentes a estudiar; Portfolio no enseña documentos sin registro.
+- Los **documentos** de Portfolio Stock Exchange (tras login) y de Euronext Access París (condiciones de uso que prohíben
+  el acceso automatizado): las sociedades están censadas, sus tripas no. Ver decisión 7 y la pregunta pendiente.
 - Administradores (hace falta leer el IAGC o la ficha; no se extraen en esta versión).
 - OCR en la nube; venta o publicación de la base; pantalla web; prensa.
 - NAV por acción (no está etiquetado en iXBRL ni en un aviso estándar; se lee a mano cuando haga falta).
@@ -100,3 +105,17 @@ licencia de BME Market Data (decisión futura, no de este PRD).
    (decisión de Juan por pantalla, con las alternativas delante: web corporativa + a mano, pedir permiso a BME, o solo
    CNMV). Razón: son los enlaces «Ver PDF» que BME enseña a cualquier visitante; se bajan uno a uno, con 2 s de pausa y
    solo los cinco por sociedad. Es la única excepción (`cortesia.EXCEPCIONES_ROBOTS`) y cada descarga la lleva apuntada.
+7. 2026-10-27 — **Portfolio Stock Exchange y Euronext Access París entran como censo, sin documentos.** Portfolio: una
+   lectura de la página pública del mercado (32 emisores, sin JavaScript), con pausa y diario; los documentos están tras
+   login y su aviso legal prohíbe reproducir el contenido, así que solo se guardan nombre, ISIN, capitalización y precio con
+   su URL. Euronext: una lectura del listado público con navegador (3.826 valores, 46 españoles en Euronext Access) y una
+   sola ficha abierta para saber qué hay; **no se recorren fichas ni se bajan documentos** porque sus condiciones de uso
+   prohíben, sin permiso escrito, «spiders, robots, agents, tools» y la «systematic retrieval to create … databases», y la
+   información de empresa es de un tercero (Cofisem) que tampoco permite reproducirla. Esto lo decidió la sesión por
+   prudencia, no Juan: **pregunta pendiente para él**, con tres salidas: (a) dejarlo así y, si hace falta una sociedad, ir
+   a su web corporativa; (b) escribir a Euronext pidiendo permiso; (c) pasar por encima, como con el robots de BME (sería la
+   segunda excepción, y esta es de condiciones de uso, no de robots). Mientras, las 46 van con `regimen_socimi` «sin
+   confirmar» cuando el nombre recortado no dice SOCIMI.
+8. 2026-10-27 — **La clave de una ficha es el NIF y, si la fuente no lo publica (Portfolio, Euronext), el ISIN**
+   (`modelo.clave`). La base lleva `clave` como clave primaria en todas las tablas y `nif` como atributo. Lar España, que dejó
+   el Continuo en 2025 y cotiza en BME Scaleup, está una sola vez, por su NIF.
