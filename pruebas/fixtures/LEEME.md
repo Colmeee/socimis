@@ -16,7 +16,7 @@ persona (firmantes, accionistas personas físicas) se ha quitado o sustituido po
 | `aviso-participaciones-ficticio.txt` | Formato literal de un aviso de participaciones significativas de BME Growth | — | Nombres y cifras **inventados** (el original lleva personas físicas) |
 | `cnmv-ifa-merlin.html` | Tabla de «Informes financieros anuales» de la CNMV para el NIF A86977790 | — | Nada (auditores son sociedades) |
 | `cnmv-participaciones-merlin.html` | Cabecera y tabla de «Notificaciones de derechos de voto» de la CNMV para A86977790 | — | La fila de la persona física, sustituida por «PERSONA FISICA FICTICIA, EJEMPLO» |
+| `portfolio-mercado-recortado.html` | Recorte de la página pública del mercado de Portfolio Stock Exchange (cabecera y tres filas: AC Residencial SOCIMI, La Verdosa Private Equity SCR, Libeen Properties), leída el 2026-10-27 | https://www.portfolio.exchange/portfolio-market | 3ba65adad5fa58fa55314ac3a2a14a708dfe73cc08a268d05fb9e539ae21a74e |
 
 Regla: aquí **no entra ningún nombre de persona real**, ninguna cifra inventada que pase por real, ningún PDF.
 Si un lector nuevo necesita otro documento, se recorta igual y se apunta en esta tabla con su huella.
-| `portfolio-mercado-recortado.html` | Recorte de la página pública del mercado de Portfolio Stock Exchange (cabecera y tres filas: AC Residencial SOCIMI, La Verdosa Private Equity SCR, Libeen Properties), leída el 2026-10-27 | https://www.portfolio.exchange/portfolio-market | 3ba65adad5fa58fa55314ac3a2a14a708dfe73cc08a268d05fb9e539ae21a74e |
