@@ -1,27 +1,6 @@
 {
  "accionistas": [],
- "activos": [
-  {
-   "consultado": "2026-10-26",
-   "fecha": "2025-12-31",
-   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf",
-   "huella": "cd8beddef794bc5b893b92b0043c1fec2ef28ab27ac81f13eec2d8802f3b4a7e",
-   "nombre": "CUENTA DE PÉRDIDAS Y GANANCIAS",
-   "ubicacion": "Notas",
-   "valor": 2025.0,
-   "valor_anterior": 2024.0
-  },
-  {
-   "consultado": "2026-10-26",
-   "fecha": "2025-12-31",
-   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf",
-   "huella": "cd8beddef794bc5b893b92b0043c1fec2ef28ab27ac81f13eec2d8802f3b4a7e",
-   "nombre": "CONCEPTO",
-   "ubicacion": "Nota",
-   "valor": 2025.0,
-   "valor_anterior": 2024.0
-  }
- ],
+ "activos": [],
  "administradores": [],
  "avisos": [],
  "documentos": [

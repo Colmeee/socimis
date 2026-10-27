@@ -7754,12 +7754,12 @@
        "puntos": 1.9
       },
       {
-       "detalle": "2 activos con valor publicado",
-       "estado": "parcial",
+       "detalle": "sin lista de activos con valor (no consta)",
+       "estado": "sin datos",
        "etiqueta": "Diversificación",
-       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf",
+       "fuente": null,
        "max": 5,
-       "puntos": 0.6
+       "puntos": null
       },
       {
        "detalle": "6,9 % (3,9 M€ de rentas sobre 56,6 M€)",
@@ -7770,7 +7770,7 @@
        "puntos": 4.0
       }
      ],
-     "puntos": 6.5
+     "puntos": 5.9
     },
     {
      "estado": "parcial",
@@ -7806,7 +7806,7 @@
      "puntos": 6.0
     }
    ],
-   "puntos": 53.5,
+   "puntos": 52.9,
    "tramo": "interesante"
   },
   "hoy": "2026-10-27"
@@ -8922,12 +8922,12 @@
        "puntos": 0.0
       },
       {
-       "detalle": "2 activos con valor publicado",
-       "estado": "parcial",
+       "detalle": "sin lista de activos con valor (no consta)",
+       "estado": "sin datos",
        "etiqueta": "Diversificación",
-       "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf",
+       "fuente": null,
        "max": 5,
-       "puntos": 0.6
+       "puntos": null
       },
       {
        "detalle": "3,9 % (415.279 € de rentas sobre 10,7 M€)",
@@ -8938,7 +8938,7 @@
        "puntos": 1.9
       }
      ],
-     "puntos": 2.5
+     "puntos": 1.9
     },
     {
      "estado": "parcial",
@@ -8974,7 +8974,7 @@
      "puntos": 6.0
     }
    ],
-   "puntos": 29.5,
+   "puntos": 28.9,
    "tramo": "de momento no"
   },
   "hoy": "2026-10-27"

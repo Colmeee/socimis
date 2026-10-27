@@ -4,8 +4,8 @@
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | ALL IRON RE I SOCIMI, S.A | BME Growth | 71.2 | prioritaria | 6/6 | 31,8 % | 3,2 M€ | Ion Ion, S.L. (5,73 %) | fuerte |
 | 2 | GESRENTA BCN SOCIMI, S.A. | BME Scaleup | 58.2 | interesante | 6/6 | 22,6 % | 120.000 € | Don.Narciso López Grau (99,91 %) | ninguno |
-| 3 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | 53.5 | interesante | 5/6 | -7,7 % | 331.106 € | — | ninguno |
-| 4 | AP67 SOCIMI, S.A. | BME Scaleup | 53.3 | interesante | 6/6 | 54,8 % | 1,2 M€ | directo del (95,194 %) | ninguno |
+| 3 | AP67 SOCIMI, S.A. | BME Scaleup | 53.3 | interesante | 6/6 | 54,8 % | 1,2 M€ | directo del (95,194 %) | ninguno |
+| 4 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | 52.9 | interesante | 5/6 | -7,7 % | 331.106 € | — | ninguno |
 | 5 | MERLIN PROPERTIES, SOCIMI, S.A. | Continuo | 51.5 | interesante | 6/6 | 31,4 % | 236,4 M€ | BANCO SANTANDER, S.A. (22,268 %) | ninguno |
 | 6 | SAINT CROIX HOLDING IMMOBILIER, SOCIMI, S.A | BME Scaleup | 50.3 | interesante | 6/6 | 26,94 % | 2,9 M€ | PER 32, S.L. (22,31 %) | ninguno |
 | 7 | VERACRUZ PROPERTIES SOCIMI, S.A. | BME Growth | 50.2 | interesante | 5/6 | -5,3 % | 1,1 M€ | — | ninguno |
@@ -19,7 +19,7 @@
 | 15 | LAR RETAIL | BME Scaleup | 31.2 | de momento no | 4/6 | — | 9,0 M€ | GRUPO LAR INVERSIONES INMOBILIARIAS, S.A. – (69,8176 %) | ninguno |
 | 16 | MASA RENTAL SOCIMI S.A. | BME Scaleup | 31.1 | de momento no | 4/6 | -341,9 % | — | Solway Capital S.L.U. (25,0 %) | ninguno |
 | 17 | JHG DOMUS SOCIMI, S.A. | BME Scaleup | 30.0 | de momento no | 4/6 | 38,5 % | — | — | ninguno |
-| 18 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | 29.5 | de momento no | 4/6 | — | — | LUNA CONFORT S.L. (27,27 %) | ninguno |
+| 18 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | 28.9 | de momento no | 4/6 | — | — | LUNA CONFORT S.L. (27,27 %) | ninguno |
 | 19 | GAVARI PROPERTIES SOCIMI, S.A. | BME Scaleup | 28.2 | de momento no | 4/6 | 45,0 % | — | — | indicio |
 | 20 | MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A. | BME Scaleup | 28.1 | de momento no | 5/6 | 43,8 % | — | Micosquic SA de Capital Variable (14,29 %) | indicio |
 | 21 | MISTRAL IBERIA REAL ESTATE SOCIMI, S.A. | BME Growth | 27.4 | de momento no | 6/6 | 2870,7 % | 2,9 M€ | HFMX Designated Activity Company (25,01 %) | ninguno |
@@ -1143,7 +1143,7 @@
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05392_OtraInfRelev_20260429.pdf
 - ⚠️ cobertura 1 de 6: la puntuación dice poco
 
-### ADVERO PROPERTIES SOCIMI, S.A · 53.5 puntos · interesante · cobertura 5/6
+### ADVERO PROPERTIES SOCIMI, S.A · 52.9 puntos · interesante · cobertura 5/6
 - **Apalancamiento** 17.0/25 (parcial)
   - LTV: 17.0/17, cumplida — LTV -7,7 % (calculado: deuda neta / valor de los inmuebles); 30 % o menos da el máximo, 60 % o más da 0 · fuente: deuda financiera neta / inversiones inmobiliarias del balance
   - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
@@ -1158,9 +1158,9 @@
   - Mayor accionista: —/8, sin datos — sin participaciones significativas publicadas (no consta)
   - Suma de significativos: —/4, sin datos — sin participaciones significativas publicadas (no consta)
   - Persona física detrás: —/3, sin datos — sin participaciones significativas publicadas (no consta)
-- **Activos** 6.5/15 (parcial)
+- **Activos** 5.9/15 (parcial)
   - Tamaño de la cartera: 1.9/6, parcial — inmuebles por 56,6 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
-  - Diversificación: 0.6/5, parcial — 2 activos con valor publicado · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
   - Rentas sobre valor: 4.0/4, cumplida — 6,9 % (3,9 M€ de rentas sobre 56,6 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05448_OtraInfRelev_20260429.pdf
 - **Madurez en el mercado** 6.0/10 (parcial)
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.advero-properties-socimi-s-a-es0105448007.html
@@ -1289,7 +1289,7 @@
   - Publica lo que debe: 3.0/3, cumplida — cuentas anuales recientes: sí; semestral reciente: sí · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05749_OtraInfRelev_20260430.pdf
 - ⚠️ cobertura 2 de 6: la puntuación dice poco
 
-### MICISO REAL ESTATE SOCIMI S.A. · 29.5 puntos · de momento no · cobertura 4/6
+### MICISO REAL ESTATE SOCIMI S.A. · 28.9 puntos · de momento no · cobertura 4/6
 - **Apalancamiento** —/25 (sin datos)
   - LTV: —/17, sin datos — sin deuda ni valor de inmuebles con que calcularlo (no consta)
   - Vencimientos a 2 años: —/8, sin datos — sin tabla de vencimientos de la deuda (no consta)
@@ -1304,9 +1304,9 @@
   - Mayor accionista: 4.0/8, parcial — LUNA CONFORT S.L. con el 27,27 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05707_OtraInfRelev_20260708.pdf
   - Suma de significativos: 4.0/4, cumplida — 5 accionistas ≥ 5 % suman el 95,6 % · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05707_OtraInfRelev_20260708.pdf
   - Persona física detrás: 3/3, cumplida — 5 persona(s) física(s) publicadas como titulares significativos · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/07/05707_OtraInfRelev_20260708.pdf
-- **Activos** 2.5/15 (parcial)
+- **Activos** 1.9/15 (parcial)
   - Tamaño de la cartera: 0.0/6, no cumplida — inmuebles por 10,7 M€ · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
-  - Diversificación: 0.6/5, parcial — 2 activos con valor publicado · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
+  - Diversificación: —/5, sin datos — sin lista de activos con valor (no consta)
   - Rentas sobre valor: 1.9/4, parcial — 3,9 % (415.279 € de rentas sobre 10,7 M€) · fuente: https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf
 - **Madurez en el mercado** 6.0/10 (parcial)
   - Mercado: 3.0/4, parcial — BME Growth · fuente: https://www.bolsasymercados.es/es/bme-growth/cotizaciones-e-indices/empresas-cotizadas/ficha.miciso-real-estate-socimi-s-a-es0105707006.html

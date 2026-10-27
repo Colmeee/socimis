@@ -40,7 +40,7 @@ Provincia del domicilio social (código postal o ciudad del domicilio que public
 
 ## Dónde están los inmuebles
 
-Solo cuentan los inmuebles de la tabla de inversiones inmobiliarias de la memoria con ubicación publicada: **23 inmuebles leídos, 19 con provincia reconocida** por `socimis/geo.py` (gazetteer de provincias, capitales y municipios grandes; lo que falte no se detecta: se amplía el diccionario). El valor es el que publica la sociedad (valor razonable o coste, según su tabla), y solo de las 26 sociedades con balance leído: **no es el mapa del sector, es el mapa de lo leído**.
+Solo cuentan los inmuebles de la tabla de inversiones inmobiliarias de la memoria con ubicación publicada: **19 inmuebles leídos, 19 con provincia reconocida** por `socimis/geo.py` (gazetteer de provincias, capitales y municipios grandes; lo que falte no se detecta: se amplía el diccionario). El valor es el que publica la sociedad (valor razonable o coste, según su tabla), y solo de las 26 sociedades con balance leído: **no es el mapa del sector, es el mapa de lo leído**.
 
 | Provincia | Inmuebles | Valor publicado | Sociedades |
 |---|---|---|---|
@@ -62,8 +62,8 @@ Solo cuentan los inmuebles de la tabla de inversiones inmobiliarias de la memori
 |---|---|---|---|---|---|
 | ALL IRON RE I SOCIMI, S.A | BME Growth | Madrid | 71.2 | prioritaria | 6/6 |
 | GESRENTA BCN SOCIMI, S.A. | BME Scaleup | Barcelona | 58.2 | interesante | 6/6 |
-| ADVERO PROPERTIES SOCIMI, S.A | BME Growth | Barcelona | 53.5 | interesante | 5/6 |
 | AP67 SOCIMI, S.A. | BME Scaleup | Madrid | 53.3 | interesante | 6/6 |
+| ADVERO PROPERTIES SOCIMI, S.A | BME Growth | Barcelona | 52.9 | interesante | 5/6 |
 | MERLIN PROPERTIES, SOCIMI, S.A. | Continuo | Madrid | 51.5 | interesante | 6/6 |
 | SAINT CROIX HOLDING IMMOBILIER, SOCIMI, S.A | BME Scaleup | Madrid | 50.3 | interesante | 6/6 |
 | VERACRUZ PROPERTIES SOCIMI, S.A. | BME Growth | Valencia | 50.2 | interesante | 5/6 |

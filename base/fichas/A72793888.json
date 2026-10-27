@@ -141,28 +141,7 @@
    "tipo": "fisica"
   }
  ],
- "activos": [
-  {
-   "consultado": "2026-10-26",
-   "fecha": "2025-12-31",
-   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf",
-   "huella": "2cb0a4cd98b010970d166d7895a9913622297cc2aa49a74cba7095f21c53fcd6",
-   "nombre": "CUENTA DE PÉRDIDAS Y GANANCIAS",
-   "ubicacion": "Notas",
-   "valor": 2025.0,
-   "valor_anterior": 2024.0
-  },
-  {
-   "consultado": "2026-10-26",
-   "fecha": "2025-12-31",
-   "fuente": "https://apiweb.bolsasymercados.es/Market/MTFDocuments/OtraInfRelevante/2026/04/05707_OtraInfRelev_20260420.pdf",
-   "huella": "2cb0a4cd98b010970d166d7895a9913622297cc2aa49a74cba7095f21c53fcd6",
-   "nombre": "ESTADOS DE FLUJO DE EFECTIVO",
-   "ubicacion": "Notas",
-   "valor": 2025.0,
-   "valor_anterior": 2024.0
-  }
- ],
+ "activos": [],
  "administradores": [],
  "avisos": [
   "cuentas 2025: no encontrado: deuda_entidades_lp",

@@ -6,8 +6,8 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | ALL IRON RE I SOCIMI, S.A | BME Growth | Madrid | A87934741 | 71.2 | prioritaria | fuerte | no | 363 M€ | 5 | SOCIMI en el nombre |
 | 2 | GESRENTA BCN SOCIMI, S.A. | BME Scaleup | Barcelona | A59095901 | 58.2 | interesante | ninguno | no | 5 M€ | 3 | SOCIMI en el nombre |
-| 3 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | Barcelona | A67077628 | 53.5 | interesante | ninguno | no | 57 M€ | 5 | SOCIMI en el nombre |
-| 4 | AP67 SOCIMI, S.A. | BME Scaleup | Madrid | A82953092 | 53.3 | interesante | ninguno | no | 55 M€ | 5 | SOCIMI en el nombre |
+| 3 | AP67 SOCIMI, S.A. | BME Scaleup | Madrid | A82953092 | 53.3 | interesante | ninguno | no | 55 M€ | 5 | SOCIMI en el nombre |
+| 4 | ADVERO PROPERTIES SOCIMI, S.A | BME Growth | Barcelona | A67077628 | 52.9 | interesante | ninguno | no | 57 M€ | 5 | SOCIMI en el nombre |
 | 5 | MERLIN PROPERTIES, SOCIMI, S.A. | Continuo | Madrid | A86977790 | 51.5 | interesante | ninguno | no | 11984 M€ | 1 | SOCIMI en el nombre |
 | 6 | SAINT CROIX HOLDING IMMOBILIER, SOCIMI, S.A | BME Scaleup | Madrid | A87093902 | 50.3 | interesante | ninguno | no | 551 M€ | 3 | SOCIMI en el nombre |
 | 7 | VERACRUZ PROPERTIES SOCIMI, S.A. | BME Growth | Valencia | A12936340 | 50.2 | interesante | ninguno | no | 91 M€ | 5 | SOCIMI en el nombre |
@@ -21,7 +21,7 @@
 | 15 | LAR RETAIL | BME Scaleup | Madrid | A83713792 | 31.2 | de momento no | ninguno | no | — | 3 | sin confirmar |
 | 16 | MASA RENTAL SOCIMI S.A. | BME Scaleup | Madrid | A75576249 | 31.1 | de momento no | ninguno | no | -1 M€ | 2 | SOCIMI en el nombre |
 | 17 | JHG DOMUS SOCIMI, S.A. | BME Scaleup | Madrid | A75536185 | 30.0 | de momento no | ninguno | no | 7 M€ | 3 | SOCIMI en el nombre |
-| 18 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | Madrid | A72793888 | 29.5 | de momento no | ninguno | no | 11 M€ | 3 | SOCIMI en el nombre |
+| 18 | MICISO REAL ESTATE SOCIMI S.A. | BME Growth | Madrid | A72793888 | 28.9 | de momento no | ninguno | no | 11 M€ | 3 | SOCIMI en el nombre |
 | 19 | GAVARI PROPERTIES SOCIMI, S.A. | BME Scaleup | Madrid | A88146592 | 28.2 | de momento no | indicio | no | 29 M€ | 3 | SOCIMI en el nombre |
 | 20 | MISTRAL IBERIA REAL ESTATE SOCIMI II, S.A. | BME Scaleup | Madrid | A02926590 | 28.1 | de momento no | indicio | no | 7 M€ | 4 | SOCIMI en el nombre |
 | 21 | MISTRAL IBERIA REAL ESTATE SOCIMI, S.A. | BME Growth | Madrid | A88000807 | 27.4 | de momento no | ninguno | no | 0 M€ | 5 | SOCIMI en el nombre |
